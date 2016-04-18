@@ -1,0 +1,74 @@
+{
+  "elements": [
+    {
+      "type": "plant",
+      "path": "aurigold_plant.json",
+      "enabled": true
+    },
+    {
+      "type": "plant",
+      "path": "ferranium_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "plant",
+      "path": "diamahlia_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "plant",
+      "path": "lapender_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "plant",
+      "path": "emeryllis_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "plant",
+      "path": "redstodendron_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "plant",
+      "path": "quartzanthemum_plant.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "aurigold_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "ferranium_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "diamahlia_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "lapender_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "emeryllis_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "redstodendron_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "quartzanthemum_mutation.json",
+      "enabled": false
+    }
+  ]
+}

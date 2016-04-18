@@ -1,0 +1,13 @@
+{
+  "chance": 250,
+  "child": "pumpkin_plant",
+  "parent1": "carrot_plant",
+  "parent2": "potato_plant",
+  "requirement": {
+    "min_light": 0,
+    "max_light": 10,
+    "soils": [],
+    "bases": [],
+    "nearby": {}
+  }
+}

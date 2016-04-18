@@ -1,0 +1,43 @@
+{
+  "name": "Aurigold",
+  "id": "aurigold_plant",
+  "description": "A golden delight.",
+  "bonemeal": false,
+  "growth_chance": 800,
+  "products": {
+    "products": [
+      {
+        "item": "minecraft:gold_nugget",
+        "meta": 0,
+        "base": 1,
+        "range": 1,
+        "chance": 800
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "minecraft:farmland"
+    ],
+    "bases": [
+      "minecraft:gold_ore"
+    ],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seedAurigold",
+    "plant_textures": [
+      "agricraft:blocks/cropAurigold1",
+      "agricraft:blocks/cropAurigold1",
+      "agricraft:blocks/cropAurigold2",
+      "agricraft:blocks/cropAurigold2",
+      "agricraft:blocks/cropAurigold2",
+      "agricraft:blocks/cropAurigold3",
+      "agricraft:blocks/cropAurigold3",
+      "agricraft:blocks/cropAurigold4"
+    ]
+  }
+}
