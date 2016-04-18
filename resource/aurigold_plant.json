@@ -3,6 +3,7 @@
   "id": "aurigold_plant",
   "description": "A golden delight.",
   "bonemeal": false,
+  "tier": 1,
   "growth_chance": 800,
   "products": {
     "products": [

@@ -8,12 +8,12 @@
     {
       "type": "plant",
       "path": "ferranium_plant.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "plant",
       "path": "diamahlia_plant.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "plant",

@@ -3,6 +3,7 @@
   "id": "melon_plant",
   "description": "An annoying plant.",
   "bonemeal": true,
+  "tier": 1,
   "growth_chance": 650,
   "products": {
     "products": [

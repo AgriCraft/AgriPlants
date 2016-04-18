@@ -3,6 +3,7 @@
   "id": "pumpkin_plant",
   "description": "An annoying plant.",
   "bonemeal": true,
+  "tier": 1,
   "growth_chance": 750,
   "products": {
     "products": [
