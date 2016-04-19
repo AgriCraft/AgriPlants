@@ -1,7 +1,7 @@
 {
   "name": "Melon",
   "id": "melon_plant",
-  "description": "An annoying plant.",
+  "description": "Sweet & Juicy.",
   "bonemeal": true,
   "tier": 1,
   "growth_chance": 650,

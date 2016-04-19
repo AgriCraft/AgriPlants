@@ -1,17 +1,18 @@
 {
-  "name": "Weed",
-  "id": "weed_plant",
-  "description": "An annoying plant.",
-  "bonemeal": true,
+  "name": "Lapender",
+  "id": "lapender_plant",
+  "description": "A regal plant.",
+  "bonemeal": false,
+  "tier": 1,
   "growth_chance": 900,
   "products": {
     "products": [
       {
-        "item": "minecraft:wheat",
+        "item": "minecraft:dye:4",
         "meta": 0,
-        "base": 5,
-        "range": 5,
-        "chance": 1000
+        "base": 1,
+        "range": 4,
+        "chance": 900
       }
     ]
   },
@@ -24,16 +25,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:items/seeds_wheat",
+    "seed_texture": "agricraft:items/seedLapender",
     "plant_textures": [
-      "minecraft:blocks/wheat_stage_0",
-      "minecraft:blocks/wheat_stage_1",
-      "minecraft:blocks/wheat_stage_2",
-      "minecraft:blocks/wheat_stage_3",
-      "minecraft:blocks/wheat_stage_4",
-      "minecraft:blocks/wheat_stage_5",
-      "minecraft:blocks/wheat_stage_6",
-      "minecraft:blocks/wheat_stage_7"
+      "agricraft:blocks/cropLapender1",
+      "agricraft:blocks/cropLapender1",
+      "agricraft:blocks/cropLapender1",
+      "agricraft:blocks/cropLapender2",
+      "agricraft:blocks/cropLapender2",
+      "agricraft:blocks/cropLapender3",
+      "agricraft:blocks/cropLapender3",
+      "agricraft:blocks/cropLapender4"
     ]
   }
 }

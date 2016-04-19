@@ -18,22 +18,27 @@
     {
       "type": "plant",
       "path": "lapender_plant.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "plant",
       "path": "emeryllis_plant.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "plant",
       "path": "redstodendron_plant.json",
-      "enabled": false
+      "enabled": true
+    },
+    {
+      "type": "plant",
+      "path": "nitorwart_plant.json",
+      "enabled": true
     },
     {
       "type": "plant",
       "path": "quartzanthemum_plant.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
@@ -63,6 +68,11 @@
     {
       "type": "mutation",
       "path": "redstodendron_mutation.json",
+      "enabled": false
+    },
+    {
+      "type": "mutation",
+      "path": "nitorwart_mutation.json",
       "enabled": false
     },
     {

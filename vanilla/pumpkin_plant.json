@@ -1,7 +1,7 @@
 {
   "name": "Pumpkin",
   "id": "pumpkin_plant",
-  "description": "An annoying plant.",
+  "description": "If I eat enough of these will I turn orange?",
   "bonemeal": true,
   "tier": 1,
   "growth_chance": 750,
