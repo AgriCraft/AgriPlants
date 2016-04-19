@@ -1,7 +1,7 @@
 {
-  "chance": 0,
-  "child": "carrot_plant",
-  "parent1": "wheat_plant",
+  "chance": 100,
+  "child": "lapender_plant",
+  "parent1": "ferranium_plant",
   "parent2": "potato_plant",
   "requirement": {
     "min_light": 10,

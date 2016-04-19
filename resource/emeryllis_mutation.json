@@ -1,8 +1,8 @@
 {
-  "chance": 0,
-  "child": "carrot_plant",
-  "parent1": "wheat_plant",
-  "parent2": "potato_plant",
+  "chance": 100,
+  "child": "emeryllis_plant",
+  "parent1": "aurigold_plant",
+  "parent2": "quartzanthemum_plant",
   "requirement": {
     "min_light": 10,
     "max_light": 16,

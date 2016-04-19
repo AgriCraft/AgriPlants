@@ -43,42 +43,42 @@
     {
       "type": "mutation",
       "path": "aurigold_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "ferranium_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "diamahlia_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "lapender_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "emeryllis_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "redstodendron_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "nitorwart_mutation.json",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "mutation",
       "path": "quartzanthemum_mutation.json",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
