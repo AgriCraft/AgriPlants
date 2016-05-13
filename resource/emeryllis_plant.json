@@ -2,9 +2,9 @@
   "name": "Emeryllis",
   "id": "emeryllis_plant",
   "description": "A truely green gem.",
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 0,
         "range": 2,
-        "chance": 800
+        "chance": 0.8
       }
     ]
   },

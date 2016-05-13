@@ -1,10 +1,10 @@
 {
   "name": "Melon",
   "id": "melon_plant",
-  "description": "Sweet & Juicy.",
+  "description": "Sweet \u0026 Juicy.",
+  "growth_chance": 0.65,
   "bonemeal": true,
   "tier": 1,
-  "growth_chance": 650,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 4,
         "range": 6,
-        "chance": 1000
+        "chance": 1.0
       }
     ]
   },

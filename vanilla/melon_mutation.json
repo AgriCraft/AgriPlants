@@ -1,5 +1,5 @@
 {
-  "chance": 250,
+  "chance": 0.25,
   "child": "melon_plant",
   "parent1": "wheat_plant",
   "parent2": "pumpkin_plant",

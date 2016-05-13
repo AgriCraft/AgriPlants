@@ -2,9 +2,9 @@
   "name": "Carrot",
   "id": "carrot_plant",
   "description": "Rabbit attractant.",
+  "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 5,
         "range": 5,
-        "chance": 1000
+        "chance": 1.0
       }
     ]
   },

@@ -2,9 +2,9 @@
   "name": "Nitor Wart",
   "id": "nitorwart_plant",
   "description": "It sure seems to like to glow.",
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 4,
-        "chance": 900
+        "chance": 0.9
       }
     ]
   },

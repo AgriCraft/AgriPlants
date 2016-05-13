@@ -2,9 +2,9 @@
   "name": "Diamahlia",
   "id": "diamahlia_plant",
   "description": "A rarity by any measure.",
+  "growth_chance": 0.75,
   "bonemeal": true,
   "tier": 1,
-  "growth_chance": 750,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 1,
-        "chance": 750
+        "chance": 0.75
       }
     ]
   },

@@ -2,9 +2,9 @@
   "name": "Wheat",
   "id": "wheat_plant",
   "description": "The cornerstone of the Agriculutural Revolution.",
+  "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 3,
-        "chance": 950
+        "chance": 0.95
       }
     ]
   },

@@ -26,6 +26,26 @@
       "enabled": true
     },
     {
+      "type": "plant",
+      "path": "cactus_plant.json",
+      "enabled": true
+    },
+    {
+      "type": "plant",
+      "path": "sugarcane_plant.json",
+      "enabled": true
+    },
+    {
+      "type": "plant",
+      "path": "brownshroom_plant.json",
+      "enabled": true
+    },
+    {
+      "type": "plant",
+      "path": "redshroom_plant.json",
+      "enabled": true
+    },
+    {
       "type": "mutation",
       "path": "carrot_mutation.json",
       "enabled": true

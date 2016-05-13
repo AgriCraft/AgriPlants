@@ -2,9 +2,9 @@
   "name": "Ferranium",
   "id": "ferranium_plant",
   "description": "A strong plant.",
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 3,
-        "chance": 950
+        "chance": 0.95
       }
     ]
   },

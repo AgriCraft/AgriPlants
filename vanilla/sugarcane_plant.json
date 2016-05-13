@@ -1,0 +1,42 @@
+{
+  "name": "Sugarcane",
+  "id": "sugarcane_plant",
+  "description": "A good source of sugar.",
+  "growth_chance": 0.9,
+  "bonemeal": true,
+  "tier": 1,
+  "products": {
+    "products": [
+      {
+        "item": "minecraft:reeds",
+        "meta": 0,
+        "base": 0,
+        "range": 5,
+        "chance": 1000.0
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "minecraft:sand"
+    ],
+    "bases": [],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seedSugarcane",
+    "plant_textures": [
+      "agricraft:blocks/cropSugarcane1",
+      "agricraft:blocks/cropSugarcane1",
+      "agricraft:blocks/cropSugarcane1",
+      "agricraft:blocks/cropSugarcane2",
+      "agricraft:blocks/cropSugarcane2",
+      "agricraft:blocks/cropSugarcane3",
+      "agricraft:blocks/cropSugarcane3",
+      "agricraft:blocks/cropSugarcane4"
+    ]
+  }
+}

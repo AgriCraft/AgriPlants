@@ -2,9 +2,9 @@
   "name": "Redstodendron",
   "id": "redstodendron_plant",
   "description": "Much more complex than the average red algea.",
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 5,
-        "chance": 900
+        "chance": 0.9
       }
     ]
   },

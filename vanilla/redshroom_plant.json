@@ -1,0 +1,40 @@
+{
+  "name": "Red Mushroom",
+  "id": "redshroom_plant",
+  "description": "Badger, badger, badger.",
+  "growth_chance": 0.9,
+  "bonemeal": true,
+  "tier": 1,
+  "products": {
+    "products": [
+      {
+        "item": "minecraft:red_mushroom",
+        "meta": 0,
+        "base": 2,
+        "range": 5,
+        "chance": 1.0
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 0,
+    "max_light": 10,
+    "soils": [],
+    "bases": [],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seedShroomRed",
+    "plant_textures": [
+      "agricraft:blocks/cropShroomRed1",
+      "agricraft:blocks/cropShroomRed1",
+      "agricraft:blocks/cropShroomRed1",
+      "agricraft:blocks/cropShroomRed2",
+      "agricraft:blocks/cropShroomRed2",
+      "agricraft:blocks/cropShroomRed3",
+      "agricraft:blocks/cropShroomRed3",
+      "agricraft:blocks/cropShroomRed4"
+    ]
+  }
+}

@@ -2,9 +2,9 @@
   "name": "Aurigold",
   "id": "aurigold_plant",
   "description": "A golden delight.",
+  "growth_chance": 0.8,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 800,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 1,
-        "chance": 800
+        "chance": 0.8
       }
     ]
   },

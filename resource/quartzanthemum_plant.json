@@ -2,9 +2,9 @@
   "name": "Quartzanthemum",
   "id": "quartzanthemum_plant",
   "description": "A suprisingly crystalline plant.",
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,7 +12,7 @@
         "meta": 0,
         "base": 1,
         "range": 5,
-        "chance": 875
+        "chance": 0.875
       }
     ]
   },

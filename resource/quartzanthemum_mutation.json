@@ -1,5 +1,5 @@
 {
-  "chance": 100,
+  "chance": 0.5,
   "child": "quartzanthemum_plant",
   "parent1": "redstondendron_plant",
   "parent2": "nitorwart_plant",

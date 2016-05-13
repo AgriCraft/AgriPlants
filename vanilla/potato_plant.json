@@ -2,9 +2,9 @@
   "name": "Potato",
   "id": "potato_plant",
   "description": "Po-ta-toes! Boil them, mash them, stick them in a stew.",
+  "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,
-  "growth_chance": 900,
   "products": {
     "products": [
       {
@@ -12,14 +12,14 @@
         "meta": 0,
         "base": 1,
         "range": 4,
-        "chance": 950
+        "chance": 0.95
       },
       {
         "item": "minecraft:poisonous_potato",
         "meta": 0,
         "base": 1,
         "range": 2,
-        "chance": 150
+        "chance": 0.15
       }
     ]
   },
