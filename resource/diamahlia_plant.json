@@ -12,7 +12,8 @@
         "meta": 0,
         "base": 1,
         "range": 1,
-        "chance": 0.75
+        "chance": 0.75,
+        "required": true
       }
     ]
   },

@@ -12,14 +12,16 @@
         "meta": 0,
         "base": 1,
         "range": 4,
-        "chance": 0.95
+        "chance": 0.95,
+        "required": true
       },
       {
         "item": "minecraft:poisonous_potato",
         "meta": 0,
         "base": 1,
         "range": 2,
-        "chance": 0.15
+        "chance": 0.15,
+        "required": true
       }
     ]
   },
