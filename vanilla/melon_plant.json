@@ -1,7 +1,10 @@
 {
   "name": "Melon",
   "id": "melon_plant",
-  "description": "Sweet \u0026 Juicy.",
+  "description": {
+    "translations": {},
+    "default": "Sweet \u0026 Juicy."
+  },
   "growth_chance": 0.65,
   "bonemeal": true,
   "tier": 1,

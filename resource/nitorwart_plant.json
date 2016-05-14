@@ -1,7 +1,10 @@
 {
   "name": "Nitor Wart",
   "id": "nitorwart_plant",
-  "description": "It sure seems to like to glow.",
+  "description": {
+    "translations": {},
+    "default": "It sure seems to like to glow."
+  },
   "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,

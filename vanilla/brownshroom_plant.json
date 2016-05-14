@@ -1,7 +1,10 @@
 {
   "name": "Brown Mushroom",
   "id": "brownshroom_plant",
-  "description": "A simple decomposer.",
+  "description": {
+    "translations": {},
+    "default": "A simple decomposer."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

@@ -1,7 +1,10 @@
 {
   "name": "Emeryllis",
   "id": "emeryllis_plant",
-  "description": "A truely green gem.",
+  "description": {
+    "translations": {},
+    "default": "A truely green gem."
+  },
   "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,

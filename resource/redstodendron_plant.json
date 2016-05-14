@@ -1,7 +1,10 @@
 {
   "name": "Redstodendron",
   "id": "redstodendron_plant",
-  "description": "Much more complex than the average red algea.",
+  "description": {
+    "translations": {},
+    "default": "Much more complex than the average red algea."
+  },
   "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,

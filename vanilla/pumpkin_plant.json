@@ -1,7 +1,10 @@
 {
   "name": "Pumpkin",
   "id": "pumpkin_plant",
-  "description": "If I eat enough of these will I turn orange?",
+  "description": {
+    "translations": {},
+    "default": "If I eat enough of these will I turn orange?"
+  },
   "growth_chance": 0.75,
   "bonemeal": true,
   "tier": 1,

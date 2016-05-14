@@ -1,7 +1,10 @@
 {
   "name": "Quartzanthemum",
   "id": "quartzanthemum_plant",
-  "description": "A suprisingly crystalline plant.",
+  "description": {
+    "translations": {},
+    "default": "A suprisingly crystalline plant."
+  },
   "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,

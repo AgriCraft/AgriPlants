@@ -1,7 +1,10 @@
 {
   "name": "Wheat",
   "id": "wheat_plant",
-  "description": "The cornerstone of the Agriculutural Revolution.",
+  "description": {
+    "translations": {},
+    "default": "The cornerstone of the Agriculutural Revolution."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

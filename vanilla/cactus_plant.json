@@ -1,7 +1,10 @@
 {
   "name": "Cactus",
   "id": "cactus_plant",
-  "description": "An very prickly plant.",
+  "description": {
+    "translations": {},
+    "default": "A very prickly plant."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

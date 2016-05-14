@@ -1,7 +1,10 @@
 {
   "name": "Aurigold",
   "id": "aurigold_plant",
-  "description": "A golden delight.",
+  "description": {
+    "translations": {},
+    "default": "A golden delight."
+  },
   "growth_chance": 0.8,
   "bonemeal": false,
   "tier": 1,

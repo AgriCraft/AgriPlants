@@ -1,7 +1,10 @@
 {
   "name": "Ferranium",
   "id": "ferranium_plant",
-  "description": "A strong plant.",
+  "description": {
+    "translations": {},
+    "default": "A strong plant."
+  },
   "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,

@@ -1,7 +1,10 @@
 {
   "name": "Lapender",
   "id": "lapender_plant",
-  "description": "A regal plant.",
+  "description": {
+    "translations": {},
+    "default": "A regal plant."
+  },
   "growth_chance": 900.0,
   "bonemeal": false,
   "tier": 1,

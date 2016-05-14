@@ -1,7 +1,10 @@
 {
   "name": "Diamahlia",
   "id": "diamahlia_plant",
-  "description": "A rarity by any measure.",
+  "description": {
+    "translations": {},
+    "default": "A rarity by any measure."
+  },
   "growth_chance": 0.75,
   "bonemeal": true,
   "tier": 1,

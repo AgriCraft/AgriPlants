@@ -1,7 +1,10 @@
 {
   "name": "Carrot",
   "id": "carrot_plant",
-  "description": "Rabbit attractant.",
+  "description": {
+    "translations": {},
+    "default": "Rabbit attractant."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

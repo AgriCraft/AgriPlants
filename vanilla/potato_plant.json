@@ -1,7 +1,10 @@
 {
   "name": "Potato",
   "id": "potato_plant",
-  "description": "Po-ta-toes! Boil them, mash them, stick them in a stew.",
+  "description": {
+    "translations": {},
+    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

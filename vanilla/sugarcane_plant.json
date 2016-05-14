@@ -1,7 +1,13 @@
 {
   "name": "Sugarcane",
   "id": "sugarcane_plant",
-  "description": "A good source of sugar.",
+  "description": {
+    "translations": {
+      "en_US": "High in fructose, a healthy part of your daily breakfast.",
+      "es_ES": "Mucho azucar."
+    },
+    "default": "A good source of sugar."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,

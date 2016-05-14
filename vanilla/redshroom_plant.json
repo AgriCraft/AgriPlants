@@ -1,7 +1,12 @@
 {
   "name": "Red Mushroom",
   "id": "redshroom_plant",
-  "description": "Badger, badger, badger.",
+  "description": {
+    "translations": {
+      "en_US": "Shrooms, ever so trippy."
+    },
+    "default": "Badger, badger, badger."
+  },
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,
