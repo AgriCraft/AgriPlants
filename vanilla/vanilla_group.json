@@ -1,11 +1,6 @@
 {
   "elements": [
     {
-      "type": "item",
-      "path": "iron_nugget.json",
-      "enabled": true
-    },
-    {
       "type": "plant",
       "path": "wheat_plant.json",
       "enabled": true
