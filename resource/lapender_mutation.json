@@ -2,12 +2,5 @@
   "chance": 0.25,
   "child": "lapender_plant",
   "parent1": "ferranium_plant",
-  "parent2": "potato_plant",
-  "requirement": {
-    "min_light": 10,
-    "max_light": 16,
-    "soils": [],
-    "bases": [],
-    "nearby": {}
-  }
+  "parent2": "potato_plant"
 }

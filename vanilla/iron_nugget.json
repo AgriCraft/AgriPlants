@@ -1,0 +1,10 @@
+{
+  "id": "iron_nugget",
+  "name": {
+    "translations": {
+      "en_US": "Iron Nugget"
+    },
+    "default": "Iron Nugget"
+  },
+  "texture": "agricraft:items/debugger"
+}

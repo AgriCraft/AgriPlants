@@ -2,12 +2,5 @@
   "chance": 1.0,
   "child": "emeryllis_plant",
   "parent1": "aurigold_plant",
-  "parent2": "quartzanthemum_plant",
-  "requirement": {
-    "min_light": 10,
-    "max_light": 16,
-    "soils": [],
-    "bases": [],
-    "nearby": {}
-  }
+  "parent2": "quartzanthemum_plant"
 }
