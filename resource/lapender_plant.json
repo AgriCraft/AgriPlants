@@ -11,8 +11,8 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:dye:4",
-        "meta": 0,
+        "item": "minecraft:dye",
+        "meta": 4,
         "base": 1,
         "range": 4,
         "chance": 900.0,
