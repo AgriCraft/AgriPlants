@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/potato_plant.json",
-  "name": "Potato",
   "id": "potato_plant",
+  "plant_name": "Potato",
+  "seed_name": "Potato Seeds",
   "description": {
     "translations": {},
     "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."

@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/pumpkin_plant.json",
-  "name": "Pumpkin",
   "id": "pumpkin_plant",
+  "plant_name": "Pumpkin",
+  "seed_name": "Pumpkin Seeds",
   "description": {
     "translations": {},
     "default": "If I eat enough of these will I turn orange?"

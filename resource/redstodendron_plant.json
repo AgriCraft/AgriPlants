@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/redstodendron_plant.json",
-  "name": "Redstodendron",
   "id": "redstodendron_plant",
+  "plant_name": "Redstodendron",
+  "seed_name": "Red Seeds",
   "description": {
     "translations": {},
     "default": "Much more complex than the average red algea."

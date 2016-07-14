@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/cactus_plant.json",
-  "name": "Cactus",
   "id": "cactus_plant",
+  "plant_name": "Cactus",
+  "seed_name": "Cactus Seeds",
   "description": {
     "translations": {},
     "default": "A very prickly plant."

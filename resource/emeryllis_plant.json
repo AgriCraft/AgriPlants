@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/emeryllis_plant.json",
-  "name": "Emeryllis",
   "id": "emeryllis_plant",
+  "plant_name": "Emeryllis",
+  "seed_name": "Emeryllis Seeds",
   "description": {
     "translations": {},
     "default": "A truely green gem."

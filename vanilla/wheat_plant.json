@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/wheat_plant.json",
-  "name": "Wheat",
   "id": "wheat_plant",
+  "plant_name": "Wheat",
+  "seed_name": "Wheat Seeds",
   "description": {
     "translations": {},
     "default": "The cornerstone of the Agriculutural Revolution."

@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/diamahlia_plant.json",
-  "name": "Diamahlia",
   "id": "diamahlia_plant",
+  "plant_name": "Diamahlia",
+  "seed_name": "Diamahlia Seeds",
   "description": {
     "translations": {},
     "default": "A rarity by any measure."

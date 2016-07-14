@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/ferranium_plant.json",
-  "name": "Ferranium",
   "id": "ferranium_plant",
+  "plant_name": "Ferranium",
+  "seed_name": "Ferranum Seeds",
   "description": {
     "translations": {},
     "default": "A strong plant."

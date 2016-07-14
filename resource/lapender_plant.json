@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/lapender_plant.json",
-  "name": "Lapender",
   "id": "lapender_plant",
+  "plant_name": "Lapender",
+  "seed_name": "Lapender Seeds",
   "description": {
     "translations": {},
     "default": "A regal plant."

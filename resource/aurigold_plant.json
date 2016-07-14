@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/aurigold_plant.json",
-  "name": "Aurigold",
   "id": "aurigold_plant",
+  "plant_name": "Aurigold",
+  "seed_name": "Aurigold Seeds",
   "description": {
     "translations": {},
     "default": "A golden delight."

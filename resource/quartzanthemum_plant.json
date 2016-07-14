@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "resource/quartzanthemum_plant.json",
-  "name": "Quartzanthemum",
   "id": "quartzanthemum_plant",
+  "plant_name": "Quartzanthemum",
+  "seed_name": "Crystalline Seeds",
   "description": {
     "translations": {},
     "default": "A suprisingly crystalline plant."

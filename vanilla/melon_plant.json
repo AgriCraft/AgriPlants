@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/melon_plant.json",
-  "name": "Melon",
   "id": "melon_plant",
+  "plant_name": "Melon",
+  "seed_name": "Melon Seeds",
   "description": {
     "translations": {},
     "default": "Sweet \u0026 Juicy."

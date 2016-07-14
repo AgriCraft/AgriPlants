@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/carrot_plant.json",
-  "name": "Carrot",
   "id": "carrot_plant",
+  "plant_name": "Carrot",
+  "seed_name": "Carrot Seeds",
   "description": {
     "translations": {},
     "default": "Rabbit attractant."

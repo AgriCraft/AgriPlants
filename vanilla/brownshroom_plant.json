@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "path": "vanilla/brownshroom_plant.json",
-  "name": "Brown Mushroom",
   "id": "brownshroom_plant",
+  "plant_name": "Brown Mushroom",
+  "seed_name": "Brown Mushroom Spores",
   "description": {
     "translations": {},
     "default": "A simple decomposer."
