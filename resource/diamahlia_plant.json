@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/diamahlia_plant.json",
   "name": "Diamahlia",
   "id": "diamahlia_plant",
   "description": {

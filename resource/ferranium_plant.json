@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/ferranium_plant.json",
   "name": "Ferranium",
   "id": "ferranium_plant",
   "description": {

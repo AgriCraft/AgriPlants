@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/emeryllis_plant.json",
   "name": "Emeryllis",
   "id": "emeryllis_plant",
   "description": {

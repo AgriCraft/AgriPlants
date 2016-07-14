@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "vanilla/redshroom_plant.json",
   "name": "Red Mushroom",
   "id": "redshroom_plant",
   "description": {

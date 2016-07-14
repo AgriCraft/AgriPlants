@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/lapender_plant.json",
   "name": "Lapender",
   "id": "lapender_plant",
   "description": {

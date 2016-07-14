@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/aurigold_plant.json",
   "name": "Aurigold",
   "id": "aurigold_plant",
   "description": {

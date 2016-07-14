@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/quartzanthemum_plant.json",
   "name": "Quartzanthemum",
   "id": "quartzanthemum_plant",
   "description": {

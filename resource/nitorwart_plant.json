@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/nitorwart_plant.json",
   "name": "Nitor Wart",
   "id": "nitorwart_plant",
   "description": {

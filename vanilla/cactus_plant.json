@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "vanilla/cactus_plant.json",
   "name": "Cactus",
   "id": "cactus_plant",
   "description": {

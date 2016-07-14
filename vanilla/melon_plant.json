@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "vanilla/melon_plant.json",
   "name": "Melon",
   "id": "melon_plant",
   "description": {

@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "vanilla/sugarcane_plant.json",
   "name": "Sugarcane",
   "id": "sugarcane_plant",
   "description": {

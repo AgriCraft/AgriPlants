@@ -1,4 +1,6 @@
 {
+  "enabled": true,
+  "path": "resource/redstodendron_plant.json",
   "name": "Redstodendron",
   "id": "redstodendron_plant",
   "description": {
