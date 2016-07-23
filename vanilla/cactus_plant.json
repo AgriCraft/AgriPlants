@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "vanilla/cactus_plant.json",
+  "path": "defaults/vanilla/cactus_plant.json",
   "id": "cactus_plant",
   "plant_name": "Cactus",
   "seed_name": "Cactus Seeds",
@@ -11,6 +11,10 @@
   "growth_chance": 0.9,
   "bonemeal": true,
   "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "products": {
     "products": [
       {

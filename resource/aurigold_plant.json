@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "resource/aurigold_plant.json",
+  "path": "defaults/resource/aurigold_plant.json",
   "id": "aurigold_plant",
   "plant_name": "Aurigold",
   "seed_name": "Aurigold Seeds",
@@ -11,6 +11,10 @@
   "growth_chance": 0.8,
   "bonemeal": false,
   "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "products": {
     "products": [
       {

@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "resource/lapender_plant.json",
+  "path": "defaults/resource/lapender_plant.json",
   "id": "lapender_plant",
   "plant_name": "Lapender",
   "seed_name": "Lapender Seeds",
@@ -11,6 +11,10 @@
   "growth_chance": 900.0,
   "bonemeal": false,
   "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "products": {
     "products": [
       {
