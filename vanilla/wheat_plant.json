@@ -23,8 +23,8 @@
       {
         "item": "minecraft:wheat",
         "meta": 0,
-        "base": 1,
-        "range": 3,
+        "min": 1,
+        "max": 3,
         "chance": 0.95,
         "required": true
       }

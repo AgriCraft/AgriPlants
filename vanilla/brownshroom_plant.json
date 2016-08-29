@@ -23,8 +23,8 @@
       {
         "item": "minecraft:brown_mushroom",
         "meta": 0,
-        "base": 2,
-        "range": 5,
+        "min": 2,
+        "max": 5,
         "chance": 1.0,
         "required": true
       }

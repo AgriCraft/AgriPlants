@@ -26,8 +26,8 @@
       {
         "item": "minecraft:reeds",
         "meta": 0,
-        "base": 0,
-        "range": 5,
+        "min": 1,
+        "max": 2,
         "chance": 1000.0,
         "required": true
       }

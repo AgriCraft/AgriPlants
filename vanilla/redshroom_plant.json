@@ -25,8 +25,8 @@
       {
         "item": "minecraft:red_mushroom",
         "meta": 0,
-        "base": 2,
-        "range": 4,
+        "min": 2,
+        "max": 4,
         "chance": 1.0,
         "required": true
       }

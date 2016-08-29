@@ -23,16 +23,16 @@
       {
         "item": "minecraft:potato",
         "meta": 0,
-        "base": 1,
-        "range": 4,
+        "min": 1,
+        "max": 4,
         "chance": 0.95,
         "required": true
       },
       {
         "item": "minecraft:poisonous_potato",
         "meta": 0,
-        "base": 1,
-        "range": 2,
+        "min": 1,
+        "max": 2,
         "chance": 0.02,
         "required": true
       }
