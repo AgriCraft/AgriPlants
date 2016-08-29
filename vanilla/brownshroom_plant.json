@@ -4,6 +4,9 @@
   "id": "brownshroom_plant",
   "plant_name": "Brown Mushroom",
   "seed_name": "Brown Mushroom Spores",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "A simple decomposer."

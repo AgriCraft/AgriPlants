@@ -4,6 +4,9 @@
   "id": "diamahlia_plant",
   "plant_name": "Diamahlia",
   "seed_name": "Diamahlia Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "A rarity by any measure."

@@ -4,6 +4,9 @@
   "id": "emeryllis_plant",
   "plant_name": "Emeryllis",
   "seed_name": "Emeryllis Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "A truely green gem."

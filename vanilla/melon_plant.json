@@ -4,6 +4,9 @@
   "id": "melon_plant",
   "plant_name": "Melon",
   "seed_name": "Melon Seeds",
+  "seed_items": [
+    "minecraft:melon_seeds"
+  ],
   "description": {
     "translations": {},
     "default": "Sweet \u0026 Juicy."

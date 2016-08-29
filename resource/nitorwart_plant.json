@@ -4,6 +4,9 @@
   "id": "nitorwart_plant",
   "plant_name": "Nitorwart",
   "seed_name": "Burning Spores",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "It sure seems to like to glow."

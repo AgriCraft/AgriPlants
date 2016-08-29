@@ -4,6 +4,9 @@
   "id": "redshroom_plant",
   "plant_name": "Red Mushroom",
   "seed_name": "Red Mushroom Spores",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {
       "en_US": "Shrooms, ever so trippy."

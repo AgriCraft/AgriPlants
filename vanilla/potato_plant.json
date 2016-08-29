@@ -4,6 +4,9 @@
   "id": "potato_plant",
   "plant_name": "Potato",
   "seed_name": "Potato Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."

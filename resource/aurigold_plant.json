@@ -4,6 +4,9 @@
   "id": "aurigold_plant",
   "plant_name": "Aurigold",
   "seed_name": "Aurigold Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "A golden delight."

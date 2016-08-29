@@ -4,6 +4,9 @@
   "id": "cactus_plant",
   "plant_name": "Cactus",
   "seed_name": "Cactus Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "A very prickly plant."

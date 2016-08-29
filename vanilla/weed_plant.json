@@ -1,9 +1,12 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/wheat_plant.json",
+  "path": "defaults/vanilla/weed_plant.json",
   "id": "weed_plant",
   "plant_name": "Weed",
   "seed_name": "Weed Seeds",
+  "seed_items": [
+    "agricraft:agri_seed"
+  ],
   "description": {
     "translations": {},
     "default": "An annoying plant of no use."
@@ -16,6 +19,16 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.1,
   "products": {
+    "products": [
+      {
+        "item": "minecraft:wheat",
+        "meta": 0,
+        "base": 5,
+        "range": 5,
+        "chance": 0.99,
+        "required": true
+      }
+    ]
   },
   "requirement": {
     "min_light": 0,

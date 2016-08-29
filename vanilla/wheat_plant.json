@@ -4,6 +4,9 @@
   "id": "wheat_plant",
   "plant_name": "Wheat",
   "seed_name": "Wheat Seeds",
+  "seed_items": [
+    "minecraft:wheat_seeds"
+  ],
   "description": {
     "translations": {},
     "default": "The cornerstone of the Agriculutural Revolution."
