@@ -23,8 +23,8 @@
       {
         "item": "minecraft:carrot",
         "meta": 0,
-        "base": 5,
-        "range": 5,
+        "base": 1,
+        "range": 4,
         "chance": 1.0,
         "required": true
       }

@@ -23,8 +23,8 @@
       {
         "item": "minecraft:melon",
         "meta": 0,
-        "base": 4,
-        "range": 6,
+        "base": 3,
+        "range": 5,
         "chance": 1.0,
         "required": true
       }

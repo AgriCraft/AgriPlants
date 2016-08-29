@@ -33,7 +33,7 @@
         "meta": 0,
         "base": 1,
         "range": 2,
-        "chance": 0.15,
+        "chance": 0.02,
         "required": true
       }
     ]
