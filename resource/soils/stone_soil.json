@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "id": "stone_soil",
+  "name": "Stone",
+  "varients": [
+    "minecraft:stone"
+  ]
+}

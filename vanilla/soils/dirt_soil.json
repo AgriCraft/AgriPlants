@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "id": "dirt_soil",
+  "name": "Dirt",
+  "varients": [
+    "minecraft:dirt"
+  ]
+}

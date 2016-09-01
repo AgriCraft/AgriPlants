@@ -41,7 +41,9 @@
   "requirement": {
     "min_light": 10,
     "max_light": 16,
-    "soils": [],
+    "soils": [
+      "dirt_soil"
+    ],
     "bases": [],
     "nearby": {}
   },
