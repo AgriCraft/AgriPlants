@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/weed_plant.json",
+  "path": "defaults/vanilla/plants/weed_plant.json",
   "id": "weed_plant",
   "plant_name": "Weed",
   "seed_name": "Weed Seeds",
@@ -21,12 +21,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:wheat",
-        "meta": 0,
         "min": 1,
         "max": 2,
         "chance": 0.99,
-        "required": true
+        "required": true,
+        "item": "minecraft:wheat",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },

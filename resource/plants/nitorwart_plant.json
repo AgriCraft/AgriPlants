@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/nitorwart_plant.json",
+  "path": "defaults/resource/plants/nitorwart_plant.json",
   "id": "nitorwart_plant",
   "plant_name": "Nitorwart",
   "seed_name": "Burning Spores",
@@ -21,12 +21,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:glowstone_dust",
-        "meta": 0,
         "min": 1,
         "max": 4,
         "chance": 0.9,
-        "required": true
+        "required": true,
+        "item": "minecraft:glowstone_dust",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },

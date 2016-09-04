@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/redshroom_plant.json",
+  "path": "defaults/vanilla/plants/redshroom_plant.json",
   "id": "redshroom_plant",
   "plant_name": "Red Mushroom",
   "seed_name": "Red Mushroom Spores",
@@ -23,19 +23,25 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:red_mushroom",
-        "meta": 0,
         "min": 2,
         "max": 4,
         "chance": 1.0,
-        "required": true
+        "required": true,
+        "item": "minecraft:red_mushroom",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
   "requirement": {
     "min_light": 0,
     "max_light": 10,
-    "soils": [],
+    "soils": [
+      "mycelium_soil"
+    ],
     "bases": [],
     "nearby": {}
   },

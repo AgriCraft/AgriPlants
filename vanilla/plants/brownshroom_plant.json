@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/brownshroom_plant.json",
+  "path": "defaults/vanilla/plants/brownshroom_plant.json",
   "id": "brownshroom_plant",
   "plant_name": "Brown Mushroom",
   "seed_name": "Brown Mushroom Spores",
@@ -21,19 +21,25 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:brown_mushroom",
-        "meta": 0,
         "min": 2,
         "max": 5,
         "chance": 1.0,
-        "required": true
+        "required": true,
+        "item": "minecraft:brown_mushroom",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
   "requirement": {
     "min_light": 0,
     "max_light": 10,
-    "soils": [],
+    "soils": [
+      "mycelium_soil"
+    ],
     "bases": [],
     "nearby": {}
   },

@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/pumpkin_plant.json",
+  "path": "defaults/vanilla/plants/pumpkin_plant.json",
   "id": "pumpkin_plant",
   "plant_name": "Pumpkin",
   "seed_name": "Pumpkin Seeds",
@@ -21,19 +21,25 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:pumpkin",
-        "meta": 0,
         "min": 1,
         "max": 2,
         "chance": 1.0,
-        "required": true
+        "required": true,
+        "item": "minecraft:pumpkin",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
-    "soils": [],
+    "soils": [
+      "farmland_soil"
+    ],
     "bases": [],
     "nearby": {}
   },

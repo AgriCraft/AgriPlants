@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "path": "resource/soils/stone_soil.json",
-  "id": "stone_soil",
-  "name": "Stone",
+  "path": "vanilla/soils/farmland_soil.json",
+  "id": "farmland_soil",
+  "name": "Farmland",
   "varients": [
     {
-      "item": "minecraft:stone",
+      "item": "minecraft:farmland",
       "meta": 0,
       "tags": "",
       "ignoreMeta": true,

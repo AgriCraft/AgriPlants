@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "path": "resource/soils/stone_soil.json",
-  "id": "stone_soil",
-  "name": "Stone",
+  "path": "vanilla/soils/sand_soil.json",
+  "id": "sand_soil",
+  "name": "Sand",
   "varients": [
     {
-      "item": "minecraft:stone",
+      "item": "minecraft:sand",
       "meta": 0,
       "tags": "",
       "ignoreMeta": true,

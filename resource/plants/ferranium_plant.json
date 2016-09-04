@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/ferranium_plant.json",
+  "path": "defaults/resource/plants/ferranium_plant.json",
   "id": "ferranium_plant",
   "plant_name": "Ferranium",
   "seed_name": "Ferranum Seeds",
@@ -21,12 +21,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:iron_ingot",
-        "meta": 0,
         "min": 1,
         "max": 2,
         "chance": 0.95,
-        "required": true
+        "required": true,
+        "item": "minecraft:iron_ingot",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },

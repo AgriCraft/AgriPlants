@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/potato_plant.json",
+  "path": "defaults/vanilla/plants/potato_plant.json",
   "id": "potato_plant",
   "plant_name": "Potato",
   "seed_name": "Potato Seeds",
@@ -21,20 +21,28 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:potato",
-        "meta": 0,
         "min": 1,
         "max": 4,
         "chance": 0.95,
-        "required": true
+        "required": true,
+        "item": "minecraft:potato",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       },
       {
-        "item": "minecraft:poisonous_potato",
-        "meta": 0,
         "min": 1,
         "max": 2,
         "chance": 0.02,
-        "required": true
+        "required": true,
+        "item": "minecraft:poisonous_potato",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
@@ -42,7 +50,7 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "dirt_soil"
+      "farmland_soil"
     ],
     "bases": [],
     "nearby": {}

@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "path": "resource/soils/stone_soil.json",
-  "id": "stone_soil",
-  "name": "Stone",
+  "path": "vanilla/soils/farmland_soil.json",
+  "id": "mycelium_soil",
+  "name": "Mycelium",
   "varients": [
     {
-      "item": "minecraft:stone",
+      "item": "minecraft:mycelium",
       "meta": 0,
       "tags": "",
       "ignoreMeta": true,

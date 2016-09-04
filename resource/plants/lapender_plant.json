@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/lapender_plant.json",
+  "path": "defaults/resource/plants/lapender_plant.json",
   "id": "lapender_plant",
   "plant_name": "Lapender",
   "seed_name": "Lapender Seeds",
@@ -21,12 +21,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:dye",
-        "meta": 4,
         "min": 1,
         "max": 4,
         "chance": 900.0,
-        "required": true
+        "required": true,
+        "item": "minecraft:dye",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },

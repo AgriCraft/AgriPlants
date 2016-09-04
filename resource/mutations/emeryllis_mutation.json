@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "resource/emeryllis_mutation.json",
+  "path": "resource/mutations/emeryllis_mutation.json",
   "chance": 1.0,
   "child": "emeryllis_plant",
   "parent1": "aurigold_plant",

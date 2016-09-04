@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "path": "resource/soils/stone_soil.json",
-  "id": "stone_soil",
-  "name": "Stone",
+  "path": "vanilla/soils/soul_sand_soil.json",
+  "id": "soul_sand_soil",
+  "name": "Soul Sand",
   "varients": [
     {
-      "item": "minecraft:stone",
+      "item": "minecraft:soul_sand",
       "meta": 0,
       "tags": "",
       "ignoreMeta": true,

@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/sugarcane_plant.json",
+  "path": "defaults/vanilla/plants/sugarcane_plant.json",
   "id": "sugarcane_plant",
   "plant_name": "Sugarcane",
   "seed_name": "Sugarcane Seeds",
@@ -24,12 +24,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:reeds",
-        "meta": 0,
         "min": 1,
         "max": 2,
         "chance": 1000.0,
-        "required": true
+        "required": true,
+        "item": "minecraft:reeds",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
@@ -37,7 +41,7 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "minecraft:sand"
+      "sand_soil"
     ],
     "bases": [],
     "nearby": {}

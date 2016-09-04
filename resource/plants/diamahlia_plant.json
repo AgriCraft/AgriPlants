@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/diamahlia_plant.json",
+  "path": "defaults/resource/plants/diamahlia_plant.json",
   "id": "diamahlia_plant",
   "plant_name": "Diamahlia",
   "seed_name": "Diamahlia Seeds",
@@ -21,12 +21,16 @@
   "products": {
     "products": [
       {
-        "item": "minecraft:diamond",
-        "meta": 0,
         "min": 1,
         "max": 1,
         "chance": 0.75,
-        "required": true
+        "required": true,
+        "item": "minecraft:diamond",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": false,
+        "useOreDict": false
       }
     ]
   },
