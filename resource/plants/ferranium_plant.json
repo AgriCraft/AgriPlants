@@ -37,7 +37,9 @@
   "requirement": {
     "min_light": 10,
     "max_light": 16,
-    "soils": [],
+    "soils": [
+      "gravel_soil"
+    ],
     "bases": [
       "minecraft:iron_ore"
     ],

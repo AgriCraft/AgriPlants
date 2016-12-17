@@ -37,10 +37,10 @@
   "requirement": {
     "min_light": 10,
     "max_light": 16,
-    "soils": [],
-    "bases": [
-      "minecraft:gold_ore"
+    "soils": [
+      "gravel_soil"
     ],
+    "bases": [],
     "nearby": {}
   },
   "texture": {
