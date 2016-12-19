@@ -4,9 +4,7 @@
   "id": "redstodendron_plant",
   "plant_name": "Redstodendron",
   "seed_name": "Red Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {},
     "default": "Much more complex than the average red algea."
@@ -29,7 +27,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

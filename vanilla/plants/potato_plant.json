@@ -4,9 +4,7 @@
   "id": "potato_plant",
   "plant_name": "Potato",
   "seed_name": "Potato Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {},
     "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
@@ -29,7 +27,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       },
       {
@@ -41,7 +39,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

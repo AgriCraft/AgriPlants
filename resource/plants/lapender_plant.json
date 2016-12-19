@@ -4,9 +4,7 @@
   "id": "lapender_plant",
   "plant_name": "Lapender",
   "seed_name": "Lapender Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {},
     "default": "A regal plant."
@@ -29,7 +27,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

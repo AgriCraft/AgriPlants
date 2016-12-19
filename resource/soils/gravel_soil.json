@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "resource/soils/stone_soil.json",
+  "path": "resource/soils/gravel_soil.json",
   "id": "gravel_soil",
   "name": "Gravel",
   "varients": [
@@ -9,7 +9,9 @@
       "meta": 0,
       "tags": "",
       "ignoreMeta": true,
-      "ignoreTags": true,
+      "ignoreTags": [
+        "*"
+      ],
       "useOreDict": true
     }
   ]

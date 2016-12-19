@@ -4,9 +4,7 @@
   "id": "sugarcane_plant",
   "plant_name": "Sugarcane",
   "seed_name": "Sugarcane Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {
       "en_US": "High in fructose, a healthy part of your daily breakfast.",
@@ -32,7 +30,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

@@ -4,9 +4,7 @@
   "id": "ferranium_plant",
   "plant_name": "Ferranium",
   "seed_name": "Ferranum Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {},
     "default": "A strong plant."
@@ -29,7 +27,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

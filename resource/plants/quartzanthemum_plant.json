@@ -4,9 +4,7 @@
   "id": "quartzanthemum_plant",
   "plant_name": "Quartzanthemum",
   "seed_name": "Crystalline Seeds",
-  "seed_items": [
-    "agricraft:agri_seed"
-  ],
+  "seed_items": [],
   "description": {
     "translations": {},
     "default": "A suprisingly crystalline plant."
@@ -29,7 +27,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]

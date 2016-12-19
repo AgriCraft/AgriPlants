@@ -5,7 +5,16 @@
   "plant_name": "Pumpkin",
   "seed_name": "Pumpkin Seeds",
   "seed_items": [
-    "minecraft:pumpkin_seeds"
+    {
+      "item": "minecraft:pumpkin_seeds",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
   ],
   "description": {
     "translations": {},
@@ -29,7 +38,7 @@
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
-        "ignoreTags": false,
+        "ignoreTags": [],
         "useOreDict": false
       }
     ]
