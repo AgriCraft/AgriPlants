@@ -18,30 +18,24 @@
   "spawn_chance": 0.1,
   "products": {
     "products": [
-      {
-        "min": 1,
-        "max": 2,
-        "chance": 0.99,
-        "required": true,
-        "item": "minecraft:wheat",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
-      }
     ]
   },
   "requirement": {
     "min_light": 0,
     "max_light": 16,
-    "soils": [],
+    "soils": [
+      "dirt_soil",
+      "farmland_soil",
+      "gravel_soil",
+      "grass_soil",
+      "sand_soil"
+    ],
     "bases": [],
     "nearby": {}
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:items/seeds_wheat",
+    "seed_texture": "agricraft:items/seed_unknown",
     "plant_textures": [
       "agricraft:blocks/weed_stage_0",
       "agricraft:blocks/weed_stage_0",
