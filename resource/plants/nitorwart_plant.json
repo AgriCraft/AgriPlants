@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/plants/nitorwart_plant.json",
+  "path": "resource/plants/nitorwart_plant.json",
   "id": "nitorwart_plant",
   "plant_name": "Nitorwart",
   "seed_name": "Burning Spores",

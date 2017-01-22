@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/plants/ferranium_plant.json",
+  "path": "resource/plants/ferranium_plant.json",
   "id": "ferranium_plant",
   "plant_name": "Ferranium",
   "seed_name": "Ferranum Seeds",

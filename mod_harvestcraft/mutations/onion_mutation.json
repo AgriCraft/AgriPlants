@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "path": "mod_harvestcraft/mutations/onion_mutation.json",
+  "chance": 0.5,
+  "child": "onion_crop",
+  "parent1": "celery_crop",
+  "parent2": "brusselsprout_crop"
+}

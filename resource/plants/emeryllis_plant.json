@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/resource/plants/emeryllis_plant.json",
+  "path": "resource/plants/emeryllis_plant.json",
   "id": "emeryllis_plant",
   "plant_name": "Emeryllis",
   "seed_name": "Emeryllis Seeds",

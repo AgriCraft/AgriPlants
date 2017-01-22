@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/carrot_plant.json",
+  "path": "vanilla/plants/carrot_plant.json",
   "id": "carrot_plant",
   "plant_name": "Carrot",
   "seed_name": "Carrot Seeds",

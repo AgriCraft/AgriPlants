@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/potato_plant.json",
+  "path": "vanilla/plants/potato_plant.json",
   "id": "potato_plant",
   "plant_name": "Potato",
   "seed_name": "Potato Seeds",

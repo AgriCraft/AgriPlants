@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/pumpkin_plant.json",
+  "path": "vanilla/plants/pumpkin_plant.json",
   "id": "pumpkin_plant",
   "plant_name": "Pumpkin",
   "seed_name": "Pumpkin Seeds",

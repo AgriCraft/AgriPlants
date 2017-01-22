@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/melon_plant.json",
+  "path": "vanilla/plants/melon_plant.json",
   "id": "melon_plant",
   "plant_name": "Melon",
   "seed_name": "Melon Seeds",

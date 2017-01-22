@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/cactus_plant.json",
+  "path": "vanilla/plants/cactus_plant.json",
   "id": "cactus_plant",
   "plant_name": "Cactus",
   "seed_name": "Cactus Seeds",

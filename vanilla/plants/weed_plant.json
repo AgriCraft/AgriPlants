@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "path": "defaults/vanilla/plants/weed_plant.json",
+  "path": "vanilla/plants/weed_plant.json",
   "id": "weed_plant",
   "plant_name": "Weed",
   "seed_name": "Weed Seeds",
@@ -17,8 +17,7 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.1,
   "products": {
-    "products": [
-    ]
+    "products": []
   },
   "requirement": {
     "min_light": 0,

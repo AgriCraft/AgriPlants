@@ -1,8 +1,0 @@
-{
-  "enabled": true,
-  "path": "harvestcraft/mutations/cauliflower_mutation.json",
-  "chance": 0.5,
-  "child": "cauliflower_crop",
-  "parent1": "cabbage_crop",
-  "parent2": "lettuce_crop"
-}
