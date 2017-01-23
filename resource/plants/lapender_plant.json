@@ -9,7 +9,7 @@
     "translations": {},
     "default": "A regal plant."
   },
-  "growth_chance": 900.0,
+  "growth_chance": 0.9,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
@@ -21,10 +21,10 @@
       {
         "min": 1,
         "max": 4,
-        "chance": 900.0,
+        "chance": 0.9,
         "required": true,
         "item": "minecraft:dye",
-        "meta": 0,
+        "meta": 4,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
