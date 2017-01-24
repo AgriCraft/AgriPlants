@@ -23,7 +23,6 @@
     "min_light": 0,
     "max_light": 16,
     "soils": [
-      "dirt_soil",
       "farmland_soil",
       "gravel_soil",
       "grass_soil",
