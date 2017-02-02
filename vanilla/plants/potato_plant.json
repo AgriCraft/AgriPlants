@@ -4,7 +4,18 @@
   "id": "potato_plant",
   "plant_name": "Potato",
   "seed_name": "Potato Seeds",
-  "seed_items": [],
+  "seed_items": [
+    {
+      "item": "minecraft:potato",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
   "description": {
     "translations": {},
     "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
