@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/soils/farmland_soil.json",
+  "enabled": true,
   "id": "farmland_soil",
   "name": "Farmland",
   "varients": [

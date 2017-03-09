@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/beet_plant.json",
+  "enabled": true,
   "id": "beet_plant",
   "plant_name": "Beets",
   "seed_name": "Beet Seeds",
@@ -18,15 +18,17 @@
   ],
   "description": {
     "translations": {},
-    "default": "Beet. It's what's for dinner."
+    "default": "Beet. It\u0027s what\u0027s for dinner."
   },
   "growth_chance": 1.0,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

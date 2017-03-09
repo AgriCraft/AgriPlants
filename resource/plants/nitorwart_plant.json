@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "resource/plants/nitorwart_plant.json",
+  "enabled": true,
   "id": "nitorwart_plant",
   "plant_name": "Nitorwart",
   "seed_name": "Burning Spores",
@@ -10,12 +10,14 @@
     "default": "It sure seems to like to glow."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "resource/plants/lapender_plant.json",
+  "enabled": true,
   "id": "lapender_plant",
   "plant_name": "Lapender",
   "seed_name": "Lapender Seeds",
@@ -10,12 +10,14 @@
     "default": "A regal plant."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

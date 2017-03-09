@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "resource/mutations/nitorwart_mutation.json",
+  "enabled": true,
   "chance": 0.75,
   "child": "nitorwart_plant",
   "parent1": "carrot_plant",

@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/melon_plant.json",
+  "enabled": true,
   "id": "melon_plant",
   "plant_name": "Melon",
   "seed_name": "Melon Seeds",
@@ -21,12 +21,14 @@
     "default": "Sweet \u0026 Juicy."
   },
   "growth_chance": 0.65,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/pumpkin_plant.json",
+  "enabled": true,
   "id": "pumpkin_plant",
   "plant_name": "Pumpkin",
   "seed_name": "Pumpkin Seeds",
@@ -21,12 +21,14 @@
     "default": "If I eat enough of these will I turn orange?"
   },
   "growth_chance": 0.75,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

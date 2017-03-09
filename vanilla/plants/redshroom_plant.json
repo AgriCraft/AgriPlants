@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/redshroom_plant.json",
+  "enabled": true,
   "id": "redshroom_plant",
   "plant_name": "Red Mushroom",
   "seed_name": "Red Mushroom Spores",
@@ -12,12 +12,14 @@
     "default": "Badger, badger, badger."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

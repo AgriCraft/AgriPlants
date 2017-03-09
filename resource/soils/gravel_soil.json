@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "resource/soils/gravel_soil.json",
+  "enabled": true,
   "id": "gravel_soil",
   "name": "Gravel",
   "varients": [

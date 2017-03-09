@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "resource/plants/diamahlia_plant.json",
+  "enabled": true,
   "id": "diamahlia_plant",
   "plant_name": "Diamahlia",
   "seed_name": "Diamahlia Seeds",
@@ -10,12 +10,14 @@
     "default": "A rarity by any measure."
   },
   "growth_chance": 0.75,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

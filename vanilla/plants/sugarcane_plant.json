@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/sugarcane_plant.json",
+  "enabled": true,
   "id": "sugarcane_plant",
   "plant_name": "Sugarcane",
   "seed_name": "Sugarcane Seeds",
@@ -13,12 +13,14 @@
     "default": "A good source of sugar."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

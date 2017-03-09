@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/plants/brownshroom_plant.json",
+  "enabled": true,
   "id": "brownshroom_plant",
   "plant_name": "Brown Mushroom",
   "seed_name": "Brown Mushroom Spores",
@@ -10,12 +10,14 @@
     "default": "A simple decomposer."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

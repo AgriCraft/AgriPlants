@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "vanilla/mutations/carrot_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "carrot_plant",
   "parent1": "wheat_plant",
