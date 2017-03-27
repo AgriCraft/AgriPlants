@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/cucumber_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "cucumber_crop",
   "parent1": "peas_crop",

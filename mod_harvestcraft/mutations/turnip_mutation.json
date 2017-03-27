@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/turnip_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "turnip_crop",
   "parent1": "parsnip_crop",

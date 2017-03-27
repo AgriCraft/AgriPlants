@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/whitemushroom_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "whitemushroom_crop",
   "parent1": "redshroom_plant",

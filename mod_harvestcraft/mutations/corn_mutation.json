@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/corn_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "corn_crop",
   "parent1": "barley_crop",

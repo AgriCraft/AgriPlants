@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/celery_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "celery_crop",
   "parent1": "wheat_plant",

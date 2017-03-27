@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/plants/chilipepper_plant.json",
+  "enabled": true,
   "id": "chilipepper_crop",
   "plant_name": "Chili Pepper",
   "seed_name": "Chili Pepper Seeds",
@@ -21,12 +21,14 @@
     "default": "Chili Pepper Seeds."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {

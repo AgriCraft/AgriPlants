@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/chilipepper_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "chilipepper_crop",
   "parent1": "tomato_crop",

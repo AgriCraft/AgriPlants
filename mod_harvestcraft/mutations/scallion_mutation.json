@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/mutations/scallion_mutation.json",
+  "enabled": true,
   "chance": 0.5,
   "child": "scallion_crop",
   "parent1": "carrot_plant",

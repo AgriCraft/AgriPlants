@@ -1,8 +1,0 @@
-{
-  "path": "mod_Botania/mutations/BotaniaBlue_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "BotaniaBlue_plant",
-  "parent1": "BotaniaCyan_plant",
-  "parent2": "BotaniaWhite_plant"
-}

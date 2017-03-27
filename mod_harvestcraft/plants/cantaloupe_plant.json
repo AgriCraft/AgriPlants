@@ -1,6 +1,6 @@
 {
-  "enabled": true,
   "path": "mod_harvestcraft/plants/cantaloupe_plant.json",
+  "enabled": true,
   "id": "cantaloupe_crop",
   "plant_name": "Cantaloupe",
   "seed_name": "Cantaloupe Seeds",
@@ -21,12 +21,14 @@
     "default": "Cantaloupe Seeds."
   },
   "growth_chance": 0.9,
+  "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
   "products": {
     "products": [
       {
