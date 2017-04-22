@@ -36,7 +36,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:coffeeItem",
+        "item": "harvestcraft:coffeebeanItem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
