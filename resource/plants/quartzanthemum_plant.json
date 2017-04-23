@@ -40,10 +40,23 @@
     "soils": [
       "soul_sand_soil"
     ],
-    "bases": [
-      "minecraft:quartz_ore"
-    ],
-    "nearby": {}
+    "conditions": [
+      {
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "item": "minecraft:quartz_ore",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [],
+        "useOreDict": true
+      }
+    ]
   },
   "texture": {
     "render_type": "hash",

@@ -30,8 +30,7 @@
       "grass_soil",
       "sand_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",

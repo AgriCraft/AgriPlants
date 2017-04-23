@@ -43,8 +43,7 @@
     "soils": [
       "sand_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",

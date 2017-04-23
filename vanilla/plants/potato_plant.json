@@ -63,8 +63,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
