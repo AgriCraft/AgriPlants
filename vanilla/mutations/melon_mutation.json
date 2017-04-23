@@ -3,6 +3,6 @@
   "enabled": true,
   "chance": 0.25,
   "child": "melon_plant",
-  "parent1": "wheat_plant",
+  "parent1": "sugarcane_plant",
   "parent2": "pumpkin_plant"
 }
