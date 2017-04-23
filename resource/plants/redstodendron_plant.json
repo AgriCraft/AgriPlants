@@ -40,7 +40,9 @@
     "soils": [
       "gravel_soil"
     ],
-    "bases": [],
+    "bases": [
+      "minecraft:redstone_ore"
+    ],
     "nearby": {}
   },
   "texture": {
