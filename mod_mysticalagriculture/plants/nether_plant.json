@@ -39,7 +39,7 @@
      bases: [],
      nearby: {} },
   texture: 
-   { render_type: 'stem',
+   { render_type: 'cross',
      seed_texture: 'mysticalagriculture:items/nether_seed',
      plant_textures: 
       [ 'mysticalagriculture:crop0',
