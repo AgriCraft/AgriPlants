@@ -42,11 +42,11 @@
    { render_type: 'cross',
      seed_texture: 'mysticalagriculture:items/copper_seed',
      plant_textures: 
-      [ 'mysticalagriculture:crop0',
-        'mysticalagriculture:crop1',
-        'mysticalagriculture:crop2',
-        'mysticalagriculture:crop2',
-        'mysticalagriculture:crop3',
-        'mysticalagriculture:crop4',
-        'mysticalagriculture:crop4',
-        'mysticalagriculture:copper_crop' ] } }
+      [ 'mysticalagriculture:blocks/crop0',
+        'mysticalagriculture:blocks/crop1',
+        'mysticalagriculture:blocks/crop2',
+        'mysticalagriculture:blocks/crop2',
+        'mysticalagriculture:blocks/crop3',
+        'mysticalagriculture:blocks/crop4',
+        'mysticalagriculture:blocks/crop4',
+        'mysticalagriculture:blocks/copper_crop' ] } }
