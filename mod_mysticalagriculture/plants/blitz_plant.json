@@ -4,7 +4,7 @@
   plant_name: 'blitz Crop',
   seed_name: 'blitz Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:blitz_seed',
+   [ { item: 'mysticalagriculture:blitz_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/blitz_seed',
+     seed_texture: 'mysticalagriculture:items/blitz_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'aluminum Crop',
   seed_name: 'aluminum Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:aluminum_seed',
+   [ { item: 'mysticalagriculture:aluminum_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/aluminum_seed',
+     seed_texture: 'mysticalagriculture:items/aluminum_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

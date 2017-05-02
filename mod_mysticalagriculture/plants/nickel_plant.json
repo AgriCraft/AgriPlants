@@ -4,7 +4,7 @@
   plant_name: 'nickel Crop',
   seed_name: 'nickel Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:nickel_seed',
+   [ { item: 'mysticalagriculture:nickel_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/nickel_seed',
+     seed_texture: 'mysticalagriculture:items/nickel_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

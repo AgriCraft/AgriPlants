@@ -4,7 +4,7 @@
   plant_name: 'glowstone Crop',
   seed_name: 'glowstone Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:glowstone_seed',
+   [ { item: 'mysticalagriculture:glowstone_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/glowstone_seed',
+     seed_texture: 'mysticalagriculture:items/glowstone_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

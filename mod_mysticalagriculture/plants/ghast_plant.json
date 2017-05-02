@@ -4,7 +4,7 @@
   plant_name: 'ghast Crop',
   seed_name: 'ghast Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:ghast_seed',
+   [ { item: 'mysticalagriculture:ghast_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/ghast_seed',
+     seed_texture: 'mysticalagriculture:items/ghast_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'redstone Crop',
   seed_name: 'redstone Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:redstone_seed',
+   [ { item: 'mysticalagriculture:redstone_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/redstone_seed',
+     seed_texture: 'mysticalagriculture:items/redstone_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

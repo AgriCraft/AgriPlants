@@ -4,7 +4,7 @@
   plant_name: 'electrical_steel Crop',
   seed_name: 'electrical_steel Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:electrical_steel_seed',
+   [ { item: 'mysticalagriculture:electrical_steel_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/electrical_steel_seed',
+     seed_texture: 'mysticalagriculture:items/electrical_steel_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

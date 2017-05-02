@@ -4,7 +4,7 @@
   plant_name: 'blaze Crop',
   seed_name: 'blaze Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:blaze_seed',
+   [ { item: 'mysticalagriculture:blaze_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/blaze_seed',
+     seed_texture: 'mysticalagriculture:items/blaze_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

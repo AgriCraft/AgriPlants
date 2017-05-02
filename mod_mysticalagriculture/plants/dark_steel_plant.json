@@ -4,7 +4,7 @@
   plant_name: 'dark_steel Crop',
   seed_name: 'dark_steel Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:dark_steel_seed',
+   [ { item: 'mysticalagriculture:dark_steel_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/dark_steel_seed',
+     seed_texture: 'mysticalagriculture:items/dark_steel_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

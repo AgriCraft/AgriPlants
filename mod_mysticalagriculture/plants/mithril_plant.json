@@ -4,7 +4,7 @@
   plant_name: 'mithril Crop',
   seed_name: 'mithril Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:mithril_seed',
+   [ { item: 'mysticalagriculture:mithril_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/mithril_seed',
+     seed_texture: 'mysticalagriculture:items/mithril_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

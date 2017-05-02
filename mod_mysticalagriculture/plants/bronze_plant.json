@@ -4,7 +4,7 @@
   plant_name: 'bronze Crop',
   seed_name: 'bronze Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:bronze_seed',
+   [ { item: 'mysticalagriculture:bronze_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/bronze_seed',
+     seed_texture: 'mysticalagriculture:items/bronze_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

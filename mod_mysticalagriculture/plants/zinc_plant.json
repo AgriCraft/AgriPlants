@@ -4,7 +4,7 @@
   plant_name: 'zinc Crop',
   seed_name: 'zinc Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:zinc_seed',
+   [ { item: 'mysticalagriculture:zinc_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/zinc_seed',
+     seed_texture: 'mysticalagriculture:items/zinc_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'energetic_alloy Crop',
   seed_name: 'energetic_alloy Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:energetic_alloy_seed',
+   [ { item: 'mysticalagriculture:energetic_alloy_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/energetic_alloy_seed',
+     seed_texture: 'mysticalagriculture:items/energetic_alloy_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'stone Crop',
   seed_name: 'stone Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:stone_seed',
+   [ { item: 'mysticalagriculture:stone_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/stone_seed',
+     seed_texture: 'mysticalagriculture:items/stone_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

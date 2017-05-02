@@ -4,7 +4,7 @@
   plant_name: 'aluminum_brass Crop',
   seed_name: 'aluminum_brass Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:aluminum_brass_seed',
+   [ { item: 'mysticalagriculture:aluminum_brass_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/aluminum_brass_seed',
+     seed_texture: 'mysticalagriculture:items/aluminum_brass_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

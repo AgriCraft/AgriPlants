@@ -4,7 +4,7 @@
   plant_name: 'silver Crop',
   seed_name: 'silver Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:silver_seed',
+   [ { item: 'mysticalagriculture:silver_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/silver_seed',
+     seed_texture: 'mysticalagriculture:items/silver_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

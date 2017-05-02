@@ -4,7 +4,7 @@
   plant_name: 'lumium Crop',
   seed_name: 'lumium Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:lumium_seed',
+   [ { item: 'mysticalagriculture:lumium_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/lumium_seed',
+     seed_texture: 'mysticalagriculture:items/lumium_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

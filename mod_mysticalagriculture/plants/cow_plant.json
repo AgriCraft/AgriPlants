@@ -4,7 +4,7 @@
   plant_name: 'cow Crop',
   seed_name: 'cow Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:cow_seed',
+   [ { item: 'mysticalagriculture:cow_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/cow_seed',
+     seed_texture: 'mysticalagriculture:items/cow_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

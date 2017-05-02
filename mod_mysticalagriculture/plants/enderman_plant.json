@@ -4,7 +4,7 @@
   plant_name: 'enderman Crop',
   seed_name: 'enderman Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:enderman_seed',
+   [ { item: 'mysticalagriculture:enderman_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/enderman_seed',
+     seed_texture: 'mysticalagriculture:items/enderman_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'water Crop',
   seed_name: 'water Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:water_seed',
+   [ { item: 'mysticalagriculture:water_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/water_seed',
+     seed_texture: 'mysticalagriculture:items/water_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

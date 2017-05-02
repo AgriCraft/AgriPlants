@@ -4,7 +4,7 @@
   plant_name: 'guardian Crop',
   seed_name: 'guardian Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:guardian_seed',
+   [ { item: 'mysticalagriculture:guardian_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/guardian_seed',
+     seed_texture: 'mysticalagriculture:items/guardian_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

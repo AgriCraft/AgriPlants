@@ -4,7 +4,7 @@
   plant_name: 'platinum Crop',
   seed_name: 'platinum Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:platinum_seed',
+   [ { item: 'mysticalagriculture:platinum_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/platinum_seed',
+     seed_texture: 'mysticalagriculture:items/platinum_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'brass Crop',
   seed_name: 'brass Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:brass_seed',
+   [ { item: 'mysticalagriculture:brass_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/brass_seed',
+     seed_texture: 'mysticalagriculture:items/brass_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

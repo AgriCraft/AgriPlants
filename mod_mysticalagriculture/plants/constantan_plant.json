@@ -4,7 +4,7 @@
   plant_name: 'constantan Crop',
   seed_name: 'constantan Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:constantan_seed',
+   [ { item: 'mysticalagriculture:constantan_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/constantan_seed',
+     seed_texture: 'mysticalagriculture:items/constantan_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

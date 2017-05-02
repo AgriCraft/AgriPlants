@@ -4,7 +4,7 @@
   plant_name: 'blizz Crop',
   seed_name: 'blizz Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:blizz_seed',
+   [ { item: 'mysticalagriculture:blizz_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/blizz_seed',
+     seed_texture: 'mysticalagriculture:items/blizz_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

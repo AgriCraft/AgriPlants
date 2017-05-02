@@ -4,7 +4,7 @@
   plant_name: 'slime Crop',
   seed_name: 'slime Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:slime_seed',
+   [ { item: 'mysticalagriculture:slime_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/slime_seed',
+     seed_texture: 'mysticalagriculture:items/slime_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

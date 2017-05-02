@@ -4,7 +4,7 @@
   plant_name: 'emerald Crop',
   seed_name: 'emerald Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:emerald_seed',
+   [ { item: 'mysticalagriculture:emerald_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/emerald_seed',
+     seed_texture: 'mysticalagriculture:items/emerald_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

@@ -4,7 +4,7 @@
   plant_name: 'manyullyn Crop',
   seed_name: 'manyullyn Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:manyullyn_seed',
+   [ { item: 'mysticalagriculture:manyullyn_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/manyullyn_seed',
+     seed_texture: 'mysticalagriculture:items/manyullyn_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

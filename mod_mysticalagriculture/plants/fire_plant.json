@@ -4,7 +4,7 @@
   plant_name: 'fire Crop',
   seed_name: 'fire Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:fire_seed',
+   [ { item: 'mysticalagriculture:fire_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/fire_seed',
+     seed_texture: 'mysticalagriculture:items/fire_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',

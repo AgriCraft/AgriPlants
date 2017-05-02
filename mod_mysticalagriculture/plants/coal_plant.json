@@ -4,7 +4,7 @@
   plant_name: 'coal Crop',
   seed_name: 'coal Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:coal_seed',
+   [ { item: 'mysticalagriculture:coal_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/coal_seed',
+     seed_texture: 'mysticalagriculture:items/coal_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',
