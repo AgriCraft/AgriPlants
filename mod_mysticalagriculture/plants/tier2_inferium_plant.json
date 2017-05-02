@@ -1,8 +1,8 @@
 { path: 'mod_MysticalAgriculture/plants/tier2_inferium_plant.json',
   enabled: true,
-  id: 'tier2_inferium_crop',
-  plant_name: 'tier2_inferium Crop',
-  seed_name: 'tier2_inferium Seeds',
+  id: 'undefined_crop',
+  plant_name: 'Tier2 Inferium Crop',
+  seed_name: 'Tier2 Inferium Seeds',
   seed_items: 
    [ { item: 'mysticalagriculture:tier2_inferium_seeds',
        meta: 0,
@@ -10,7 +10,7 @@
        ignoreMeta: false,
        ignoreTags: [ '*' ],
        useOreDict: false } ],
-  description: { translations: {}, default: 'tier2_inferium Seeds.' },
+  description: { translations: {}, default: 'Tier2 Inferium Seeds.' },
   growth_chance: 0.9,
   growth_bonus: 0.025,
   bonemeal: false,
@@ -49,4 +49,4 @@
         'mysticalagriculture:blocks/crop3',
         'mysticalagriculture:blocks/crop4',
         'mysticalagriculture:blocks/crop4',
-        'mysticalagriculture:blocks/tier2_inferium_crop' ] } }
+        'mysticalagriculture:blocks/inferium_crop' ] } }

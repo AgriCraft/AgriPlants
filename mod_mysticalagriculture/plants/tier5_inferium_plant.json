@@ -1,8 +1,8 @@
 { path: 'mod_MysticalAgriculture/plants/tier5_inferium_plant.json',
   enabled: true,
-  id: 'tier5_inferium_crop',
-  plant_name: 'tier5_inferium Crop',
-  seed_name: 'tier5_inferium Seeds',
+  id: 'undefined_crop',
+  plant_name: 'Tier5 Inferium Crop',
+  seed_name: 'Tier5 Inferium Seeds',
   seed_items: 
    [ { item: 'mysticalagriculture:tier5_inferium_seeds',
        meta: 0,
@@ -10,7 +10,7 @@
        ignoreMeta: false,
        ignoreTags: [ '*' ],
        useOreDict: false } ],
-  description: { translations: {}, default: 'tier5_inferium Seeds.' },
+  description: { translations: {}, default: 'Tier5 Inferium Seeds.' },
   growth_chance: 0.9,
   growth_bonus: 0.025,
   bonemeal: false,
@@ -49,4 +49,4 @@
         'mysticalagriculture:blocks/crop3',
         'mysticalagriculture:blocks/crop4',
         'mysticalagriculture:blocks/crop4',
-        'mysticalagriculture:blocks/tier5_inferium_crop' ] } }
+        'mysticalagriculture:blocks/inferium_crop' ] } }
