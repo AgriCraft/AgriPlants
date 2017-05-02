@@ -4,7 +4,7 @@
   plant_name: 'Tier5 Inferium Crop',
   seed_name: 'Tier5 Inferium Seeds',
   seed_items: 
-   [ { item: 'mysticalagriculture:tier5_inferium_seeds',
+   [ { item: 'mysticalagriculture:infernium_seeds',
        meta: 0,
        tags: '',
        ignoreMeta: false,
@@ -40,7 +40,7 @@
      nearby: {} },
   texture: 
    { render_type: 'cross',
-     seed_texture: 'mysticalagriculture:items/tier5_inferium_seeds',
+     seed_texture: 'mysticalagriculture:items/infernium_seeds',
      plant_textures: 
       [ 'mysticalagriculture:blocks/crop0',
         'mysticalagriculture:blocks/crop1',
