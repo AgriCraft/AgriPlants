@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/ice_plant.json",
   "enabled": true,
-  "id": "undefined_crop",
+  "id": "ice_plant",
   "plant_name": "Ice Crop",
   "seed_name": "Ice Seeds",
   "seed_items": [
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Ice Seeds."
+    "default": "Ice. Ice. Baby."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,

@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/diamond_plant.json",
   "enabled": true,
-  "id": "undefined_crop",
+  "id": "diamond_plant",
   "plant_name": "Diamond Crop",
   "seed_name": "Diamond Seeds",
   "seed_items": [

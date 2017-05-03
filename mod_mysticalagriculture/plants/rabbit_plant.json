@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/rabbit_plant.json",
   "enabled": true,
-  "id": "undefined_crop",
+  "id": "rabbit_plant",
   "plant_name": "Rabbit Crop",
   "seed_name": "Rabbit Seeds",
   "seed_items": [
