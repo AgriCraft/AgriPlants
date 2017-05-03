@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/water_plant.json',
+{ path: 'mod_mysticalagriculture/plants/water_plant.json',
   enabled: true,
   id: 'water_crop',
   plant_name: 'Water Crop',

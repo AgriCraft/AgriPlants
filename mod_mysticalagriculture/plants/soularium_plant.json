@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/soularium_plant.json',
+{ path: 'mod_mysticalagriculture/plants/soularium_plant.json',
   enabled: true,
   id: 'soularium_crop',
   plant_name: 'Soularium Crop',

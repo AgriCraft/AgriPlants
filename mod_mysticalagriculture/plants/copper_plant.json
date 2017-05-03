@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/copper_plant.json',
+{ path: 'mod_mysticalagriculture/plants/copper_plant.json',
   enabled: true,
   id: 'copper_crop',
   plant_name: 'Copper Crop',

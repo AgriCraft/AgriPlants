@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/nether_plant.json',
+{ path: 'mod_mysticalagriculture/plants/nether_plant.json',
   enabled: true,
   id: 'nether_crop',
   plant_name: 'Nether Crop',

@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/quartz_enriched_iron_plant.json',
+{ path: 'mod_mysticalagriculture/plants/quartz_enriched_iron_plant.json',
   enabled: true,
   id: 'quartz_enriched_iron_crop',
   plant_name: 'Quartz Enriched Iron Crop',

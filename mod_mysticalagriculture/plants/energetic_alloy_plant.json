@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/energetic_alloy_plant.json',
+{ path: 'mod_mysticalagriculture/plants/energetic_alloy_plant.json',
   enabled: true,
   id: 'energetic_alloy_crop',
   plant_name: 'Energetic Alloy Crop',

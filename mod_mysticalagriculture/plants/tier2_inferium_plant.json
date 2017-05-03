@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/tier2_inferium_plant.json',
+{ path: 'mod_mysticalagriculture/plants/tier2_inferium_plant.json',
   enabled: true,
   id: 'tier2_inferium_crop',
   plant_name: 'Tier2 Inferium Crop',

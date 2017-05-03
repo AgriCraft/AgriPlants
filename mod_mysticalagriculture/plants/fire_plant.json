@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/fire_plant.json',
+{ path: 'mod_mysticalagriculture/plants/fire_plant.json',
   enabled: true,
   id: 'fire_crop',
   plant_name: 'Fire Crop',

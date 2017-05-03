@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/ardite_plant.json',
+{ path: 'mod_mysticalagriculture/plants/ardite_plant.json',
   enabled: true,
   id: 'ardite_crop',
   plant_name: 'Ardite Crop',

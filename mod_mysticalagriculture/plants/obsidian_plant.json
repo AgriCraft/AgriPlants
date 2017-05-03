@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/obsidian_plant.json',
+{ path: 'mod_mysticalagriculture/plants/obsidian_plant.json',
   enabled: true,
   id: 'obsidian_crop',
   plant_name: 'Obsidian Crop',

@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/electrum_plant.json',
+{ path: 'mod_mysticalagriculture/plants/electrum_plant.json',
   enabled: true,
   id: 'electrum_crop',
   plant_name: 'Electrum Crop',

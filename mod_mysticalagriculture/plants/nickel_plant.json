@@ -1,4 +1,4 @@
-{ path: 'mod_MysticalAgriculture/plants/nickel_plant.json',
+{ path: 'mod_mysticalagriculture/plants/nickel_plant.json',
   enabled: true,
   id: 'nickel_crop',
   plant_name: 'Nickel Crop',
