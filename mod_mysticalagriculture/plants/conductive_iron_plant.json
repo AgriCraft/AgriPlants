@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/conductive_iron_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'conductive_iron_crop',
   plant_name: 'Conductive Iron Crop',
   seed_name: 'Conductive Iron Seeds',
   seed_items: 

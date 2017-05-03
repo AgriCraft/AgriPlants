@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/stone_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'stone_crop',
   plant_name: 'Stone Crop',
   seed_name: 'Stone Seeds',
   seed_items: 

@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/fire_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'fire_crop',
   plant_name: 'Fire Crop',
   seed_name: 'Fire Seeds',
   seed_items: 

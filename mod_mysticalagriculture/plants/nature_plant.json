@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/nature_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'nature_crop',
   plant_name: 'Nature Crop',
   seed_name: 'Nature Seeds',
   seed_items: 

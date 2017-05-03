@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/guardian_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'guardian_crop',
   plant_name: 'Guardian Crop',
   seed_name: 'Guardian Seeds',
   seed_items: 

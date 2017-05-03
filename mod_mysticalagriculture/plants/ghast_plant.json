@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/ghast_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'ghast_crop',
   plant_name: 'Ghast Crop',
   seed_name: 'Ghast Seeds',
   seed_items: 

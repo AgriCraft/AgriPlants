@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/gold_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'gold_crop',
   plant_name: 'Gold Crop',
   seed_name: 'Gold Seeds',
   seed_items: 

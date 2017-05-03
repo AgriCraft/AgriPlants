@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/ice_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'ice_crop',
   plant_name: 'Ice Crop',
   seed_name: 'Ice Seeds',
   seed_items: 

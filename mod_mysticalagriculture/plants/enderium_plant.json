@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/enderium_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'enderium_crop',
   plant_name: 'Enderium Crop',
   seed_name: 'Enderium Seeds',
   seed_items: 

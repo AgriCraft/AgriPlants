@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/obsidian_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'obsidian_crop',
   plant_name: 'Obsidian Crop',
   seed_name: 'Obsidian Seeds',
   seed_items: 

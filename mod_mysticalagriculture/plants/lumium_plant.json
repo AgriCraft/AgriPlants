@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/lumium_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'lumium_crop',
   plant_name: 'Lumium Crop',
   seed_name: 'Lumium Seeds',
   seed_items: 

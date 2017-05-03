@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/creeper_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'creeper_crop',
   plant_name: 'Creeper Crop',
   seed_name: 'Creeper Seeds',
   seed_items: 

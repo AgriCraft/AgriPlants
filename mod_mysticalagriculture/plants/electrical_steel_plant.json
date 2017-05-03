@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/electrical_steel_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'electrical_steel_crop',
   plant_name: 'Electrical Steel Crop',
   seed_name: 'Electrical Steel Seeds',
   seed_items: 

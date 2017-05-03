@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/bronze_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'bronze_crop',
   plant_name: 'Bronze Crop',
   seed_name: 'Bronze Seeds',
   seed_items: 

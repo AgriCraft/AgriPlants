@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/iron_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'iron_crop',
   plant_name: 'Iron Crop',
   seed_name: 'Iron Seeds',
   seed_items: 

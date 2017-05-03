@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/sheep_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'sheep_crop',
   plant_name: 'Sheep Crop',
   seed_name: 'Sheep Seeds',
   seed_items: 

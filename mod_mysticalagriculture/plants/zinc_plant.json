@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/zinc_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'zinc_crop',
   plant_name: 'Zinc Crop',
   seed_name: 'Zinc Seeds',
   seed_items: 

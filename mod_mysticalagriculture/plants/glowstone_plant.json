@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/glowstone_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'glowstone_crop',
   plant_name: 'Glowstone Crop',
   seed_name: 'Glowstone Seeds',
   seed_items: 

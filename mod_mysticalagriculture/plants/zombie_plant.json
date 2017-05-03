@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/zombie_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'zombie_crop',
   plant_name: 'Zombie Crop',
   seed_name: 'Zombie Seeds',
   seed_items: 

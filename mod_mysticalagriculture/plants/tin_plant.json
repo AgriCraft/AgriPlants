@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/tin_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'tin_crop',
   plant_name: 'Tin Crop',
   seed_name: 'Tin Seeds',
   seed_items: 

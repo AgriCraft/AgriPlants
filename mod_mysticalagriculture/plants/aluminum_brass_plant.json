@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/aluminum_brass_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'aluminum_brass_crop',
   plant_name: 'Aluminum Brass Crop',
   seed_name: 'Aluminum Brass Seeds',
   seed_items: 

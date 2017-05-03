@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/cow_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'cow_crop',
   plant_name: 'Cow Crop',
   seed_name: 'Cow Seeds',
   seed_items: 

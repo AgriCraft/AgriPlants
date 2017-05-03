@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/dirt_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'dirt_crop',
   plant_name: 'Dirt Crop',
   seed_name: 'Dirt Seeds',
   seed_items: 

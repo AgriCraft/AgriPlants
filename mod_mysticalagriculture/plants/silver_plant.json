@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/silver_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'silver_crop',
   plant_name: 'Silver Crop',
   seed_name: 'Silver Seeds',
   seed_items: 

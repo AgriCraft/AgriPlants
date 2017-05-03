@@ -1,6 +1,6 @@
 { path: 'mod_MysticalAgriculture/plants/blitz_plant.json',
   enabled: true,
-  id: 'undefined_crop',
+  id: 'blitz_crop',
   plant_name: 'Blitz Crop',
   seed_name: 'Blitz Seeds',
   seed_items: 
