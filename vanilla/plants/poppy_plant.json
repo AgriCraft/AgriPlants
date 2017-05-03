@@ -7,7 +7,7 @@
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A rarity by any measure."
+    "default": "Producing colorful blooms, this plant has gained a reputation for certain medicinal uses. A better use, perhaps, this plant produces seeds that go well with baked goods, particularly for lemon-flavored ones."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
@@ -18,6 +18,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -40,8 +42,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",

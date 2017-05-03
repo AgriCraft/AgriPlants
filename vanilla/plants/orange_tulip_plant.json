@@ -1,9 +1,9 @@
 {
-  "path": "vanilla/plants/redtulip_plant.json",
+  "path": "vanilla/plants/orange_tulip_plant.json",
   "enabled": true,
-  "id": "redtulip_plant",
-  "plant_name": "Red Tulip",
-  "seed_name": "Red Tulip Seeds",
+  "id": "orangetulip_plant",
+  "plant_name": "Orange Tulip",
+  "seed_name": "Orange Tulip Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
@@ -18,6 +18,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -26,7 +28,7 @@
         "chance": 0.75,
         "required": true,
         "item": "minecraft:dye",
-        "meta": 1,
+        "meta": 14,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
@@ -40,21 +42,20 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedTulipRed",
+    "seed_texture": "agricraft:items/seedTulipOrange",
     "plant_textures": [
-      "agricraft:blocks/cropTulipRed1",
-      "agricraft:blocks/cropTulipRed1",
-      "agricraft:blocks/cropTulipRed2",
-      "agricraft:blocks/cropTulipRed2",
-      "agricraft:blocks/cropTulipRed2",
-      "agricraft:blocks/cropTulipRed3",
-      "agricraft:blocks/cropTulipRed3",
-      "agricraft:blocks/cropTulipRed4"
+      "agricraft:blocks/cropTulipOrange1",
+      "agricraft:blocks/cropTulipOrange1",
+      "agricraft:blocks/cropTulipOrange2",
+      "agricraft:blocks/cropTulipOrange2",
+      "agricraft:blocks/cropTulipOrange2",
+      "agricraft:blocks/cropTulipOrange3",
+      "agricraft:blocks/cropTulipOrange3",
+      "agricraft:blocks/cropTulipOrange4"
     ]
   }
 }

@@ -1,13 +1,13 @@
 {
-  "path": "vanilla/plants/whitetulip_plant.json",
+  "path": "vanilla/plants/pink_tulip_plant.json",
   "enabled": true,
-  "id": "whitetulip_plant",
-  "plant_name": "White Tulip",
-  "seed_name": "White Tulip Seeds",
+  "id": "pinktulip_plant",
+  "plant_name": "Pink Tulip",
+  "seed_name": "Pink Tulip Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A rarity by any measure."
+    "default": "A pink varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms."
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
@@ -18,6 +18,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -26,7 +28,7 @@
         "chance": 0.75,
         "required": true,
         "item": "minecraft:dye",
-        "meta": 7,
+        "meta": 9,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
@@ -40,21 +42,20 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedTulipWhite",
+    "seed_texture": "agricraft:items/seedTulipPink",
     "plant_textures": [
-      "agricraft:blocks/cropTulipWhite1",
-      "agricraft:blocks/cropTulipWhite1",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite3",
-      "agricraft:blocks/cropTulipWhite3",
-      "agricraft:blocks/cropTulipWhite4"
+      "agricraft:blocks/cropTulipPink1",
+      "agricraft:blocks/cropTulipPink1",
+      "agricraft:blocks/cropTulipPink2",
+      "agricraft:blocks/cropTulipPink2",
+      "agricraft:blocks/cropTulipPink2",
+      "agricraft:blocks/cropTulipPink3",
+      "agricraft:blocks/cropTulipPink3",
+      "agricraft:blocks/cropTulipPink4"
     ]
   }
 }
