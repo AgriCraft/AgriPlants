@@ -1,0 +1,71 @@
+{
+  "path": "mod_actuallyadditions/rice_plant.json",
+  "enabled": true,
+  "id": "rice_plant",
+  "plant_name": "Rice",
+  "seed_name": "Rice Seeds",
+  "seed_items": [
+    {
+      "item": "actuallyadditions:itemRiceSeed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {},
+    "default": "Testing 1, 2, 3."
+  },
+  "growth_chance": 1.0,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 3,
+        "chance": 0.95,
+        "required": true,
+        "item": "actuallyadditions:itemFood:16",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "bases": [],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "ActuallyAdditions:items/itemRiceSeed",
+    "plant_textures": [
+      "ActuallyAdditions:blocks/blockRiceStage1",
+      "ActuallyAdditions:blocks/blockRiceStage2",
+      "ActuallyAdditions:blocks/blockRiceStage3",
+      "ActuallyAdditions:blocks/blockRiceStage3",
+      "ActuallyAdditions:blocks/blockRiceStage4",
+      "ActuallyAdditions:blocks/blockRiceStage5",
+      "ActuallyAdditions:blocks/blockRiceStage5",
+      "ActuallyAdditions:blocks/blockRiceStage6"
+    ]
+  }
+}
