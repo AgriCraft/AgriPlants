@@ -26,8 +26,8 @@
     "tier": 1,
     "weedable": false,
     "aggressive": false,
-    "spread_chance": 0.1,
-    "spawn_chance": 0.1,
+    "spread_chance": 0,
+    "spawn_chance": 0,
     "grass_drop_chance": 0,
     "products": {
         "products": [
