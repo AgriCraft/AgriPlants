@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/corn_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "corn_crop",
-  "parent1": "barley_crop",
-  "parent2": "rye_crop"
+  "child": "corn_plant",
+  "parent1": "barley_plant",
+  "parent2": "rye_plant"
 }

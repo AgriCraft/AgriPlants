@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/cranberry_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "cranberry_crop",
-  "parent1": "blueberry_crop",
-  "parent2": "grape_crop"
+  "child": "cranberry_plant",
+  "parent1": "blueberry_plant",
+  "parent2": "grape_plant"
 }

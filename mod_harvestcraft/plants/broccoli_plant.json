@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/broccoli_plant.json",
   "enabled": true,
-  "id": "broccoli_crop",
+  "id": "broccoli_plant",
   "plant_name": "Broccoli",
   "seed_name": "Broccoli Seeds",
   "seed_items": [

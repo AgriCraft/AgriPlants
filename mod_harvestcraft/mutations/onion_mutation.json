@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/onion_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "onion_crop",
-  "parent1": "celery_crop",
-  "parent2": "brusselsprout_crop"
+  "child": "onion_plant",
+  "parent1": "celery_plant",
+  "parent2": "brusselsprout_plant"
 }
