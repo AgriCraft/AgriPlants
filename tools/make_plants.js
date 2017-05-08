@@ -1,3 +1,11 @@
+/*
+ * This needs some work but a quick fix would be to change the template so
+ * that the string concatenation done here is not needed and, instead, the
+ * various bits are defined in that file. A different solution would be to
+ * provide for a formatting string in the JSON containing the seed/plant
+ * name data. I (dshadowwolf) haven't done this yet as I've been busy with
+ * a lot of other work.
+ */
 const fs = require("fs");
 const util = require("util");
 
