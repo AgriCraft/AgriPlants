@@ -60,12 +60,12 @@
     "plant_textures": [
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_0",
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_1",
+      "ActuallyAdditions:blocks/crops/cotton/cotton_stage_1",
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_2",
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_2",
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_3",
+      "ActuallyAdditions:blocks/crops/cotton/cotton_stage_3",
       "ActuallyAdditions:blocks/crops/cotton/cotton_stage_4",
-      "ActuallyAdditions:blocks/crops/cotton/cotton_stage_5",
-      "ActuallyAdditions:blocks/crops/cotton/cotton_stage_5",
       null
     ]
   }
