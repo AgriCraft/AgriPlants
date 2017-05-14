@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/okra_plant.json",
   "enabled": true,
-  "id": "okra_crop",
+  "id": "okra_plant",
   "plant_name": "Okra",
   "seed_name": "Okra Seeds",
   "seed_items": [
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -51,8 +53,7 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",

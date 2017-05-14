@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/wintersquash_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "wintersquash_crop",
+  "child": "wintersquash_plant",
   "parent1": "pumpkin_plant",
-  "parent2": "zucchini_crop"
+  "parent2": "zucchini_plant"
 }

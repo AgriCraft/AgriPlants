@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/tea_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "tea_crop",
-  "parent1": "seaweed_crop",
-  "parent2": "soybean_crop"
+  "child": "tea_plant",
+  "parent1": "seaweed_plant",
+  "parent2": "soybean_plant"
 }

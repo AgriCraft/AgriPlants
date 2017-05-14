@@ -70,14 +70,14 @@
     "render_type": "cross",
     "seed_texture": "ActuallyAdditions:items/itemCanolaSeed",
     "plant_textures": [
-      "actuallyadditions:blocks/blockCanolaStage1",
-      "actuallyadditions:blocks/blockCanolaStage1",
-      "actuallyadditions:blocks/blockCanolaStage2",
-      "actuallyadditions:blocks/blockCanolaStage2",
-      "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage4",
-      "actuallyadditions:blocks/blockCanolaStage4"
+      "ActuallyAdditions:blocks/blockCanolaStage1",
+      "ActuallyAdditions:blocks/blockCanolaStage2",
+      "ActuallyAdditions:blocks/blockCanolaStage3",
+      "ActuallyAdditions:blocks/blockCanolaStage3",
+      "ActuallyAdditions:blocks/blockCanolaStage4",
+      "ActuallyAdditions:blocks/blockCanolaStage5",
+      "ActuallyAdditions:blocks/blockCanolaStage5",
+      "ActuallyAdditions:blocks/blockCanolaStage6"
     ]
   }
 }
