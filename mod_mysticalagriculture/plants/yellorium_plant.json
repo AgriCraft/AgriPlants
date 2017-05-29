@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/cobalt_plant.json",
+  "path": "mod_mysticalagriculture/plants/yellorium_plant.json",
   "enabled": true,
-  "id": "cobalt_plant",
-  "plant_name": "Cobalt",
-  "seed_name": "Cobalt Seeds",
+  "id": "yellorium_plant",
+  "plant_name": "Yellorium Crop",
+  "seed_name": "Yellorium Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:cobalt_seeds",
+      "item": "mysticalagriculture:yellorium_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cobalt Seeds."
+    "default": "Yellorium Seeds."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -36,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:cobalt_essence",
+        "item": "mysticalagriculture:yellorium_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -51,12 +53,11 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/cobalt_seeds",
+    "seed_texture": "mysticalagriculture:items/yellorium_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -65,7 +66,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/cobalt_crop"
+      "mysticalagriculture:blocks/yellorium_crop"
     ]
   }
 }
