@@ -6,7 +6,7 @@
   "seed_name": "Tier3 Inferium Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:inferium_seeds",
+      "item": "mysticalagriculture:tier3_inferium_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
