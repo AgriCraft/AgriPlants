@@ -6,7 +6,7 @@
   "seed_name": "Tier5 Inferium Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:infernium_seeds",
+      "item": "mysticalagriculture:tier5_infernium_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
