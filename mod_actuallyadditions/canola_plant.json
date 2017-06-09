@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -63,20 +65,19 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "ActuallyAdditions:items/itemCanolaSeed",
+    "seed_texture": "actuallyadditions:items/itemCanolaSeed",
     "plant_textures": [
       "actuallyadditions:blocks/blockCanolaStage1",
-      "actuallyadditions:blocks/blockCanolaStage1",
+      "actuallyadditions:blocks/blockCanolaStage2",
       "actuallyadditions:blocks/blockCanolaStage2",
       "actuallyadditions:blocks/blockCanolaStage2",
       "actuallyadditions:blocks/blockCanolaStage3",
       "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage4",
+      "actuallyadditions:blocks/blockCanolaStage3",
       "actuallyadditions:blocks/blockCanolaStage4"
     ]
   }
