@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -51,21 +53,20 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "ActuallyAdditions:items/itemCoffeeSeed",
+    "seed_texture": "actuallyadditions:items/itemCoffeeSeed",
     "plant_textures": [
-      "ActuallyAdditions:blocks/blockCoffeeStage1",
-      "ActuallyAdditions:blocks/blockCoffeeStage2",
-      "ActuallyAdditions:blocks/blockCoffeeStage3",
-      "ActuallyAdditions:blocks/blockCoffeeStage3",
-      "ActuallyAdditions:blocks/blockCoffeeStage4",
-      "ActuallyAdditions:blocks/blockCoffeeStage5",
-      "ActuallyAdditions:blocks/blockCoffeeStage5",
-      "ActuallyAdditions:blocks/blockCoffeeStage6"
+      "actuallyadditions:blocks/blockCoffeeStage1",
+      "actuallyadditions:blocks/blockCoffeeStage2",
+      "actuallyadditions:blocks/blockCoffeeStage2",
+      "actuallyadditions:blocks/blockCoffeeStage3",
+      "actuallyadditions:blocks/blockCoffeeStage4",
+      "actuallyadditions:blocks/blockCoffeeStage4",
+      "actuallyadditions:blocks/blockCoffeeStage5",
+      "actuallyadditions:blocks/blockCoffeeStage6"
     ]
   }
 }

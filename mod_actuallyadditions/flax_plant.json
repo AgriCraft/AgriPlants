@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -51,21 +53,20 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "ActuallyAdditions:items/itemFlaxSeed",
+    "seed_texture": "actuallyadditions:items/itemFlaxSeed",
     "plant_textures": [
-      "ActuallyAdditions:blocks/blockFlaxStage1",
-      "ActuallyAdditions:blocks/blockFlaxStage2",
-      "ActuallyAdditions:blocks/blockFlaxStage3",
-      "ActuallyAdditions:blocks/blockFlaxStage3",
-      "ActuallyAdditions:blocks/blockFlaxStage4",
-      "ActuallyAdditions:blocks/blockFlaxStage5",
-      "ActuallyAdditions:blocks/blockFlaxStage5",
-      "ActuallyAdditions:blocks/blockFlaxStage6"
+      "actuallyadditions:blocks/blockFlaxStage1",
+      "actuallyadditions:blocks/blockFlaxStage2",
+      "actuallyadditions:blocks/blockFlaxStage2",
+      "actuallyadditions:blocks/blockFlaxStage3",
+      "actuallyadditions:blocks/blockFlaxStage4",
+      "actuallyadditions:blocks/blockFlaxStage4",
+      "actuallyadditions:blocks/blockFlaxStage5",
+      "actuallyadditions:blocks/blockFlaxStage6"
     ]
   }
 }

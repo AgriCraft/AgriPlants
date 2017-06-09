@@ -29,6 +29,8 @@
   "spread_chance": 0.1,
   "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
   "products": {
     "products": [
       {
@@ -36,8 +38,8 @@
         "max": 3,
         "chance": 0.95,
         "required": true,
-        "item": "actuallyadditions:itemFood:16",
-        "meta": 0,
+        "item": "actuallyadditions:itemFood",
+        "meta": 16,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
@@ -51,21 +53,20 @@
     "soils": [
       "farmland_soil"
     ],
-    "bases": [],
-    "nearby": {}
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "ActuallyAdditions:items/itemRiceSeed",
+    "seed_texture": "actuallyadditions:items/itemRiceSeed",
     "plant_textures": [
-      "ActuallyAdditions:blocks/blockRiceStage1",
-      "ActuallyAdditions:blocks/blockRiceStage2",
-      "ActuallyAdditions:blocks/blockRiceStage3",
-      "ActuallyAdditions:blocks/blockRiceStage3",
-      "ActuallyAdditions:blocks/blockRiceStage4",
-      "ActuallyAdditions:blocks/blockRiceStage5",
-      "ActuallyAdditions:blocks/blockRiceStage5",
-      "ActuallyAdditions:blocks/blockRiceStage6"
+      "actuallyadditions:blocks/blockRiceStage1",
+      "actuallyadditions:blocks/blockRiceStage2",
+      "actuallyadditions:blocks/blockRiceStage2",
+      "actuallyadditions:blocks/blockRiceStage3",
+      "actuallyadditions:blocks/blockRiceStage4",
+      "actuallyadditions:blocks/blockRiceStage4",
+      "actuallyadditions:blocks/blockRiceStage5",
+      "actuallyadditions:blocks/blockRiceStage6"
     ]
   }
 }
