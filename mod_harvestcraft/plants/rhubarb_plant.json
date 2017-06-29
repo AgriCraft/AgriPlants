@@ -6,7 +6,7 @@
   "seed_name": "Rhubarb Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:rhubarbseedItem",
+      "item": "harvestcraft:rhubarbseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:rhubarbItem",
+        "item": "harvestcraft:rhubarbitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/rhubarbItem",
+    "seed_texture": "harvestcraft:items/rhubarbitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/rhubarb_stage_0",
       "harvestcraft:blocks/crops/rhubarb_stage_0",

@@ -6,7 +6,7 @@
   "seed_name": "Spiceleaf Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:spiceleafseedItem",
+      "item": "harvestcraft:spiceleafseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:spiceleafItem",
+        "item": "harvestcraft:spiceleafitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/spiceleafItem",
+    "seed_texture": "harvestcraft:items/spiceleafitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/spiceleaf_stage_0",
       "harvestcraft:blocks/crops/spiceleaf_stage_0",

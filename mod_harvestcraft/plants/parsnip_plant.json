@@ -6,7 +6,7 @@
   "seed_name": "Parsnip Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:parsnipseedItem",
+      "item": "harvestcraft:parsnipseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:parsnipItem",
+        "item": "harvestcraft:parsnipitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/parsnipItem",
+    "seed_texture": "harvestcraft:items/parsnipitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/parsnip_stage_0",
       "harvestcraft:blocks/crops/parsnip_stage_0",

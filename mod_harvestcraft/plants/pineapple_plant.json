@@ -6,7 +6,7 @@
   "seed_name": "Pineapple Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:pineappleseedItem",
+      "item": "harvestcraft:pineappleseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:pineappleItem",
+        "item": "harvestcraft:pineappleitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/pineappleItem",
+    "seed_texture": "harvestcraft:items/pineappleitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/pineapple_stage_0",
       "harvestcraft:blocks/crops/pineapple_stage_0",
