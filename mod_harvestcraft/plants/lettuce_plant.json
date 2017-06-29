@@ -6,7 +6,7 @@
   "seed_name": "Lettuce Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:lettuceseedItem",
+      "item": "harvestcraft:lettuceseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:lettuceItem",
+        "item": "harvestcraft:lettuceitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/lettuceseedItem",
+    "seed_texture": "harvestcraft:items/lettuceseeditem",
     "plant_textures": [
       "harvestcraft:blocks/crops/lettuce_stage_0",
       "harvestcraft:blocks/crops/lettuce_stage_0",

@@ -6,7 +6,7 @@
   "seed_name": "Soybean Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:soybeanseedItem",
+      "item": "harvestcraft:soybeanseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:soybeanItem",
+        "item": "harvestcraft:soybeanitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/soybeanItem",
+    "seed_texture": "harvestcraft:items/soybeanitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/soybean_stage_0",
       "harvestcraft:blocks/crops/soybean_stage_0",

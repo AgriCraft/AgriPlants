@@ -6,7 +6,7 @@
   "seed_name": "Bellpepper Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:bellpepperseedItem",
+      "item": "harvestcraft:bellpepperseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:bellpepperItem",
+        "item": "harvestcraft:bellpepperitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/bellpepperItem",
+    "seed_texture": "harvestcraft:items/bellpepperitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/bellpepper_stage_0",
       "harvestcraft:blocks/crops/bellpepper_stage_0",

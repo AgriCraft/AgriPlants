@@ -6,7 +6,7 @@
   "seed_name": "Oats Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:oatsseedItem",
+      "item": "harvestcraft:oatsseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:oatsItem",
+        "item": "harvestcraft:oatsitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/oatsseedItem",
+    "seed_texture": "harvestcraft:items/oatsseeditem",
     "plant_textures": [
       "harvestcraft:blocks/crops/oats_stage_0",
       "harvestcraft:blocks/crops/oats_stage_0",

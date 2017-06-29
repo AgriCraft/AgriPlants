@@ -6,7 +6,7 @@
   "seed_name": "Cranberry Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:cranberryseedItem",
+      "item": "harvestcraft:cranberryseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:cranberryItem",
+        "item": "harvestcraft:cranberryitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/cranberryItem",
+    "seed_texture": "harvestcraft:items/cranberryitem",
     "plant_textures": [
       "harvestcraft:blocks/crops/cranberry_stage_0",
       "harvestcraft:blocks/crops/cranberry_stage_0",
