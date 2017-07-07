@@ -1,5 +1,4 @@
 {
-  "path": "resource/mutations/aurigold_mutation.json",
   "enabled": true,
   "chance": 0.25,
   "child": "aurigold_plant",

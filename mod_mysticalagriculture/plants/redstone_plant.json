@@ -1,5 +1,4 @@
 {
-  "path": "mod_mysticalagriculture/plants/redstone_plant.json",
   "enabled": true,
   "id": "redstone_plant",
   "plant_name": "Redstone Crop",

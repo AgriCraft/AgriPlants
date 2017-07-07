@@ -1,5 +1,4 @@
 {
-  "path": "mod_agriculturalexpansion/plants/resource_seed_plant.json",
   "enabled": true,
   "id": "resource_seed",
   "plant_name": "Resource Crop",

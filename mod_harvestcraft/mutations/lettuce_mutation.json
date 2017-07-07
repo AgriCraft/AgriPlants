@@ -1,5 +1,4 @@
 {
-  "path": "mod_harvestcraft/mutations/lettuce_mutation.json",
   "enabled": true,
   "chance": 0.5,
   "child": "lettuce_plant",

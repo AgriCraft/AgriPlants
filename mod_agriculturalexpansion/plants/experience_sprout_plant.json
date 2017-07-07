@@ -1,5 +1,4 @@
 {
-  "path": "mod_agriculturalexpansion/plants/experience_sprout_plant.json",
   "enabled": true,
   "id": "experience_sprout",
   "plant_name": "Experience Crop",

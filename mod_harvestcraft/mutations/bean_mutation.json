@@ -1,5 +1,4 @@
 {
-  "path": "mod_harvestcraft/mutations/bean_mutation.json",
   "enabled": true,
   "chance": 0.5,
   "child": "bean_plant",
