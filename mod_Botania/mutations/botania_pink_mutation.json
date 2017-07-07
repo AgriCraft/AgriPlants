@@ -1,5 +1,4 @@
 {
-  "path": "mod_Botania/mutations/botania_pink_mutation.json",
   "enabled": true,
   "chance": 0.5,
   "child": "botania_pink_plant",

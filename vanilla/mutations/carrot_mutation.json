@@ -1,5 +1,4 @@
 {
-  "path": "vanilla/mutations/carrot_mutation.json",
   "enabled": true,
   "chance": 0.75,
   "child": "carrot_plant",

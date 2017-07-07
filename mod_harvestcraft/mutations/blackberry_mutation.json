@@ -1,5 +1,4 @@
 {
-  "path": "mod_harvestcraft/mutations/blackberry_mutation.json",
   "enabled": true,
   "chance": 0.5,
   "child": "blackberry_plant",

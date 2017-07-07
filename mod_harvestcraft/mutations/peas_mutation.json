@@ -1,5 +1,4 @@
 {
-  "path": "mod_harvestcraft/mutations/peas_mutation.json",
   "enabled": true,
   "chance": 0.5,
   "child": "peas_plant",
