@@ -4,7 +4,18 @@
   "id": "carrot_plant",
   "plant_name": "Carrot",
   "seed_name": "Carrot Seeds",
-  "seed_items": [],
+  "seed_items": [
+    {
+      "item": "minecraft:carrot",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
   "description": {
     "translations": {},
     "default": "Rabbit attractant."
