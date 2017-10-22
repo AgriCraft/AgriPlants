@@ -11,7 +11,7 @@
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": true,
+  "bonemeal": false,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
