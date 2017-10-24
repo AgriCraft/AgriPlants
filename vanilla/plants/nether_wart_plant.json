@@ -6,6 +6,16 @@
   "seed_name": "Nether Spores",
   "seed_items": [
     {
+      "item": "agricraft:agri_seed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    },
+    {
       "item": "minecraft:nether_wart",
       "meta": 0,
       "tags": "",
@@ -57,7 +67,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:items/nether_wart",
+    "seed_texture": "agricraft:items/seedNetherWart",
     "plant_textures": [
       "minecraft:blocks/nether_wart_stage_0",
       "minecraft:blocks/nether_wart_stage_0",

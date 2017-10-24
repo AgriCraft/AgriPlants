@@ -6,6 +6,16 @@
   "seed_name": "Carrot Seeds",
   "seed_items": [
     {
+      "item": "agricraft:agri_seed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    },
+    {
       "item": "minecraft:carrot",
       "meta": 0,
       "tags": "",
