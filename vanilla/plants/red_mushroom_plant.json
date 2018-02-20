@@ -69,16 +69,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedShroomRed",
+    "seed_texture": "agricraft:items/seed_shroom_red",
     "plant_textures": [
-      "agricraft:blocks/cropShroomRed1",
-      "agricraft:blocks/cropShroomRed1",
-      "agricraft:blocks/cropShroomRed1",
-      "agricraft:blocks/cropShroomRed2",
-      "agricraft:blocks/cropShroomRed2",
-      "agricraft:blocks/cropShroomRed3",
-      "agricraft:blocks/cropShroomRed3",
-      "agricraft:blocks/cropShroomRed4"
+      "agricraft:blocks/crop_shroom_red1",
+      "agricraft:blocks/crop_shroom_red1",
+      "agricraft:blocks/crop_shroom_red1",
+      "agricraft:blocks/crop_shroom_red2",
+      "agricraft:blocks/crop_shroom_red2",
+      "agricraft:blocks/crop_shroom_red3",
+      "agricraft:blocks/crop_shroom_red3",
+      "agricraft:blocks/crop_shroom_red4"
     ]
   }
 }

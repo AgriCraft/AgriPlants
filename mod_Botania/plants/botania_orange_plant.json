@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "agricraft:items/seedBotaniaOrange",
+    "seed_texture": "agricraft:items/seed_botania_orange",
     "plant_textures": [
-      "agricraft:blocks/cropBotaniaOrange1",
-      "agricraft:blocks/cropBotaniaOrange1",
-      "agricraft:blocks/cropBotaniaOrange1",
-      "agricraft:blocks/cropBotaniaOrange2",
-      "agricraft:blocks/cropBotaniaOrange2",
-      "agricraft:blocks/cropBotaniaOrange3",
-      "agricraft:blocks/cropBotaniaOrange3",
-      "agricraft:blocks/cropBotaniaOrange4"
+      "agricraft:blocks/crop_botania_orange1",
+      "agricraft:blocks/crop_botania_orange1",
+      "agricraft:blocks/crop_botania_orange1",
+      "agricraft:blocks/crop_botania_orange2",
+      "agricraft:blocks/crop_botania_orange2",
+      "agricraft:blocks/crop_botania_orange3",
+      "agricraft:blocks/crop_botania_orange3",
+      "agricraft:blocks/crop_botania_orange4"
     ]
   }
 }

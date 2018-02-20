@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedTulipPink",
+    "seed_texture": "agricraft:items/seed_tulip_pink",
     "plant_textures": [
-      "agricraft:blocks/cropTulipPink1",
-      "agricraft:blocks/cropTulipPink1",
-      "agricraft:blocks/cropTulipPink2",
-      "agricraft:blocks/cropTulipPink2",
-      "agricraft:blocks/cropTulipPink2",
-      "agricraft:blocks/cropTulipPink3",
-      "agricraft:blocks/cropTulipPink3",
-      "agricraft:blocks/cropTulipPink4"
+      "agricraft:blocks/crop_tulip_pink1",
+      "agricraft:blocks/crop_tulip_pink1",
+      "agricraft:blocks/crop_tulip_pink2",
+      "agricraft:blocks/crop_tulip_pink2",
+      "agricraft:blocks/crop_tulip_pink2",
+      "agricraft:blocks/crop_tulip_pink3",
+      "agricraft:blocks/crop_tulip_pink3",
+      "agricraft:blocks/crop_tulip_pink4"
     ]
   }
 }

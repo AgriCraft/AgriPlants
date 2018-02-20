@@ -59,14 +59,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/seeds_melon",
     "plant_textures": [
-      "agricraft:blocks/cropMelon1",
-      "agricraft:blocks/cropMelon1",
-      "agricraft:blocks/cropMelon1",
-      "agricraft:blocks/cropMelon2",
-      "agricraft:blocks/cropMelon2",
-      "agricraft:blocks/cropMelon3",
-      "agricraft:blocks/cropMelon3",
-      "agricraft:blocks/cropMelon4"
+      "agricraft:blocks/crop_melon1",
+      "agricraft:blocks/crop_melon1",
+      "agricraft:blocks/crop_melon1",
+      "agricraft:blocks/crop_melon2",
+      "agricraft:blocks/crop_melon2",
+      "agricraft:blocks/crop_melon3",
+      "agricraft:blocks/crop_melon3",
+      "agricraft:blocks/crop_melon4"
     ]
   }
 }

@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedQuartzanthemum",
+    "seed_texture": "agricraft:items/seed_quartzanthemum",
     "plant_textures": [
-      "agricraft:blocks/cropQuartzanthemum1",
-      "agricraft:blocks/cropQuartzanthemum1",
-      "agricraft:blocks/cropQuartzanthemum1",
-      "agricraft:blocks/cropQuartzanthemum2",
-      "agricraft:blocks/cropQuartzanthemum2",
-      "agricraft:blocks/cropQuartzanthemum3",
-      "agricraft:blocks/cropQuartzanthemum3",
-      "agricraft:blocks/cropQuartzanthemum4"
+      "agricraft:blocks/crop_quartzanthemum1",
+      "agricraft:blocks/crop_quartzanthemum1",
+      "agricraft:blocks/crop_quartzanthemum1",
+      "agricraft:blocks/crop_quartzanthemum2",
+      "agricraft:blocks/crop_quartzanthemum2",
+      "agricraft:blocks/crop_quartzanthemum3",
+      "agricraft:blocks/crop_quartzanthemum3",
+      "agricraft:blocks/crop_quartzanthemum4"
     ]
   }
 }

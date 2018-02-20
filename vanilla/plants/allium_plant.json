@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedAllium",
+    "seed_texture": "agricraft:items/seed_allium",
     "plant_textures": [
-      "agricraft:blocks/cropAllium1",
-      "agricraft:blocks/cropAllium1",
-      "agricraft:blocks/cropAllium2",
-      "agricraft:blocks/cropAllium2",
-      "agricraft:blocks/cropAllium2",
-      "agricraft:blocks/cropAllium3",
-      "agricraft:blocks/cropAllium3",
-      "agricraft:blocks/cropAllium4"
+      "agricraft:blocks/crop_allium1",
+      "agricraft:blocks/crop_allium1",
+      "agricraft:blocks/crop_allium2",
+      "agricraft:blocks/crop_allium2",
+      "agricraft:blocks/crop_allium2",
+      "agricraft:blocks/crop_allium3",
+      "agricraft:blocks/crop_allium3",
+      "agricraft:blocks/crop_allium4"
     ]
   }
 }

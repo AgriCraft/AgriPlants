@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedRedstodendron",
+    "seed_texture": "agricraft:items/seed_redstodendron",
     "plant_textures": [
-      "agricraft:blocks/cropRedstodendron1",
-      "agricraft:blocks/cropRedstodendron1",
-      "agricraft:blocks/cropRedstodendron1",
-      "agricraft:blocks/cropRedstodendron2",
-      "agricraft:blocks/cropRedstodendron2",
-      "agricraft:blocks/cropRedstodendron3",
-      "agricraft:blocks/cropRedstodendron3",
-      "agricraft:blocks/cropRedstodendron4"
+      "agricraft:blocks/crop_redstodendron1",
+      "agricraft:blocks/crop_redstodendron1",
+      "agricraft:blocks/crop_redstodendron1",
+      "agricraft:blocks/crop_redstodendron2",
+      "agricraft:blocks/crop_redstodendron2",
+      "agricraft:blocks/crop_redstodendron3",
+      "agricraft:blocks/crop_redstodendron3",
+      "agricraft:blocks/crop_redstodendron4"
     ]
   }
 }

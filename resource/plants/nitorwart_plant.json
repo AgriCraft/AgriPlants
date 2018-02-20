@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedNitorWart",
+    "seed_texture": "agricraft:items/seed_nitor_wart",
     "plant_textures": [
-      "agricraft:blocks/cropNitorWart1",
-      "agricraft:blocks/cropNitorWart1",
-      "agricraft:blocks/cropNitorWart1",
-      "agricraft:blocks/cropNitorWart2",
-      "agricraft:blocks/cropNitorWart2",
-      "agricraft:blocks/cropNitorWart3",
-      "agricraft:blocks/cropNitorWart3",
-      "agricraft:blocks/cropNitorWart4"
+      "agricraft:blocks/crop_nitor_wart1",
+      "agricraft:blocks/crop_nitor_wart1",
+      "agricraft:blocks/crop_nitor_wart1",
+      "agricraft:blocks/crop_nitor_wart2",
+      "agricraft:blocks/crop_nitor_wart2",
+      "agricraft:blocks/crop_nitor_wart3",
+      "agricraft:blocks/crop_nitor_wart3",
+      "agricraft:blocks/crop_nitor_wart4"
     ]
   }
 }

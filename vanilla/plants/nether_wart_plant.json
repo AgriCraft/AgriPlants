@@ -67,7 +67,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedNetherWart",
+    "seed_texture": "agricraft:items/seed_nether_wart",
     "plant_textures": [
       "minecraft:blocks/nether_wart_stage_0",
       "minecraft:blocks/nether_wart_stage_0",

@@ -59,14 +59,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/seeds_pumpkin",
     "plant_textures": [
-      "agricraft:blocks/cropPumpkin1",
-      "agricraft:blocks/cropPumpkin1",
-      "agricraft:blocks/cropPumpkin1",
-      "agricraft:blocks/cropPumpkin2",
-      "agricraft:blocks/cropPumpkin2",
-      "agricraft:blocks/cropPumpkin3",
-      "agricraft:blocks/cropPumpkin3",
-      "agricraft:blocks/cropPumpkin4"
+      "agricraft:blocks/crop_pumpkin1",
+      "agricraft:blocks/crop_pumpkin1",
+      "agricraft:blocks/crop_pumpkin1",
+      "agricraft:blocks/crop_pumpkin2",
+      "agricraft:blocks/crop_pumpkin2",
+      "agricraft:blocks/crop_pumpkin3",
+      "agricraft:blocks/crop_pumpkin3",
+      "agricraft:blocks/crop_pumpkin4"
     ]
   }
 }

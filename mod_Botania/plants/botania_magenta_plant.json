@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "agricraft:items/seedBotaniaMagenta",
+    "seed_texture": "agricraft:items/seed_botania_magenta",
     "plant_textures": [
-      "agricraft:blocks/cropBotaniaMagenta1",
-      "agricraft:blocks/cropBotaniaMagenta1",
-      "agricraft:blocks/cropBotaniaMagenta1",
-      "agricraft:blocks/cropBotaniaMagenta2",
-      "agricraft:blocks/cropBotaniaMagenta2",
-      "agricraft:blocks/cropBotaniaMagenta3",
-      "agricraft:blocks/cropBotaniaMagenta3",
-      "agricraft:blocks/cropBotaniaMagenta4"
+      "agricraft:blocks/crop_botania_magenta1",
+      "agricraft:blocks/crop_botania_magenta1",
+      "agricraft:blocks/crop_botania_magenta1",
+      "agricraft:blocks/crop_botania_magenta2",
+      "agricraft:blocks/crop_botania_magenta2",
+      "agricraft:blocks/crop_botania_magenta3",
+      "agricraft:blocks/crop_botania_magenta3",
+      "agricraft:blocks/crop_botania_magenta4"
     ]
   }
 }

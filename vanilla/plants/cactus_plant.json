@@ -67,16 +67,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedCactus",
+    "seed_texture": "agricraft:items/seed_cactus",
     "plant_textures": [
-      "agricraft:blocks/cropCactus1",
-      "agricraft:blocks/cropCactus1",
-      "agricraft:blocks/cropCactus1",
-      "agricraft:blocks/cropCactus2",
-      "agricraft:blocks/cropCactus2",
-      "agricraft:blocks/cropCactus3",
-      "agricraft:blocks/cropCactus3",
-      "agricraft:blocks/cropCactus4"
+      "agricraft:blocks/crop_cactus1",
+      "agricraft:blocks/crop_cactus1",
+      "agricraft:blocks/crop_cactus1",
+      "agricraft:blocks/crop_cactus2",
+      "agricraft:blocks/crop_cactus2",
+      "agricraft:blocks/crop_cactus3",
+      "agricraft:blocks/crop_cactus3",
+      "agricraft:blocks/crop_cactus4"
     ]
   }
 }

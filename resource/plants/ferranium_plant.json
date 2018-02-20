@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedFerranium",
+    "seed_texture": "agricraft:items/seed_ferranium",
     "plant_textures": [
-      "agricraft:blocks/cropFerranium1",
-      "agricraft:blocks/cropFerranium1",
-      "agricraft:blocks/cropFerranium1",
-      "agricraft:blocks/cropFerranium2",
-      "agricraft:blocks/cropFerranium2",
-      "agricraft:blocks/cropFerranium2",
-      "agricraft:blocks/cropFerranium3",
-      "agricraft:blocks/cropFerranium4"
+      "agricraft:blocks/crop_ferranium1",
+      "agricraft:blocks/crop_ferranium1",
+      "agricraft:blocks/crop_ferranium1",
+      "agricraft:blocks/crop_ferranium2",
+      "agricraft:blocks/crop_ferranium2",
+      "agricraft:blocks/crop_ferranium2",
+      "agricraft:blocks/crop_ferranium3",
+      "agricraft:blocks/crop_ferranium4"
     ]
   }
 }

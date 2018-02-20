@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "agricraft:items/seedBotaniaLightBlue",
+    "seed_texture": "agricraft:items/seed_botania_light_blue",
     "plant_textures": [
-      "agricraft:blocks/cropBotaniaLightBlue1",
-      "agricraft:blocks/cropBotaniaLightBlue1",
-      "agricraft:blocks/cropBotaniaLightBlue1",
-      "agricraft:blocks/cropBotaniaLightBlue2",
-      "agricraft:blocks/cropBotaniaLightBlue2",
-      "agricraft:blocks/cropBotaniaLightBlue3",
-      "agricraft:blocks/cropBotaniaLightBlue3",
-      "agricraft:blocks/cropBotaniaLightBlue4"
+      "agricraft:blocks/crop_botania_light_blue1",
+      "agricraft:blocks/crop_botania_light_blue1",
+      "agricraft:blocks/crop_botania_light_blue1",
+      "agricraft:blocks/crop_botania_light_blue2",
+      "agricraft:blocks/crop_botania_light_blue2",
+      "agricraft:blocks/crop_botania_light_blue3",
+      "agricraft:blocks/crop_botania_light_blue3",
+      "agricraft:blocks/crop_botania_light_blue4"
     ]
   }
 }

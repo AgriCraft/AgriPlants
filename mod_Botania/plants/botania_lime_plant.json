@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "agricraft:items/seedBotaniaLime",
+    "seed_texture": "agricraft:items/seed_botania_lime",
     "plant_textures": [
-      "agricraft:blocks/cropBotaniaLime1",
-      "agricraft:blocks/cropBotaniaLime1",
-      "agricraft:blocks/cropBotaniaLime1",
-      "agricraft:blocks/cropBotaniaLime2",
-      "agricraft:blocks/cropBotaniaLime2",
-      "agricraft:blocks/cropBotaniaLime3",
-      "agricraft:blocks/cropBotaniaLime3",
-      "agricraft:blocks/cropBotaniaLime4"
+      "agricraft:blocks/crop_botania_lime1",
+      "agricraft:blocks/crop_botania_lime1",
+      "agricraft:blocks/crop_botania_lime1",
+      "agricraft:blocks/crop_botania_lime2",
+      "agricraft:blocks/crop_botania_lime2",
+      "agricraft:blocks/crop_botania_lime3",
+      "agricraft:blocks/crop_botania_lime3",
+      "agricraft:blocks/crop_botania_lime4"
     ]
   }
 }

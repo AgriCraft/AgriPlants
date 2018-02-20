@@ -79,16 +79,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedPotato",
+    "seed_texture": "agricraft:items/seed_potato",
     "plant_textures": [
-      "agricraft:blocks/cropPotato1",
-      "agricraft:blocks/cropPotato1",
-      "agricraft:blocks/cropPotato1",
-      "agricraft:blocks/cropPotato2",
-      "agricraft:blocks/cropPotato2",
-      "agricraft:blocks/cropPotato3",
-      "agricraft:blocks/cropPotato3",
-      "agricraft:blocks/cropPotato4"
+      "agricraft:blocks/crop_potato1",
+      "agricraft:blocks/crop_potato1",
+      "agricraft:blocks/crop_potato1",
+      "agricraft:blocks/crop_potato2",
+      "agricraft:blocks/crop_potato2",
+      "agricraft:blocks/crop_potato3",
+      "agricraft:blocks/crop_potato3",
+      "agricraft:blocks/crop_potato4"
     ]
   }
 }

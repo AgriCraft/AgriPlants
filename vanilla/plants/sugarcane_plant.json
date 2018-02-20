@@ -70,16 +70,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedSugarcane",
+    "seed_texture": "agricraft:items/seed_sugarcane",
     "plant_textures": [
-      "agricraft:blocks/cropSugarcane1",
-      "agricraft:blocks/cropSugarcane1",
-      "agricraft:blocks/cropSugarcane1",
-      "agricraft:blocks/cropSugarcane2",
-      "agricraft:blocks/cropSugarcane2",
-      "agricraft:blocks/cropSugarcane3",
-      "agricraft:blocks/cropSugarcane3",
-      "agricraft:blocks/cropSugarcane4"
+      "agricraft:blocks/crop_sugarcane1",
+      "agricraft:blocks/crop_sugarcane1",
+      "agricraft:blocks/crop_sugarcane1",
+      "agricraft:blocks/crop_sugarcane2",
+      "agricraft:blocks/crop_sugarcane2",
+      "agricraft:blocks/crop_sugarcane3",
+      "agricraft:blocks/crop_sugarcane3",
+      "agricraft:blocks/crop_sugarcane4"
     ]
   }
 }

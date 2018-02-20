@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedDaisy",
+    "seed_texture": "agricraft:items/seed_daisy",
     "plant_textures": [
-      "agricraft:blocks/cropDaisy1",
-      "agricraft:blocks/cropDaisy1",
-      "agricraft:blocks/cropDaisy2",
-      "agricraft:blocks/cropDaisy2",
-      "agricraft:blocks/cropDaisy2",
-      "agricraft:blocks/cropDaisy3",
-      "agricraft:blocks/cropDaisy3",
-      "agricraft:blocks/cropDaisy4"
+      "agricraft:blocks/crop_daisy1",
+      "agricraft:blocks/crop_daisy1",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy2",
+      "agricraft:blocks/crop_daisy3",
+      "agricraft:blocks/crop_daisy3",
+      "agricraft:blocks/crop_daisy4"
     ]
   }
 }

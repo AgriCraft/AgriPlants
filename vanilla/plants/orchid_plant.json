@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedOrchid",
+    "seed_texture": "agricraft:items/seed_orchid",
     "plant_textures": [
-      "agricraft:blocks/cropOrchid1",
-      "agricraft:blocks/cropOrchid1",
-      "agricraft:blocks/cropOrchid2",
-      "agricraft:blocks/cropOrchid2",
-      "agricraft:blocks/cropOrchid2",
-      "agricraft:blocks/cropOrchid3",
-      "agricraft:blocks/cropOrchid3",
-      "agricraft:blocks/cropOrchid4"
+      "agricraft:blocks/crop_orchid1",
+      "agricraft:blocks/crop_orchid1",
+      "agricraft:blocks/crop_orchid2",
+      "agricraft:blocks/crop_orchid2",
+      "agricraft:blocks/crop_orchid2",
+      "agricraft:blocks/crop_orchid3",
+      "agricraft:blocks/crop_orchid3",
+      "agricraft:blocks/crop_orchid4"
     ]
   }
 }

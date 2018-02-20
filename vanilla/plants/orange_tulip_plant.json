@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedTulipOrange",
+    "seed_texture": "agricraft:items/seed_tulip_orange",
     "plant_textures": [
-      "agricraft:blocks/cropTulipOrange1",
-      "agricraft:blocks/cropTulipOrange1",
-      "agricraft:blocks/cropTulipOrange2",
-      "agricraft:blocks/cropTulipOrange2",
-      "agricraft:blocks/cropTulipOrange2",
-      "agricraft:blocks/cropTulipOrange3",
-      "agricraft:blocks/cropTulipOrange3",
-      "agricraft:blocks/cropTulipOrange4"
+      "agricraft:blocks/crop_tulip_orange1",
+      "agricraft:blocks/crop_tulip_orange1",
+      "agricraft:blocks/crop_tulip_orange2",
+      "agricraft:blocks/crop_tulip_orange2",
+      "agricraft:blocks/crop_tulip_orange2",
+      "agricraft:blocks/crop_tulip_orange3",
+      "agricraft:blocks/crop_tulip_orange3",
+      "agricraft:blocks/crop_tulip_orange4"
     ]
   }
 }

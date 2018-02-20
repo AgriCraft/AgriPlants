@@ -67,16 +67,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedShroomBrown",
+    "seed_texture": "agricraft:items/seed_shroom_brown",
     "plant_textures": [
-      "agricraft:blocks/cropShroomBrown1",
-      "agricraft:blocks/cropShroomBrown1",
-      "agricraft:blocks/cropShroomBrown1",
-      "agricraft:blocks/cropShroomBrown2",
-      "agricraft:blocks/cropShroomBrown2",
-      "agricraft:blocks/cropShroomBrown3",
-      "agricraft:blocks/cropShroomBrown3",
-      "agricraft:blocks/cropShroomBrown4"
+      "agricraft:blocks/crop_shroom_brown1",
+      "agricraft:blocks/crop_shroom_brown1",
+      "agricraft:blocks/crop_shroom_brown1",
+      "agricraft:blocks/crop_shroom_brown2",
+      "agricraft:blocks/crop_shroom_brown2",
+      "agricraft:blocks/crop_shroom_brown3",
+      "agricraft:blocks/crop_shroom_brown3",
+      "agricraft:blocks/crop_shroom_brown4"
     ]
   }
 }

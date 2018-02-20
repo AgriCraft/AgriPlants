@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedEmeryllis",
+    "seed_texture": "agricraft:items/seed_emeryllis",
     "plant_textures": [
-      "agricraft:blocks/cropEmeryllis1",
-      "agricraft:blocks/cropEmeryllis1",
-      "agricraft:blocks/cropEmeryllis1",
-      "agricraft:blocks/cropEmeryllis2",
-      "agricraft:blocks/cropEmeryllis2",
-      "agricraft:blocks/cropEmeryllis3",
-      "agricraft:blocks/cropEmeryllis3",
-      "agricraft:blocks/cropEmeryllis4"
+      "agricraft:blocks/crop_emeryllis1",
+      "agricraft:blocks/crop_emeryllis1",
+      "agricraft:blocks/crop_emeryllis1",
+      "agricraft:blocks/crop_emeryllis2",
+      "agricraft:blocks/crop_emeryllis2",
+      "agricraft:blocks/crop_emeryllis3",
+      "agricraft:blocks/crop_emeryllis3",
+      "agricraft:blocks/crop_emeryllis4"
     ]
   }
 }

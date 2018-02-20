@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedAurigold",
+    "seed_texture": "agricraft:items/seed_aurigold",
     "plant_textures": [
-      "agricraft:blocks/cropAurigold1",
-      "agricraft:blocks/cropAurigold1",
-      "agricraft:blocks/cropAurigold2",
-      "agricraft:blocks/cropAurigold2",
-      "agricraft:blocks/cropAurigold2",
-      "agricraft:blocks/cropAurigold3",
-      "agricraft:blocks/cropAurigold3",
-      "agricraft:blocks/cropAurigold4"
+      "agricraft:blocks/crop_aurigold1",
+      "agricraft:blocks/crop_aurigold1",
+      "agricraft:blocks/crop_aurigold2",
+      "agricraft:blocks/crop_aurigold2",
+      "agricraft:blocks/crop_aurigold2",
+      "agricraft:blocks/crop_aurigold3",
+      "agricraft:blocks/crop_aurigold3",
+      "agricraft:blocks/crop_aurigold4"
     ]
   }
 }

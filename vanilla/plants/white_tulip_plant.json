@@ -46,16 +46,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seedTulipWhite",
+    "seed_texture": "agricraft:items/seed_tulip_white",
     "plant_textures": [
-      "agricraft:blocks/cropTulipWhite1",
-      "agricraft:blocks/cropTulipWhite1",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite2",
-      "agricraft:blocks/cropTulipWhite3",
-      "agricraft:blocks/cropTulipWhite3",
-      "agricraft:blocks/cropTulipWhite4"
+      "agricraft:blocks/crop_tulip_white1",
+      "agricraft:blocks/crop_tulip_white1",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white2",
+      "agricraft:blocks/crop_tulip_white3",
+      "agricraft:blocks/crop_tulip_white3",
+      "agricraft:blocks/crop_tulip_white4"
     ]
   }
 }
