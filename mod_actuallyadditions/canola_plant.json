@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Hola, canola! According to something called the internet, the term 'canola' is a contraction of 'Canada' and 'ola', meaning oil"
+    "default": "Hola, canola! According to something called the internet, the term \u0027canola\u0027 is a contraction of \u0027Canada\u0027 and \u0027ola\u0027, meaning oil"
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
@@ -49,7 +49,7 @@
         "min": 1,
         "max": 2,
         "chance": 0.5,
-        "required": true,
+        "required": false,
         "item": "actuallyadditions:item_misc",
         "meta": 13,
         "tags": "",

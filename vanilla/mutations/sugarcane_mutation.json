@@ -4,5 +4,5 @@
   "chance": 0.5,
   "child": "sugarcane_plant",
   "parent1": "wheat_plant",
-  "parent2": "beet_plant"
+  "parent2": "beet_root_plant"
 }
