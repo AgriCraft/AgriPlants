@@ -6,7 +6,7 @@
   "seed_name": "Canola Seeds",
   "seed_items": [
     {
-      "item": "actuallyadditions:itemCanolaSeed",
+      "item": "actuallyadditions:item_canola_seed",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Testing 1, 2, 3."
+    "default": "Hola, canola! According to something called the internet, the term 'canola' is a contraction of 'Canada' and 'ola', meaning oil"
   },
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
@@ -38,7 +38,7 @@
         "max": 2,
         "chance": 0.5,
         "required": true,
-        "item": "actuallyadditions:itemCanolaSeed",
+        "item": "actuallyadditions:item_canola_seed",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -50,7 +50,7 @@
         "max": 2,
         "chance": 0.5,
         "required": true,
-        "item": "actuallyadditions:itemMisc",
+        "item": "actuallyadditions:item_misc",
         "meta": 13,
         "tags": "",
         "ignoreMeta": false,
@@ -69,16 +69,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "actuallyadditions:items/itemCanolaSeed",
+    "seed_texture": "actuallyadditions:items/item_canola_seed",
     "plant_textures": [
-      "actuallyadditions:blocks/blockCanolaStage1",
-      "actuallyadditions:blocks/blockCanolaStage2",
-      "actuallyadditions:blocks/blockCanolaStage2",
-      "actuallyadditions:blocks/blockCanolaStage2",
-      "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage3",
-      "actuallyadditions:blocks/blockCanolaStage4"
+      "actuallyadditions:blocks/block_canola_stage_1",
+      "actuallyadditions:blocks/block_canola_stage_2",
+      "actuallyadditions:blocks/block_canola_stage_2",
+      "actuallyadditions:blocks/block_canola_stage_2",
+      "actuallyadditions:blocks/block_canola_stage_3",
+      "actuallyadditions:blocks/block_canola_stage_3",
+      "actuallyadditions:blocks/block_canola_stage_3",
+      "actuallyadditions:blocks/block_canola_stage_4"
     ]
   }
 }

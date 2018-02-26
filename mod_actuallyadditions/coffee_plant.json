@@ -6,7 +6,7 @@
   "seed_name": "Coffee Seeds",
   "seed_items": [
     {
-      "item": "actuallyadditions:itemCoffeeSeed",
+      "item": "actuallyadditions:item_coffee_seed",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Testing 1, 2, 3."
+    "default": "Do I really need to describe this one to you?"
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,
@@ -38,7 +38,7 @@
         "max": 3,
         "chance": 0.95,
         "required": true,
-        "item": "actuallyadditions:itemCoffeeBeans",
+        "item": "actuallyadditions:item_coffee_beans",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,16 +57,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "actuallyadditions:items/itemCoffeeSeed",
+    "seed_texture": "actuallyadditions:items/item_coffee_seed",
     "plant_textures": [
-      "actuallyadditions:blocks/blockCoffeeStage1",
-      "actuallyadditions:blocks/blockCoffeeStage2",
-      "actuallyadditions:blocks/blockCoffeeStage2",
-      "actuallyadditions:blocks/blockCoffeeStage3",
-      "actuallyadditions:blocks/blockCoffeeStage4",
-      "actuallyadditions:blocks/blockCoffeeStage4",
-      "actuallyadditions:blocks/blockCoffeeStage5",
-      "actuallyadditions:blocks/blockCoffeeStage6"
+      "actuallyadditions:blocks/block_coffee_stage_1",
+      "actuallyadditions:blocks/block_coffee_stage_2",
+      "actuallyadditions:blocks/block_coffee_stage_2",
+      "actuallyadditions:blocks/block_coffee_stage_3",
+      "actuallyadditions:blocks/block_coffee_stage_4",
+      "actuallyadditions:blocks/block_coffee_stage_4",
+      "actuallyadditions:blocks/block_coffee_stage_5",
+      "actuallyadditions:blocks/block_coffee_stage_6"
     ]
   }
 }

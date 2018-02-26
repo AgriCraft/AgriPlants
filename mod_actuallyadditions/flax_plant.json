@@ -6,7 +6,7 @@
   "seed_name": "Flax Seeds",
   "seed_items": [
     {
-      "item": "actuallyadditions:itemFlaxSeed",
+      "item": "actuallyadditions:item_flax_seed",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Testing 1, 2, 3."
+    "default": "The source of Linseed oil, as that makes total sense."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,
@@ -57,16 +57,16 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "actuallyadditions:items/itemFlaxSeed",
+    "seed_texture": "actuallyadditions:items/item_flax_seed",
     "plant_textures": [
-      "actuallyadditions:blocks/blockFlaxStage1",
-      "actuallyadditions:blocks/blockFlaxStage2",
-      "actuallyadditions:blocks/blockFlaxStage2",
-      "actuallyadditions:blocks/blockFlaxStage3",
-      "actuallyadditions:blocks/blockFlaxStage4",
-      "actuallyadditions:blocks/blockFlaxStage4",
-      "actuallyadditions:blocks/blockFlaxStage5",
-      "actuallyadditions:blocks/blockFlaxStage6"
+      "actuallyadditions:blocks/block_flax_stage_1",
+      "actuallyadditions:blocks/block_flax_stage_2",
+      "actuallyadditions:blocks/block_flax_stage_2",
+      "actuallyadditions:blocks/block_flax_stage_3",
+      "actuallyadditions:blocks/block_flax_stage_4",
+      "actuallyadditions:blocks/block_flax_stage_4",
+      "actuallyadditions:blocks/block_flax_stage_5",
+      "actuallyadditions:blocks/block_flax_stage_6"
     ]
   }
 }

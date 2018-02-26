@@ -6,7 +6,7 @@
   "seed_name": "Rice Seeds",
   "seed_items": [
     {
-      "item": "actuallyadditions:itemRiceSeed",
+      "item": "actuallyadditions:item_rice_seed",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Testing 1, 2, 3."
+    "default": "Rice, a grain that is a staple for many. While commonly associated with flooded rice paddies, rice does not have to grow in flooded plains, but often is."
   },
   "growth_chance": 1.0,
   "growth_bonus": 0.025,
@@ -38,7 +38,7 @@
         "max": 3,
         "chance": 0.95,
         "required": true,
-        "item": "actuallyadditions:itemFood",
+        "item": "actuallyadditions:item_food",
         "meta": 16,
         "tags": "",
         "ignoreMeta": false,
@@ -57,16 +57,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "actuallyadditions:items/itemRiceSeed",
+    "seed_texture": "actuallyadditions:items/item_rice_seed",
     "plant_textures": [
-      "actuallyadditions:blocks/blockRiceStage1",
-      "actuallyadditions:blocks/blockRiceStage2",
-      "actuallyadditions:blocks/blockRiceStage2",
-      "actuallyadditions:blocks/blockRiceStage3",
-      "actuallyadditions:blocks/blockRiceStage4",
-      "actuallyadditions:blocks/blockRiceStage4",
-      "actuallyadditions:blocks/blockRiceStage5",
-      "actuallyadditions:blocks/blockRiceStage6"
+      "actuallyadditions:blocks/block_rice_stage_1",
+      "actuallyadditions:blocks/block_rice_stage_2",
+      "actuallyadditions:blocks/block_rice_stage_2",
+      "actuallyadditions:blocks/block_rice_stage_3",
+      "actuallyadditions:blocks/block_rice_stage_4",
+      "actuallyadditions:blocks/block_rice_stage_4",
+      "actuallyadditions:blocks/block_rice_stage_5",
+      "actuallyadditions:blocks/block_rice_stage_6"
     ]
   }
 }
