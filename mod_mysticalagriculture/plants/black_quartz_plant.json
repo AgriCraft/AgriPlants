@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagriculture/plants/refined_obsidian_plant.json",
+  "path": "mod_mysticalagriculture/plants/black_quartz_plant.json",
   "enabled": true,
-  "id": "refined_obsidian_plant",
-  "plant_name": "Refined Obsidian",
-  "seed_name": "Refined Obsidian Seeds",
+  "id": "black_quartz_plant",
+  "plant_name": "Black Quartz Crop",
+  "seed_name": "Black Quartz Seeds",
   "seed_items": [
     {
-      "item": "mysticalagriculture:refined_obsidian_seeds",
+      "item": "mysticalagriculture:black_quartz_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Refined Obsidian Seeds."
+    "default": "Black Quartz Seeds."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:refined_obsidian_essence",
+        "item": "mysticalagriculture:black_quartz_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/refined_obsidian_seeds",
+    "seed_texture": "mysticalagriculture:items/black_quartz_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
@@ -66,7 +66,7 @@
       "mysticalagriculture:blocks/crop3",
       "mysticalagriculture:blocks/crop4",
       "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/refined_obsidian_crop"
+      "mysticalagriculture:blocks/black_quartz_crop"
     ]
   }
 }

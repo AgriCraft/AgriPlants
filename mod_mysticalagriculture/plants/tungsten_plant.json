@@ -1,12 +1,12 @@
 {
-  "path": "vanilla/plants/beet_plant.json",
+  "path": "mod_mysticalagriculture/plants/tungsten_plant.json",
   "enabled": true,
-  "id": "beet_plant",
-  "plant_name": "Beets",
-  "seed_name": "Beet Seeds",
+  "id": "tungsten_plant",
+  "plant_name": "Tungsten Crop",
+  "seed_name": "Tungsten Seeds",
   "seed_items": [
     {
-      "item": "minecraft:beetroot_seeds",
+      "item": "mysticalagriculture:tungsten_seeds",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,11 +18,11 @@
   ],
   "description": {
     "translations": {},
-    "default": "Beet. It\u0027s what\u0027s for dinner."
+    "default": "Tungsten Seeds."
   },
-  "growth_chance": 1.0,
+  "growth_chance": 0.9,
   "growth_bonus": 0.025,
-  "bonemeal": true,
+  "bonemeal": false,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
@@ -35,10 +35,10 @@
     "products": [
       {
         "min": 1,
-        "max": 3,
-        "chance": 0.95,
+        "max": 5,
+        "chance": 0.9,
         "required": true,
-        "item": "minecraft:beetroot",
+        "item": "mysticalagriculture:tungsten_essence",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -56,17 +56,17 @@
     "conditions": []
   },
   "texture": {
-    "render_type": "hash",
-    "seed_texture": "",
+    "render_type": "cross",
+    "seed_texture": "mysticalagriculture:items/tungsten_seeds",
     "plant_textures": [
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_1",
-      "minecraft:blocks/beetroots_stage_1",
-      "minecraft:blocks/beetroots_stage_2",
-      "minecraft:blocks/beetroots_stage_2",
-      "minecraft:blocks/beetroots_stage_3"
+      "mysticalagriculture:blocks/crop0",
+      "mysticalagriculture:blocks/crop1",
+      "mysticalagriculture:blocks/crop2",
+      "mysticalagriculture:blocks/crop2",
+      "mysticalagriculture:blocks/crop3",
+      "mysticalagriculture:blocks/crop4",
+      "mysticalagriculture:blocks/crop4",
+      "mysticalagriculture:blocks/tungsten_crop"
     ]
   }
 }
