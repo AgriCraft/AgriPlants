@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/cuprosia_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "cuprosia_plant",
+  "parent1": "redstodendron_plant",
+  "parent2": "red_tulip_plant"
+}
