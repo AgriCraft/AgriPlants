@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/petinia_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "petinia_plant",
+  "parent1": "lapender_plant",
+  "parent2": "daisy_plant"
+}

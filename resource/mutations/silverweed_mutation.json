@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/silverweed_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "silverweed_plant",
+  "parent1": "aurigold_plant",
+  "parent2": "allium_plant"
+}
