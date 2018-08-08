@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:inferium_essence",
+        "item": "mysticalagriculture:crafting",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -57,7 +57,7 @@
   },
   "texture": {
     "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/inferium_seeds",
+    "seed_texture": "mysticalagriculture:items/tier2_inferium_seeds",
     "plant_textures": [
       "mysticalagriculture:blocks/crop0",
       "mysticalagriculture:blocks/crop1",
