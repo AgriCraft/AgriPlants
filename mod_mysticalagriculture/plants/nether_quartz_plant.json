@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/nether_quartz_plant.json",
   "enabled": true,
-  "id": "nether_quartz_plant",
+  "id": "mysticalagriculture:nether_quartz_plant",
   "plant_name": "Nether Quartz Crop",
   "seed_name": "Nether Quartz Seeds",
   "seed_items": [

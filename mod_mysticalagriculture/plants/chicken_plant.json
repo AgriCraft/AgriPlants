@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/chicken_plant.json",
   "enabled": true,
-  "id": "chicken_plant",
+  "id": "mysticalagriculture:chicken_plant",
   "plant_name": "Chicken Crop",
   "seed_name": "Chicken Seeds",
   "seed_items": [

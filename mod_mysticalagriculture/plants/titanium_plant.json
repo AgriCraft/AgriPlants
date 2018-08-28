@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/titanium_plant.json",
   "enabled": true,
-  "id": "titanium_plant",
+  "id": "mysticalagriculture:titanium_plant",
   "plant_name": "Titanium Crop",
   "seed_name": "Titanium Seeds",
   "seed_items": [

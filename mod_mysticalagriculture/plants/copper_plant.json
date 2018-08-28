@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/copper_plant.json",
   "enabled": true,
-  "id": "copper_plant",
+  "id": "mysticalagriculture:copper_plant",
   "plant_name": "Copper Crop",
   "seed_name": "Copper Seeds",
   "seed_items": [

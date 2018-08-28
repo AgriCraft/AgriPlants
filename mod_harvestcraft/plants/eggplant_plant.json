@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/eggplant_plant.json",
   "enabled": true,
-  "id": "eggplant_plant",
+  "id": "harvestcraft:eggplant_plant",
   "plant_name": "Eggplant",
   "seed_name": "Eggplant Seeds",
   "seed_items": [

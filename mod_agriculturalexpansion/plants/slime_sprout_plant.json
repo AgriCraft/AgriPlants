@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/slime_sprout_plant.json",
   "enabled": true,
-  "id": "slime_sprout",
+  "id": "agriculturalexpansion:slime_sprout_plant",
   "plant_name": "Slime Crop",
   "seed_name": "Slime Sprout",
   "seed_items": [

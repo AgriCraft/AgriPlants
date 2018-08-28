@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/aquarium_plant.json",
   "enabled": true,
-  "id": "aquarium_plant",
+  "id": "mysticalagriculture:aquarium_plant",
   "plant_name": "Aquarium Crop",
   "seed_name": "Aquarium Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_natura/barley_plant.json",
   "enabled": true,
-  "id": "barley_plant",
+  "id": "natura:barley_plant",
   "plant_name": "Barley",
   "seed_name": "Barley Seeds",
   "seed_items": [

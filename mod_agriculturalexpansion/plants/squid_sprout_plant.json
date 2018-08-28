@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/squid_sprout_plant.json",
   "enabled": true,
-  "id": "squid_sprout",
+  "id": "agriculturalexpansion:squid_sprout_plant",
   "plant_name": "Squid Crop",
   "seed_name": "Squid Sprout",
   "seed_items": [

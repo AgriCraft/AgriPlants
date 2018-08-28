@@ -2,7 +2,7 @@
   "path": "vanilla/mutations/pink_tulip_mutation.json",
   "enabled": true,
   "chance": 0.75,
-  "child": "pink_tulip_plant",
-  "parent1": "allium_plant",
-  "parent2": "dandelion_plant"
+  "child": "vanilla:pink_tulip_plant",
+  "parent1": "vanilla:allium_plant",
+  "parent2": "vanilla:dandelion_plant"
 }

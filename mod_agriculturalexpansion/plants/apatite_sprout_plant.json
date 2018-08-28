@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/apatite_sprout_plant.json",
   "enabled": true,
-  "id": "apatite_sprout",
+  "id": "agriculturalexpansion:apatite_sprout_plant",
   "plant_name": "Apatite Crop",
   "seed_name": "Apatite Sprout",
   "seed_items": [

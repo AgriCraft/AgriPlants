@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/dye_plant.json",
   "enabled": true,
-  "id": "dye_plant",
+  "id": "mysticalagriculture:dye_plant",
   "plant_name": "Dye Crop",
   "seed_name": "Dye Seeds",
   "seed_items": [

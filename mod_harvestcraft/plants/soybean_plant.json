@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/soybean_plant.json",
   "enabled": true,
-  "id": "soybean_plant",
+  "id": "harvestcraft:soybean_plant",
   "plant_name": "Soybean",
   "seed_name": "Soybean Seeds",
   "seed_items": [

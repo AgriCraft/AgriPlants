@@ -2,7 +2,7 @@
   "path": "mod_Botania/mutations/botania_brown_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "botania_brown_plant",
-  "parent1": "botania_yellow_plant",
-  "parent2": "botania_white_plant"
+  "child": "botania:brown_flower_plant",
+  "parent1": "botania:yellow_flower_plant",
+  "parent2": "botania:white_flower_plant"
 }

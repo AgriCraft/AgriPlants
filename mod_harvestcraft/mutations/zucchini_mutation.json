@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/zucchini_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "zucchini_plant",
-  "parent1": "pumpkin_plant",
-  "parent2": "cucumber_plant"
+  "child": "harvestcraft:zucchini_plant",
+  "parent1": "vanilla:pumpkin_plant",
+  "parent2": "harvestcraft:cucumber_plant"
 }

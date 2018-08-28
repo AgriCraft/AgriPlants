@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/blueberry_plant.json",
   "enabled": true,
-  "id": "blueberry_plant",
+  "id": "harvestcraft:blueberry_plant",
   "plant_name": "Blueberry",
   "seed_name": "Blueberry Seeds",
   "seed_items": [

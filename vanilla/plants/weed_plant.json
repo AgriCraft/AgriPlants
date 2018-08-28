@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/weed_plant.json",
   "enabled": true,
-  "id": "weed_plant",
+  "id": "vanilla:weed_plant",
   "plant_name": "Weed",
   "seed_name": "Weed Seeds",
   "seed_items": [],

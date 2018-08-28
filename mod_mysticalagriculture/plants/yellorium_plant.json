@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/yellorium_plant.json",
   "enabled": true,
-  "id": "yellorium_plant",
+  "id": "mysticalagriculture:yellorium_plant",
   "plant_name": "Yellorium Crop",
   "seed_name": "Yellorium Seeds",
   "seed_items": [

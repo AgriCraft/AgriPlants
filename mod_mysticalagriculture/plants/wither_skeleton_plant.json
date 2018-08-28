@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/wither_skeleton_plant.json",
   "enabled": true,
-  "id": "wither_skeleton_plant",
+  "id": "mysticalagriculture:wither_skeleton_plant",
   "plant_name": "Wither Skeleton Crop",
   "seed_name": "Wither Skeleton Seeds",
   "seed_items": [

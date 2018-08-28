@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/curryleaf_plant.json",
   "enabled": true,
-  "id": "curryleaf_plant",
+  "id": "harvestcraft:curryleaf_plant",
   "plant_name": "Curryleaf",
   "seed_name": "Curryleaf Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/ruby_sprout_plant.json",
   "enabled": true,
-  "id": "ruby_sprout",
+  "id": "agriculturalexpansion:ruby_sprout_plant",
   "plant_name": "Ruby Crop",
   "seed_name": "Ruby Sprout",
   "seed_items": [

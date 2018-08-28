@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/rye_plant.json",
   "enabled": true,
-  "id": "rye_plant",
+  "id": "harvestcraft:rye_plant",
   "plant_name": "Rye",
   "seed_name": "Rye Seeds",
   "seed_items": [

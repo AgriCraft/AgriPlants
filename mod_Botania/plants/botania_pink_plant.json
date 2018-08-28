@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_pink_plant.json",
   "enabled": true,
-  "id": "botania_pink_plant",
+  "id": "botania:pink_flower_plant",
   "plant_name": "Mystical Pink Flower",
   "seed_name": "Mystical Pink Seeds",
   "seed_items": [],

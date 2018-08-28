@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/constantan_plant.json",
   "enabled": true,
-  "id": "constantan_plant",
+  "id": "mysticalagriculture:constantan_plant",
   "plant_name": "Constantan Crop",
   "seed_name": "Constantan Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/corn_plant.json",
   "enabled": true,
-  "id": "corn_plant",
+  "id": "harvestcraft:corn_plant",
   "plant_name": "Corn",
   "seed_name": "Corn Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "resource/plants/quartzanthemum_plant.json",
   "enabled": true,
-  "id": "quartzanthemum_plant",
+  "id": "resource:quartzanthemum_plant",
   "plant_name": "Quartzanthemum",
   "seed_name": "Crystalline Seeds",
   "seed_items": [],

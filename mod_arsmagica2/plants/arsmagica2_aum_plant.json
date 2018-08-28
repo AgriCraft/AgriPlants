@@ -1,7 +1,7 @@
 {
   "path": "mod_arsmagica2/plants/arsmagica2_aum_plant.json",
   "enabled": true,
-  "id": "arsmagica2_aum_plant",
+  "id": "arsmagica2:aum_plant",
   "plant_name": "Aum",
   "seed_name": "Aum Seeds",
   "seed_items": [],

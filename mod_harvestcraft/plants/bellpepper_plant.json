@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/bellpepper_plant.json",
   "enabled": true,
-  "id": "bellpepper_plant",
+  "id": "harvestcraft:bellpepper_plant",
   "plant_name": "Bellpepper",
   "seed_name": "Bellpepper Seeds",
   "seed_items": [

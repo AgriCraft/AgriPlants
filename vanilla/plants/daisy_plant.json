@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/daisy_plant.json",
   "enabled": true,
-  "id": "daisy_plant",
+  "id": "vanilla:daisy_plant",
   "plant_name": "Daisy",
   "seed_name": "Daisy Seeds",
   "seed_items": [],

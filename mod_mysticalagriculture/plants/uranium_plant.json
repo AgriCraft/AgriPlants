@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/uranium_plant.json",
   "enabled": true,
-  "id": "uranium_plant",
+  "id": "mysticalagriculture:uranium_plant",
   "plant_name": "Uranium Crop",
   "seed_name": "Uranium Seeds",
   "seed_items": [

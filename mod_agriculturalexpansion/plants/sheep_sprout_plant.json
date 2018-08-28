@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/sheep_sprout_plant.json",
   "enabled": true,
-  "id": "sheep_sprout",
+  "id": "agriculturalexpansion:sheep_sprout_plant",
   "plant_name": "Sheep Crop",
   "seed_name": "Sheep Sprout",
   "seed_items": [

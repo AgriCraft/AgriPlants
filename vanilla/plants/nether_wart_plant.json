@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/nether_wart_plant.json",
   "enabled": true,
-  "id": "nether_wart_plant",
+  "id": "vanilla:nether_wart_plant",
   "plant_name": "Nether Wart",
   "seed_name": "Nether Spores",
   "seed_items": [

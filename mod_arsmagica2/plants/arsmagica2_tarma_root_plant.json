@@ -1,7 +1,7 @@
 {
   "path": "mod_arsmagica2/plants/arsmagica2_tarma_rooot_plant.json",
   "enabled": true,
-  "id": "arsmagica2_tarma_rooot_plant",
+  "id": "arsmagica2:tarma_rooot_plant",
   "plant_name": "Tarma Roots",
   "seed_name": "Tarma Root Seeds",
   "seed_items": [],

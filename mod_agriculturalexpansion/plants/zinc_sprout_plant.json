@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/zinc_sprout_plant.json",
   "enabled": true,
-  "id": "zinc_sprout",
+  "id": "agriculturalexpansion:zinc_sprout_plant",
   "plant_name": "Zinc Crop",
   "seed_name": "Zinc Sprout",
   "seed_items": [

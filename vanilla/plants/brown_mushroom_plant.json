@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/brown_mushroom_plant.json",
   "enabled": true,
-  "id": "brown_mushroom_plant",
+  "id": "vanilla:brown_mushroom_plant",
   "plant_name": "Brown Mushroom",
   "seed_name": "Brown Mushroom Spores",
   "seed_items": [

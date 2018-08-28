@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/nature_sprout_plant.json",
   "enabled": true,
-  "id": "nature_sprout",
+  "id": "agriculturalexpansion:nature_sprout_plant",
   "plant_name": "Nature Crop",
   "seed_name": "Nature Sprout",
   "seed_items": [

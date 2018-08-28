@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/alubrass_sprout_plant.json",
   "enabled": true,
-  "id": "alubrass_sprout",
+  "id": "agriculturalexpansion:alubrass_sprout_plant",
   "plant_name": "Alubrass Crop",
   "seed_name": "Alubrass Sprout",
   "seed_items": [

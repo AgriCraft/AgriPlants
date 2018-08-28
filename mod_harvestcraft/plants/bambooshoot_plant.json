@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/bambooshoot_plant.json",
   "enabled": true,
-  "id": "bambooshoot_plant",
+  "id": "harvestcraft:bambooshoot_plant",
   "plant_name": "Bamboo Shoot",
   "seed_name": "Bamboo Shoot Seeds",
   "seed_items": [

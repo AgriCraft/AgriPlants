@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/lead_plant.json",
   "enabled": true,
-  "id": "lead_plant",
+  "id": "mysticalagriculture:lead_plant",
   "plant_name": "Lead Crop",
   "seed_name": "Lead Seeds",
   "seed_items": [

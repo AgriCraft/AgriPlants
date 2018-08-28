@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/manyullyn_plant.json",
   "enabled": true,
-  "id": "manyullyn_plant",
+  "id": "mysticalagriculture:manyullyn_plant",
   "plant_name": "Manyullyn Crop",
   "seed_name": "Manyullyn Seeds",
   "seed_items": [

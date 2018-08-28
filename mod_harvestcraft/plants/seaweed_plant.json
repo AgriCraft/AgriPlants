@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/seaweed_plant.json",
   "enabled": true,
-  "id": "seaweed_plant",
+  "id": "harvestcraft:seaweed_plant",
   "plant_name": "Seaweed",
   "seed_name": "Seaweed Seeds",
   "seed_items": [

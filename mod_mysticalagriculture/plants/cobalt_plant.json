@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/cobalt_plant.json",
   "enabled": true,
-  "id": "cobalt_plant",
+  "id": "mysticalagriculture:cobalt_plant",
   "plant_name": "Cobalt",
   "seed_name": "Cobalt Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/bronze_sprout_plant.json",
   "enabled": true,
-  "id": "bronze_sprout",
+  "id": "agriculturalexpansion:bronze_sprout_plant",
   "plant_name": "Bronze Crop",
   "seed_name": "Bronze Sprout",
   "seed_items": [

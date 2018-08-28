@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/chimerite_plant.json",
   "enabled": true,
-  "id": "chimerite_plant",
+  "id": "mysticalagriculture:chimerite_plant",
   "plant_name": "Chimerite Crop",
   "seed_name": "Chimerite Seeds",
   "seed_items": [

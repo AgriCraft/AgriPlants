@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/wither_sprout_plant.json",
   "enabled": true,
-  "id": "wither_sprout",
+  "id": "agriculturalexpansion:wither_sprout_plant",
   "plant_name": "Wither Crop",
   "seed_name": "Wither Sprout",
   "seed_items": [

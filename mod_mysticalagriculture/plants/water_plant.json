@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/water_plant.json",
   "enabled": true,
-  "id": "water_plant",
+  "id": "mysticalagriculture:water_plant",
   "plant_name": "Water Crop",
   "seed_name": "Water Seeds",
   "seed_items": [

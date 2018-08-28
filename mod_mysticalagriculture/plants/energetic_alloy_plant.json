@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/energetic_alloy_plant.json",
   "enabled": true,
-  "id": "energetic_alloy_plant",
+  "id": "mysticalagriculture:energetic_alloy_plant",
   "plant_name": "Energetic Alloy Crop",
   "seed_name": "Energetic Alloy Seeds",
   "seed_items": [

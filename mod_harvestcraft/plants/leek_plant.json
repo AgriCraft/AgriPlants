@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/leek_plant.json",
   "enabled": true,
-  "id": "leek_plant",
+  "id": "harvestcraft:leek_plant",
   "plant_name": "Leek",
   "seed_name": "Leek Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/cactus_plant.json",
   "enabled": true,
-  "id": "cactus_plant",
+  "id": "vanilla:cactus_plant",
   "plant_name": "Cactus",
   "seed_name": "Cactus Seeds",
   "seed_items": [

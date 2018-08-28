@@ -1,7 +1,7 @@
 {
   "path": "mod_arsmagica2/plants/arsmagica2_wakebloom_plant.json",
   "enabled": true,
-  "id": "arsmagica2_wakebloom_plant",
+  "id": "arsmagica2:wakebloom_plant",
   "plant_name": "Wakebloom",
   "seed_name": "Wakebloom Seeds",
   "seed_items": [],

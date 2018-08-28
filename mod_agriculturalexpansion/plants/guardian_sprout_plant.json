@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/guardian_sprout_plant.json",
   "enabled": true,
-  "id": "guardian_sprout",
+  "id": "agriculturalexpansion:guardian_sprout_plant",
   "plant_name": "Guardian Crop",
   "seed_name": "Guardian Sprout",
   "seed_items": [

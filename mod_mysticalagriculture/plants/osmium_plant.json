@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/osmium_plant.json",
   "enabled": true,
-  "id": "osmium_plant",
+  "id": "mysticalagriculture:osmium_plant",
   "plant_name": "Osmium",
   "seed_name": "Osmium Seeds",
   "seed_items": [

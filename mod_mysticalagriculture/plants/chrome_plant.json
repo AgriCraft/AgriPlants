@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/chrome_plant.json",
   "enabled": true,
-  "id": "chrome_plant",
+  "id": "mysticalagriculture:chrome_plant",
   "plant_name": "Chrome Crop",
   "seed_name": "Chrome Seeds",
   "seed_items": [

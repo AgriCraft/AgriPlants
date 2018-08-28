@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/tungsten_plant.json",
   "enabled": true,
-  "id": "tungsten_plant",
+  "id": "mysticalagriculture:tungsten_plant",
   "plant_name": "Tungsten Crop",
   "seed_name": "Tungsten Seeds",
   "seed_items": [

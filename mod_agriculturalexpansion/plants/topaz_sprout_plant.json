@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/topaz_sprout_plant.json",
   "enabled": true,
-  "id": "topaz_sprout",
+  "id": "agriculturalexpansion:topaz_sprout_plant",
   "plant_name": "Topaz Crop",
   "seed_name": "Topaz Sprout",
   "seed_items": [

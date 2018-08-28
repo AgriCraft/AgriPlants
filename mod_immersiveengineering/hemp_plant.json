@@ -1,7 +1,7 @@
 {
   "path": "mod_immersiveengineering/hemp_plant.json",
   "enabled": true,
-  "id": "hemp_plant",
+  "id": "immersiveengineering:hemp_plant",
   "plant_name": "Hemp",
   "seed_name": "Hemp Seeds",
   "seed_items": [

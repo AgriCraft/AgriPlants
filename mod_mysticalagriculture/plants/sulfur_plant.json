@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/sulfur_plant.json",
   "enabled": true,
-  "id": "sulfur_plant",
+  "id": "mysticalagriculture:sulfur_plant",
   "plant_name": "Sulfur Crop",
   "seed_name": "Sulfur Seeds",
   "seed_items": [

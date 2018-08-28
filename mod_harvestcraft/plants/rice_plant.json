@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/rice_plant.json",
   "enabled": true,
-  "id": "rice_plant",
+  "id": "harvestcraft:rice_plant",
   "plant_name": "Rice",
   "seed_name": "Rice Seeds",
   "seed_items": [

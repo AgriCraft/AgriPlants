@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/malachite_plant.json",
   "enabled": true,
-  "id": "malachite_plant",
+  "id": "mysticalagriculture:malachite_plant",
   "plant_name": "Malachite",
   "seed_name": "Malachite Seeds",
   "seed_items": [

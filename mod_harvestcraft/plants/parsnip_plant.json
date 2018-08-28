@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/parsnip_plant.json",
   "enabled": true,
-  "id": "parsnip_plant",
+  "id": "harvestcraft:parsnip_plant",
   "plant_name": "Parsnip",
   "seed_name": "Parsnip Seeds",
   "seed_items": [

@@ -2,7 +2,7 @@
   "path": "resource/mutations/plombean_mutation.json",
   "enabled": true,
   "chance": 0.25,
-  "child": "plombean_plant",
-  "parent1": "ferranium_plant",
-  "parent2": "brown_mushroom_plant"
+  "child": "resource:plombean_plant",
+  "parent1": "resource:ferranium_plant",
+  "parent2": "vanilla:brown_mushroom_plant"
 }

@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/cactusfruit_plant.json",
   "enabled": true,
-  "id": "cactusfruit_plant",
+  "id": "harvestcraft:cactusfruit_plant",
   "plant_name": "Cactus Fruit",
   "seed_name": "Cactus Fruit Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/pulsating_iron_plant.json",
   "enabled": true,
-  "id": "pulsating_iron_plant",
+  "id": "mysticalagriculture:pulsating_iron_plant",
   "plant_name": "Pulsating Iron Crop",
   "seed_name": "Pulsating Iron Seeds",
   "seed_items": [

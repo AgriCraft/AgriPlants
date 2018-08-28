@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/turnip_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "turnip_plant",
-  "parent1": "parsnip_plant",
-  "parent2": "radish_plant"
+  "child": "harvestcraft:turnip_plant",
+  "parent1": "harvestcraft:parsnip_plant",
+  "parent2": "harvestcraft:radish_plant"
 }

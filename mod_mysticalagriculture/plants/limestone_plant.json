@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/limestone_plant.json",
   "enabled": true,
-  "id": "limestone_plant",
+  "id": "mysticalagriculture:limestone_plant",
   "plant_name": "Limestone",
   "seed_name": "Limestone Seeds",
   "seed_items": [

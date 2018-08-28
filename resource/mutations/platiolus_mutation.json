@@ -2,7 +2,7 @@
   "path": "resource/mutations/platiolus_mutation.json",
   "enabled": true,
   "chance": 0.25,
-  "child": "platiolus_plant",
-  "parent1": "ferranium_plant",
-  "parent2": "aurigold_plant"
+  "child": "resource:platiolus_plant",
+  "parent1": "resource:ferranium_plant",
+  "parent2": "resource:aurigold_plant"
 }

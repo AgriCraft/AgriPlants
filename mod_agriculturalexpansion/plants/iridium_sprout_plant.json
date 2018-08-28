@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/iridium_sprout_plant.json",
   "enabled": true,
-  "id": "iridium_sprout",
+  "id": "agriculturalexpansion:iridium_sprout_plant",
   "plant_name": "Iridium Crop",
   "seed_name": "Iridium Sprout",
   "seed_items": [

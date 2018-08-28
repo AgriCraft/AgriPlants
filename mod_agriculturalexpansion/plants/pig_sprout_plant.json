@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/pig_sprout_plant.json",
   "enabled": true,
-  "id": "pig_sprout",
+  "id": "agriculturalexpansion:pig_sprout_plant",
   "plant_name": "Pig Crop",
   "seed_name": "Pig Sprout",
   "seed_items": [

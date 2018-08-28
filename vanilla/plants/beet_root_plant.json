@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/beet_root_plant.json",
   "enabled": true,
-  "id": "beet_root_plant",
+  "id": "vanilla:beet_root_plant",
   "plant_name": "Beets",
   "seed_name": "Beet Seeds",
   "seed_items": [

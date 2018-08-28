@@ -2,7 +2,7 @@
   "path": "vanilla/mutations/red_tulip_mutation.json",
   "enabled": true,
   "chance": 0.75,
-  "child": "red_tulip_plant",
-  "parent1": "poppy_plant",
-  "parent2": "allium_plant"
+  "child": "vanilla:red_tulip_plant",
+  "parent1": "vanilla:poppy_plant",
+  "parent2": "vanilla:allium_plant"
 }

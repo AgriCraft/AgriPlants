@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/knightslime_plant.json",
   "enabled": true,
-  "id": "knightslime_plant",
+  "id": "mysticalagriculture:knightslime_plant",
   "plant_name": "Knightslime Crop",
   "seed_name": "Knightslime Seeds",
   "seed_items": [

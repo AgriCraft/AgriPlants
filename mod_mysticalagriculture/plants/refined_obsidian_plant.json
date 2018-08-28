@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/refined_obsidian_plant.json",
   "enabled": true,
-  "id": "refined_obsidian_plant",
+  "id": "mysticalagriculture:refined_obsidian_plant",
   "plant_name": "Refined Obsidian",
   "seed_name": "Refined Obsidian Seeds",
   "seed_items": [

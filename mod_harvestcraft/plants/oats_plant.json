@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/oats_plant.json",
   "enabled": true,
-  "id": "oats_plant",
+  "id": "harvestcraft:oats_plant",
   "plant_name": "Oats",
   "seed_name": "Oats Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/poppy_plant.json",
   "enabled": true,
-  "id": "poppy_plant",
+  "id": "vanilla:poppy_plant",
   "plant_name": "Poppy",
   "seed_name": "Poppy Seeds",
   "seed_items": [],

@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/amber_sprout_plant.json",
   "enabled": true,
-  "id": "amber_sprout",
+  "id": "agriculturalexpansion:amber_sprout_plant",
   "plant_name": "Amber Crop",
   "seed_name": "Amber Sprout",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/earth_sprout_plant.json",
   "enabled": true,
-  "id": "earth_sprout",
+  "id": "agriculturalexpansion:earth_sprout_plant",
   "plant_name": "Earth Crop",
   "seed_name": "Earth Sprout",
   "seed_items": [

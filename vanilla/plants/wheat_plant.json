@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/wheat_plant.json",
   "enabled": true,
-  "id": "wheat_plant",
+  "id": "vanilla:wheat_plant",
   "plant_name": "Wheat",
   "seed_name": "Wheat Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/aquamarine_plant.json",
   "enabled": true,
-  "id": "aquamarine_plant",
+  "id": "mysticalagriculture:aquamarine_plant",
   "plant_name": "Aquamarine Crop",
   "seed_name": "Aquamarine Seeds",
   "seed_items": [

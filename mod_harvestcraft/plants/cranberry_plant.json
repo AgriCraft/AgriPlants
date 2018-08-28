@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/cranberry_plant.json",
   "enabled": true,
-  "id": "cranberry_plant",
+  "id": "harvestcraft:cranberry_plant",
   "plant_name": "Cranberry",
   "seed_name": "Cranberry Seeds",
   "seed_items": [

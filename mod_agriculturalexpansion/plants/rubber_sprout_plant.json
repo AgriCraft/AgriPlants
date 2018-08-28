@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/rubber_sprout_plant.json",
   "enabled": true,
-  "id": "rubber_sprout",
+  "id": "agriculturalexpansion:rubber_sprout_plant",
   "plant_name": "Rubber Crop",
   "seed_name": "Rubber Sprout",
   "seed_items": [

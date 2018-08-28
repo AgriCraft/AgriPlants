@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/ardite_sprout_plant.json",
   "enabled": true,
-  "id": "ardite_sprout",
+  "id": "agriculturalexpansion:ardite_sprout_plant",
   "plant_name": "Ardite Crop",
   "seed_name": "Ardite Sprout",
   "seed_items": [

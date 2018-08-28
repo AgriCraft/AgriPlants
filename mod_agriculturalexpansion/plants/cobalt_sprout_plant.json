@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/cobalt_sprout_plant.json",
   "enabled": true,
-  "id": "cobalt_sprout",
+  "id": "agriculturalexpansion:cobalt_sprout_plant",
   "plant_name": "Cobalt Crop",
   "seed_name": "Cobalt Sprout",
   "seed_items": [

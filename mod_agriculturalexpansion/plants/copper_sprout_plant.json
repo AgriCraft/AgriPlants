@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/copper_sprout_plant.json",
   "enabled": true,
-  "id": "copper_sprout",
+  "id": "agriculturalexpansion:copper_sprout_plant",
   "plant_name": "Copper Crop",
   "seed_name": "Copper Sprout",
   "seed_items": [

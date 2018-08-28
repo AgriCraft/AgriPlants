@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/ghast_sprout_plant.json",
   "enabled": true,
-  "id": "ghast_sprout",
+  "id": "agriculturalexpansion:ghast_sprout_plant",
   "plant_name": "Ghast Crop",
   "seed_name": "Ghast Sprout",
   "seed_items": [

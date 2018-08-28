@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/invar_sprout_plant.json",
   "enabled": true,
-  "id": "invar_sprout",
+  "id": "agriculturalexpansion:invar_sprout_plant",
   "plant_name": "Invar Crop",
   "seed_name": "Invar Sprout",
   "seed_items": [

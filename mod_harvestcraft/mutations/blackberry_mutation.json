@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/blackberry_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "blackberry_plant",
-  "parent1": "strawberry_plant",
-  "parent2": "soybean_plant"
+  "child": "harvestcraft:blackberry_plant",
+  "parent1": "harvestcraft:strawberry_plant",
+  "parent2": "harvestcraft:soybean_plant"
 }

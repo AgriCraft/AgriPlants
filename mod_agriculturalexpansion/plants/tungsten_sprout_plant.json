@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/tungsten_sprout_plant.json",
   "enabled": true,
-  "id": "tungsten_sprout",
+  "id": "agriculturalexpansion:tungsten_sprout_plant",
   "plant_name": "Tungsten Crop",
   "seed_name": "Tungsten Sprout",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/skeleton_sprout_plant.json",
   "enabled": true,
-  "id": "skeleton_sprout",
+  "id": "agriculturalexpansion:skeleton_sprout_plant",
   "plant_name": "Skeleton Crop",
   "seed_name": "Skeleton Sprout",
   "seed_items": [

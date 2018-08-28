@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/rabbit_sprout_plant.json",
   "enabled": true,
-  "id": "rabbit_sprout",
+  "id": "agriculturalexpansion:rabbit_sprout_plant",
   "plant_name": "Rabbit Crop",
   "seed_name": "Rabbit Sprout",
   "seed_items": [

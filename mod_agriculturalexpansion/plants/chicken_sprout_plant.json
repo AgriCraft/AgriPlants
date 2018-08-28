@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/chicken_sprout_plant.json",
   "enabled": true,
-  "id": "chicken_sprout",
+  "id": "agriculturalexpansion:chicken_sprout_plant",
   "plant_name": "Chicken Crop",
   "seed_name": "Chicken Sprout",
   "seed_items": [

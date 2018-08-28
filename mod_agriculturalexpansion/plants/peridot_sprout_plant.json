@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/peridot_sprout_plant.json",
   "enabled": true,
-  "id": "peridot_sprout",
+  "id": "agriculturalexpansion:peridot_sprout_plant",
   "plant_name": "Peridot Crop",
   "seed_name": "Peridot Sprout",
   "seed_items": [

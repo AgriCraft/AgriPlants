@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/garlic_plant.json",
   "enabled": true,
-  "id": "garlic_plant",
+  "id": "harvestcraft:garlic_plant",
   "plant_name": "Garlic",
   "seed_name": "Garlic Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/mustard_plant.json",
   "enabled": true,
-  "id": "mustard_plant",
+  "id": "harvestcraft:mustard_plant",
   "plant_name": "Mustard",
   "seed_name": "Mustard Seeds",
   "seed_items": [

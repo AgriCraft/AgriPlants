@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/tanzanite_sprout_plant.json",
   "enabled": true,
-  "id": "tanzanite_sprout",
+  "id": "agriculturalexpansion:tanzanite_sprout_plant",
   "plant_name": "Tanzanite Crop",
   "seed_name": "Tanzanite Sprout",
   "seed_items": [

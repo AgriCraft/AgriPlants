@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/invar_plant.json",
   "enabled": true,
-  "id": "invar_plant",
+  "id": "mysticalagriculture:invar_plant",
   "plant_name": "Invar Crop",
   "seed_name": "Invar Seeds",
   "seed_items": [

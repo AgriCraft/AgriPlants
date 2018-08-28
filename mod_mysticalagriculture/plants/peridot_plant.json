@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/peridot_plant.json",
   "enabled": true,
-  "id": "peridot_plant",
+  "id": "mysticalagriculture:peridot_plant",
   "plant_name": "Peridot",
   "seed_name": "Peridot Seeds",
   "seed_items": [

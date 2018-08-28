@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/brass_sprout_plant.json",
   "enabled": true,
-  "id": "brass_sprout",
+  "id": "agriculturalexpansion:brass_sprout_plant",
   "plant_name": "Brass Crop",
   "seed_name": "Brass Sprout",
   "seed_items": [

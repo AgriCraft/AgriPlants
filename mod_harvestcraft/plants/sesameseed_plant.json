@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/sesameseed_plant.json",
   "enabled": true,
-  "id": "sesameseed_plant",
+  "id": "harvestcraft:sesameseed_plant",
   "plant_name": "Sesame Seeds",
   "seed_name": "Sesame Seeds Seeds",
   "seed_items": [

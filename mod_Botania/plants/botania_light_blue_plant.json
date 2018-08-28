@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_light_blue_plant.json",
   "enabled": true,
-  "id": "botania_light_blue_plant",
+  "id": "botania:light_blue_flower_plant",
   "plant_name": "Mystical Light Blue Flower",
   "seed_name": "Mystical Light Blue Seeds",
   "seed_items": [],

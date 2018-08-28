@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/orchid_plant.json",
   "enabled": true,
-  "id": "orchid_plant",
+  "id": "vanilla:orchid_plant",
   "plant_name": "Blue Orchid",
   "seed_name": "Blue Orchid Seeds",
   "seed_items": [],

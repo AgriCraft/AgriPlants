@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/okra_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "okra_plant",
-  "parent1": "bean_plant",
-  "parent2": "leek_plant"
+  "child": "harvestcraft:okra_plant",
+  "parent1": "harvestcraft:bean_plant",
+  "parent2": "harvestcraft:leek_plant"
 }

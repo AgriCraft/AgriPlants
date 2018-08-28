@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/cabbage_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "cabbage_plant",
-  "parent1": "broccoli_plant",
-  "parent2": "lettuce_plant"
+  "child": "harvestcraft:cabbage_plant",
+  "parent1": "harvestcraft:broccoli_plant",
+  "parent2": "harvestcraft:lettuce_plant"
 }

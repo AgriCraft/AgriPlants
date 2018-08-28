@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/enderman_sprout_plant.json",
   "enabled": true,
-  "id": "enderman_sprout",
+  "id": "agriculturalexpansion:enderman_sprout_plant",
   "plant_name": "Enderman Crop",
   "seed_name": "Enderman Sprout",
   "seed_items": [

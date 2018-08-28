@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/white_tulip_plant.json",
   "enabled": true,
-  "id": "white_tulip_plant",
+  "id": "vanilla:white_tulip_plant",
   "plant_name": "White Tulip",
   "seed_name": "White Tulip Seeds",
   "seed_items": [],

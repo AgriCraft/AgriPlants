@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/spinach_plant.json",
   "enabled": true,
-  "id": "spinach_plant",
+  "id": "harvestcraft:spinach_plant",
   "plant_name": "Spinach",
   "seed_name": "Spinach Seeds",
   "seed_items": [

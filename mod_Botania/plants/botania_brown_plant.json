@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_brown_plant.json",
   "enabled": true,
-  "id": "botania_brown_plant",
+  "id": "botania:brown_flower_plant",
   "plant_name": "Mystical Brown Flower",
   "seed_name": "Mystical Brown Seeds",
   "seed_items": [],

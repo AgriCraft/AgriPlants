@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/cotton_plant.json",
   "enabled": true,
-  "id": "cotton_plant",
+  "id": "harvestcraft:cotton_plant",
   "plant_name": "Cotton",
   "seed_name": "Cotton Seeds",
   "seed_items": [

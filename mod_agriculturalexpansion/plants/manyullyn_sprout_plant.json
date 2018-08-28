@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/manyullyn_sprout_plant.json",
   "enabled": true,
-  "id": "manyullyn_sprout",
+  "id": "agriculturalexpansion:manyullyn_sprout_plant",
   "plant_name": "Manyullyn Crop",
   "seed_name": "Manyullyn Sprout",
   "seed_items": [

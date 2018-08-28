@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/whitemushroom_plant.json",
   "enabled": true,
-  "id": "whitemushroom_plant",
+  "id": "harvestcraft:whitemushroom_plant",
   "plant_name": "White Mushroom",
   "seed_name": "White Mushroom Seeds",
   "seed_items": [

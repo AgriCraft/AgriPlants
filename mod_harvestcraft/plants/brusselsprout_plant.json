@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/brusselsprout_plant.json",
   "enabled": true,
-  "id": "brusselsprout_plant",
+  "id": "harvestcraft:brusselsprout_plant",
   "plant_name": "Brussel Sprout",
   "seed_name": "Brussel Sprout Seeds",
   "seed_items": [

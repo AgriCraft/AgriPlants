@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/nickel_plant.json",
   "enabled": true,
-  "id": "nickel_plant",
+  "id": "mysticalagriculture:nickel_plant",
   "plant_name": "Nickel Crop",
   "seed_name": "Nickel Seeds",
   "seed_items": [

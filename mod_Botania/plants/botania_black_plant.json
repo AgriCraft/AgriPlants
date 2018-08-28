@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_black_plant.json",
   "enabled": true,
-  "id": "botania_black_plant",
+  "id": "botania:black_flower_plant",
   "plant_name": "Mystical Black Flower",
   "seed_name": "Mystical Black Seeds",
   "seed_items": [],

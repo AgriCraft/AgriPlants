@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/grape_plant.json",
   "enabled": true,
-  "id": "grape_plant",
+  "id": "harvestcraft:grape_plant",
   "plant_name": "Grape",
   "seed_name": "Grape Seeds",
   "seed_items": [

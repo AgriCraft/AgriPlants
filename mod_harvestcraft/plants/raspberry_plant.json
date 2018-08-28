@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/raspberry_plant.json",
   "enabled": true,
-  "id": "raspberry_plant",
+  "id": "harvestcraft:raspberry_plant",
   "plant_name": "Raspberry",
   "seed_name": "Raspberry Seeds",
   "seed_items": [

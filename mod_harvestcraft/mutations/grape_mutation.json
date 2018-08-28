@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/grape_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "grape_plant",
-  "parent1": "blueberry_plant",
-  "parent2": "cantaloupe_plant"
+  "child": "harvestcraft:grape_plant",
+  "parent1": "harvestcraft:blueberry_plant",
+  "parent2": "harvestcraft:cantaloupe_plant"
 }

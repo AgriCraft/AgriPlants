@@ -1,7 +1,7 @@
 {
   "path": "mod_arsmagica2/plants/arsmagica2_cerublossom_plant.json",
   "enabled": true,
-  "id": "arsmagica2_cerublossom_plant",
+  "id": "arsmagica2:cerublossom_plant",
   "plant_name": "Cerublossom",
   "seed_name": "Cerublossom Seeds",
   "seed_items": [],

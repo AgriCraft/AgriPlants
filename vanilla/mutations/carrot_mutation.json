@@ -2,7 +2,7 @@
   "path": "vanilla/mutations/carrot_mutation.json",
   "enabled": true,
   "chance": 0.75,
-  "child": "carrot_plant",
-  "parent1": "wheat_plant",
-  "parent2": "potato_plant"
+  "child": "vanilla:carrot_plant",
+  "parent1": "vanilla:wheat_plant",
+  "parent2": "vanilla:potato_plant"
 }

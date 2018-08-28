@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/sapphire_sprout_plant.json",
   "enabled": true,
-  "id": "sapphire_sprout",
+  "id": "agriculturalexpansion:sapphire_sprout_plant",
   "plant_name": "Sapphire Crop",
   "seed_name": "Sapphire Sprout",
   "seed_items": [

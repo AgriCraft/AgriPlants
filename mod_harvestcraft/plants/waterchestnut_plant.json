@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/waterchestnut_plant.json",
   "enabled": true,
-  "id": "waterchestnut_plant",
+  "id": "harvestcraft:waterchestnut_plant",
   "plant_name": "Water Chestnut",
   "seed_name": "Water Chestnut Seeds",
   "seed_items": [

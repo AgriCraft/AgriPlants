@@ -1,7 +1,7 @@
 {
   "path": "mod_arsmagica2/plants/arsmagica2_desert_nova_plant.json",
   "enabled": true,
-  "id": "arsmagica2_desert_nova_plant",
+  "id": "arsmagica2:desert_nova_plant",
   "plant_name": "Desert Nova",
   "seed_name": "Desert Nova Seeds",
   "seed_items": [],

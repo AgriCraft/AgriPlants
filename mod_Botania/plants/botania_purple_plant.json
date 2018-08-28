@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_purple_plant.json",
   "enabled": true,
-  "id": "botania_purple_plant",
+  "id": "botania:purple_flower_plant",
   "plant_name": "Mystical Purple Flower",
   "seed_name": "Mystical Purple Seeds",
   "seed_items": [],

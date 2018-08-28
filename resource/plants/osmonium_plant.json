@@ -1,7 +1,7 @@
 {
   "path": "resource/plants/osmonium_plant.json",
   "enabled": true,
-  "id": "osmonium_plant",
+  "id": "resource:osmonium_plant",
   "plant_name": "Osmonium",
   "seed_name": "Osmonium Seeds",
   "seed_items": [],

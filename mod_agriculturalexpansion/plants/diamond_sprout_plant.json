@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/diamond_sprout_plant.json",
   "enabled": true,
-  "id": "diamond_sprout",
+  "id": "agriculturalexpansion:diamond_sprout_plant",
   "plant_name": "Diamond Crop",
   "seed_name": "Diamond Sprout",
   "seed_items": [

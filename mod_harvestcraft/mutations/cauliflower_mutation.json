@@ -2,7 +2,7 @@
   "path": "mod_harvestcraft/mutations/cauliflower_mutation.json",
   "enabled": true,
   "chance": 0.5,
-  "child": "cauliflower_plant",
-  "parent1": "cabbage_plant",
-  "parent2": "lettuce_plant"
+  "child": "harvestcraft:cauliflower_plant",
+  "parent1": "harvestcraft:cabbage_plant",
+  "parent2": "harvestcraft:lettuce_plant"
 }

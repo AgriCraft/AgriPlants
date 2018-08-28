@@ -1,7 +1,7 @@
 {
   "path": "vanilla/plants/sugarcane_plant.json",
   "enabled": true,
-  "id": "sugarcane_plant",
+  "id": "vanilla:sugarcane_plant",
   "plant_name": "Sugarcane",
   "seed_name": "Sugarcane Seeds",
   "seed_items": [

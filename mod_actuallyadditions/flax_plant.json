@@ -1,7 +1,7 @@
 {
   "path": "mod_actuallyadditions/flax_plant.json",
   "enabled": true,
-  "id": "flax_plant",
+  "id": "actuallyadditions:flax_plant",
   "plant_name": "Flax",
   "seed_name": "Flax Seeds",
   "seed_items": [

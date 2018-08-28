@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/cantaloupe_plant.json",
   "enabled": true,
-  "id": "cantaloupe_plant",
+  "id": "harvestcraft:cantaloupe_plant",
   "plant_name": "Cantaloupe",
   "seed_name": "Cantaloupe Seeds",
   "seed_items": [

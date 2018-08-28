@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/nether_sprout_plant.json",
   "enabled": true,
-  "id": "nether_sprout",
+  "id": "agriculturalexpansion:nether_sprout_plant",
   "plant_name": "Nether Crop",
   "seed_name": "Nether Sprout",
   "seed_items": [

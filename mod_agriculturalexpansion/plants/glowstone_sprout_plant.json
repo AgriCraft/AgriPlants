@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/glowstone_sprout_plant.json",
   "enabled": true,
-  "id": "glowstone_sprout",
+  "id": "agriculturalexpansion:glowstone_sprout_plant",
   "plant_name": "Glowstone Crop",
   "seed_name": "Glowstone Sprout",
   "seed_items": [

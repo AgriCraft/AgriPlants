@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/asparagus_plant.json",
   "enabled": true,
-  "id": "asparagus_plant",
+  "id": "harvestcraft:asparagus_plant",
   "plant_name": "Asparagus",
   "seed_name": "Asparagus Seeds",
   "seed_items": [

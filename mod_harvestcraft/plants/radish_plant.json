@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/radish_plant.json",
   "enabled": true,
-  "id": "radish_plant",
+  "id": "harvestcraft:radish_plant",
   "plant_name": "Radish",
   "seed_name": "Radish Seeds",
   "seed_items": [

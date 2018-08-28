@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/pig_plant.json",
   "enabled": true,
-  "id": "pig_plant",
+  "id": "mysticalagriculture:pig_plant",
   "plant_name": "Pig Crop",
   "seed_name": "Pig Seeds",
   "seed_items": [

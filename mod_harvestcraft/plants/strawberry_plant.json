@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/strawberry_plant.json",
   "enabled": true,
-  "id": "strawberry_plant",
+  "id": "harvestcraft:strawberry_plant",
   "plant_name": "Strawberry",
   "seed_name": "Strawberry Seeds",
   "seed_items": [

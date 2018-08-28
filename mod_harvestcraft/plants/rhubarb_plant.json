@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/rhubarb_plant.json",
   "enabled": true,
-  "id": "rhubarb_plant",
+  "id": "harvestcraft:rhubarb_plant",
   "plant_name": "Rhubarb",
   "seed_name": "Rhubarb Seeds",
   "seed_items": [

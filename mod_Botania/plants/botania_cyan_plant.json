@@ -1,7 +1,7 @@
 {
   "path": "mod_Botania/plants/botania_cyan_plant.json",
   "enabled": true,
-  "id": "botania_cyan_plant",
+  "id": "botania:cyan_flower_plant",
   "plant_name": "Mystical Cyan Flower",
   "seed_name": "Mystical Cyan Seeds",
   "seed_items": [],

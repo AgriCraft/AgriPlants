@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/lettuce_plant.json",
   "enabled": true,
-  "id": "lettuce_plant",
+  "id": "harvestcraft:lettuce_plant",
   "plant_name": "Lettuce",
   "seed_name": "Lettuce Seeds",
   "seed_items": [

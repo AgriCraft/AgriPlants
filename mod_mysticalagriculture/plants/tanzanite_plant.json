@@ -1,7 +1,7 @@
 {
   "path": "mod_mysticalagriculture/plants/tanzanite_plant.json",
   "enabled": true,
-  "id": "tanzanite_plant",
+  "id": "mysticalagriculture:tanzanite_plant",
   "plant_name": "Tanzanite",
   "seed_name": "Tanzanite Seeds",
   "seed_items": [

@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/scallion_plant.json",
   "enabled": true,
-  "id": "scallion_plant",
+  "id": "harvestcraft:scallion_plant",
   "plant_name": "Scallion",
   "seed_name": "Scallion Seeds",
   "seed_items": [

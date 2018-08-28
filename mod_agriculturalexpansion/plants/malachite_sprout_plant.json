@@ -1,7 +1,7 @@
 {
   "path": "mod_agriculturalexpansion/plants/malachite_sprout_plant.json",
   "enabled": true,
-  "id": "malachite_sprout",
+  "id": "agriculturalexpansion:malachite_sprout_plant",
   "plant_name": "Malachite Crop",
   "seed_name": "Malachite Sprout",
   "seed_items": [

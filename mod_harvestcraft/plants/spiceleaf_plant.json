@@ -1,7 +1,7 @@
 {
   "path": "mod_harvestcraft/plants/spiceleaf_plant.json",
   "enabled": true,
-  "id": "spiceleaf_plant",
+  "id": "harvestcraft:spiceleaf_plant",
   "plant_name": "Spiceleaf",
   "seed_name": "Spiceleaf Seeds",
   "seed_items": [
