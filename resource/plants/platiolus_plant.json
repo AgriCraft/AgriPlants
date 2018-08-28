@@ -1,13 +1,13 @@
 {
-  "path": "resource/plants/lapender_plant.json",
+  "path": "resource/plants/platiolus_plant.json",
   "enabled": true,
-  "id": "lapender_plant",
-  "plant_name": "Lapender",
-  "seed_name": "Lapender Seeds",
+  "id": "platiolus_plant",
+  "plant_name": "Platiolus",
+  "seed_name": "Platiolus Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A regal plant."
+    "default": "The unquestioned king among the metal-bearing plants, this plant has a gleam to it that puts even the aurigold flower to shame."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -24,11 +24,11 @@
     "products": [
       {
         "min": 1,
-        "max": 4,
-        "chance": 0.9,
+        "max": 2,
+        "chance": 0.95,
         "required": true,
-        "item": "minecraft:dye",
-        "meta": 4,
+        "item": "oredict:nuggetPlatinum",
+        "meta": 0,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
@@ -51,7 +51,7 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "oredict:oreLapis",
+        "item": "oredict:orePlatinum",
         "meta": 0,
         "tags": "",
         "ignoreMeta": true,
@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_lapender",
+    "seed_texture": "agricraft:items/seed_platiolus",
     "plant_textures": [
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender2",
-      "agricraft:blocks/crop_lapender2",
-      "agricraft:blocks/crop_lapender3",
-      "agricraft:blocks/crop_lapender3",
-      "agricraft:blocks/crop_lapender4"
+      "agricraft:blocks/crop_platiolus1",
+      "agricraft:blocks/crop_platiolus1",
+      "agricraft:blocks/crop_platiolus1",
+      "agricraft:blocks/crop_platiolus2",
+      "agricraft:blocks/crop_platiolus2",
+      "agricraft:blocks/crop_platiolus2",
+      "agricraft:blocks/crop_platiolus3",
+      "agricraft:blocks/crop_platiolus4"
     ]
   }
 }

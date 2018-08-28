@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/niccissus_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "niccissus_plant",
+  "parent1": "ferranium_plant",
+  "parent2": "white_tulip_plant"
+}

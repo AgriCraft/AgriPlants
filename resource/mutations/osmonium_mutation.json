@@ -1,0 +1,8 @@
+{
+  "path": "resource/mutations/osmonium_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "osmonium_plant",
+  "parent1": "ferranium_plant",
+  "parent2": "quartzanthemum_plant"
+}

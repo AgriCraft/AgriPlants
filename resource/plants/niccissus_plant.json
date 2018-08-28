@@ -1,13 +1,13 @@
 {
-  "path": "resource/plants/lapender_plant.json",
+  "path": "resource/plants/niccissus_plant.json",
   "enabled": true,
-  "id": "lapender_plant",
-  "plant_name": "Lapender",
-  "seed_name": "Lapender Seeds",
+  "id": "niccissus_plant",
+  "plant_name": "Niccissus",
+  "seed_name": "Niccissus Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
-    "default": "A regal plant."
+    "default": "While there is much debate over which is the best plant, we can all agree that the Niccissus plant is by far the most self-absorbed."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -24,11 +24,11 @@
     "products": [
       {
         "min": 1,
-        "max": 4,
-        "chance": 0.9,
+        "max": 2,
+        "chance": 0.95,
         "required": true,
-        "item": "minecraft:dye",
-        "meta": 4,
+        "item": "oredict:nuggetNickel",
+        "meta": 0,
         "tags": "",
         "ignoreMeta": false,
         "ignoreTags": [],
@@ -51,7 +51,7 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "oredict:oreLapis",
+        "item": "oredict:oreNickel",
         "meta": 0,
         "tags": "",
         "ignoreMeta": true,
@@ -62,16 +62,16 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_lapender",
+    "seed_texture": "agricraft:items/seed_niccissus",
     "plant_textures": [
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender1",
-      "agricraft:blocks/crop_lapender2",
-      "agricraft:blocks/crop_lapender2",
-      "agricraft:blocks/crop_lapender3",
-      "agricraft:blocks/crop_lapender3",
-      "agricraft:blocks/crop_lapender4"
+      "agricraft:blocks/crop_niccissus1",
+      "agricraft:blocks/crop_niccissus1",
+      "agricraft:blocks/crop_niccissus1",
+      "agricraft:blocks/crop_niccissus2",
+      "agricraft:blocks/crop_niccissus2",
+      "agricraft:blocks/crop_niccissus2",
+      "agricraft:blocks/crop_niccissus3",
+      "agricraft:blocks/crop_niccissus4"
     ]
   }
 }
