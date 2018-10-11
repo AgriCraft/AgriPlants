@@ -1,0 +1,18 @@
+{
+  "path": "mod_hatchery/soils/fertilized_dirt_soil.json",
+  "enabled": true,
+  "id": "fertilized_dirt_soil",
+  "name": "Fertilized Dirt",
+  "varients": [
+    {
+      "item": "hatchery:fertilized_dirt",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}
