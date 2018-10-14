@@ -1,0 +1,18 @@
+{
+  "path": "mod_snad/soils/red_snad_soil.json",
+  "enabled": true,
+  "id": "red_snad_soil",
+  "name": "Red Snad",
+  "varients": [
+    {
+      "item": "snad:snad:1",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

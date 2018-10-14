@@ -61,7 +61,9 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "sand_soil"
+    "sand_soil",
+	  "snad_soil",
+	  "red_snad_soil"
     ],
     "conditions": []
   },

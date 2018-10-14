@@ -1,0 +1,18 @@
+{
+  "path": "mod_snad/soils/snad_soil.json",
+  "enabled": true,
+  "id": "Snad_soil",
+  "name": "Snad",
+  "varients": [
+    {
+      "item": "snad:snad",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": true
+    }
+  ]
+}

@@ -31,6 +31,8 @@
       "gravel_soil",
       "grass_soil",
       "sand_soil",
+	    "snad_soil",
+	    "red_snad_soil",
       "fertilized_dirt_soil",
       "fertilized_farmland_soil",
       "fertilized_farmland_healthy_soil",
