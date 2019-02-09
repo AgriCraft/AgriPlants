@@ -34,11 +34,11 @@
   "products": {
     "products": [
       {
-        "min": 1,
+        "min": 5,
         "max": 5,
-        "chance": 0.9,
+        "chance": 1.0,
         "required": true,
-        "item": "mysticalagriculture:inferium_essence",
+        "item": "mysticalagriculture:crafting",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
