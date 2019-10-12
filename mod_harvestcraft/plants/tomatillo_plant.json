@@ -1,12 +1,12 @@
 {
-  "path": "mod_harvestcraft/plants/cauliflower_plant.json",
+  "path": "mod_harvestcraft/plants/tomatillo_plant.json",
   "enabled": true,
-  "id": "harvestcraft:cauliflower_plant",
-  "plant_name": "Cauliflower",
-  "seed_name": "Cauliflower Seeds",
+  "id": "harvestcraft:tomatillo_plant",
+  "plant_name": "Tomatillo",
+  "seed_name": "Tomatillo Seeds",
   "seed_items": [
     {
-      "item": "harvestcraft:cauliflowerseeditem",
+      "item": "harvestcraft:tomatilloseeditem",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,7 +18,7 @@
   ],
   "description": {
     "translations": {},
-    "default": "Cauliflower Seeds."
+    "default": "Tomatillo Seeds."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "harvestcraft:caulifloweritem",
+        "item": "harvestcraft:tomatilloitem",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -67,16 +67,12 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "harvestcraft:items/caulifloweritem",
+    "seed_texture": "harvestcraft:items/tomatilloitem",
     "plant_textures": [
-      "harvestcraft:blocks/crops/cauliflower_stage_0",
-      "harvestcraft:blocks/crops/cauliflower_stage_0",
-      "harvestcraft:blocks/crops/cauliflower_stage_0",
-      "harvestcraft:blocks/crops/cauliflower_stage_1",
-      "harvestcraft:blocks/crops/cauliflower_stage_1",
-      "harvestcraft:blocks/crops/cauliflower_stage_2",
-      "harvestcraft:blocks/crops/cauliflower_stage_2",
-      "harvestcraft:blocks/crops/cauliflower_stage_3"
+      "harvestcraft:blocks/crops/tomatillo_stage_0",
+      "harvestcraft:blocks/crops/tomatillo_stage_1",
+      "harvestcraft:blocks/crops/tomatillo_stage_2",
+      "harvestcraft:blocks/crops/tomatillo_stage_3"
     ]
   }
 }
