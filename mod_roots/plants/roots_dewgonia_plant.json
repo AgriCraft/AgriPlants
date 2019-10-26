@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagradditions/tier6_inferium_plant.json",
+  "path": "mod_roots/plants/roots_dewgonia_plant.json",
   "enabled": true,
-  "id": "mysticalagradditions:tier_six_inferium_plant",
-  "plant_name": "Tier Six Inferium Crop",
-  "seed_name": "Tier Six Inferium Seeds",
+  "id": "roots:dewgonia_plant",
+  "plant_name": "Dewgonia",
+  "seed_name": "Dewgonia Sprouts",
   "seed_items": [
     {
-      "item": "mysticalagradditions:tier6_inferium_seeds",
+      "item": "roots:dewgonia",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,10 +18,10 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tier Six Inferium Seeds. Much upgrade. Very wow."
+    "default": "Dewgonia sprouts."
   },
   "growth_chance": 0.9,
-  "growth_bonus": 0.02,
+  "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:inferium_essence",
+        "item": "roots:dewgonia",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -51,22 +51,18 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "farmland_soil"
+      "aqueous_soil_soil"
     ],
     "conditions": []
   },
   "texture": {
-    "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/inferium_seeds",
+    "render_type": "hash",
+    "seed_texture": "roots:items/dewgonia",
     "plant_textures": [
-      "mysticalagriculture:blocks/crop0",
-      "mysticalagriculture:blocks/crop1",
-      "mysticalagriculture:blocks/crop2",
-      "mysticalagriculture:blocks/crop2",
-      "mysticalagriculture:blocks/crop3",
-      "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/inferium_crop"
+      "roots:blocks/dewgonia_0",
+      "roots:blocks/dewgonia_1",
+      "roots:blocks/dewgonia_2",
+      "roots:blocks/dewgonia_3"
     ]
   }
 }

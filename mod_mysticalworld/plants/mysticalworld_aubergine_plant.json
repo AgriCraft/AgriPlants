@@ -1,17 +1,28 @@
 {
-  "path": "resource/plants/redstodendron_plant.json",
+  "path": "mod_mysticalworld/plants/mysticalworld_aubergine_plant.json",
   "enabled": true,
-  "id": "resource:redstodendron_plant",
-  "plant_name": "Redstodendron",
-  "seed_name": "Red Seeds",
-  "seed_items": [],
+  "id": "mysticalworld:aubergine_plant",
+  "plant_name": "Aubergine",
+  "seed_name": "Aubergine Seeds",
+  "seed_items": [
+    {
+      "item": "mysticalworld:aubergine_seed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
   "description": {
     "translations": {},
-    "default": "Much more complex than the average red algea."
+    "default": "Aubergine seeds."
   },
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
-  "bonemeal": false,
+  "bonemeal": true,
   "tier": 1,
   "weedable": false,
   "aggressive": false,
@@ -27,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "minecraft:redstone",
+        "item": "mysticalworld:aubergine",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -41,7 +52,6 @@
     "max_light": 16,
     "soils": [
       "farmland_soil",
-      "grass_soil",
       "fertilized_dirt_soil",
       "fertile_soil",
       "loamy_farmland_soil",
@@ -53,36 +63,20 @@
       "fertilized_farmland_healthy_stable_soil",
       "fertilized_farmland_healthy_soil"
     ],
-    "conditions": [
-      {
-        "amount": 1,
-        "min_x": 0,
-        "min_y": -2,
-        "min_z": 0,
-        "max_x": 0,
-        "max_y": -2,
-        "max_z": 0,
-        "item": "minecraft:redstone_ore",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [],
-        "useOreDict": true
-      }
-    ]
+    "conditions": []
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_redstodendron",
+    "seed_texture": "mysticalworld:items/aubergine_seed",
     "plant_textures": [
-      "agricraft:blocks/crop_redstodendron1",
-      "agricraft:blocks/crop_redstodendron1",
-      "agricraft:blocks/crop_redstodendron1",
-      "agricraft:blocks/crop_redstodendron2",
-      "agricraft:blocks/crop_redstodendron2",
-      "agricraft:blocks/crop_redstodendron3",
-      "agricraft:blocks/crop_redstodendron3",
-      "agricraft:blocks/crop_redstodendron4"
+      "mysticalworld:blocks/aubergine_0",
+      "mysticalworld:blocks/aubergine_1",
+      "mysticalworld:blocks/aubergine_2",
+      "mysticalworld:blocks/aubergine_3",
+      "mysticalworld:blocks/aubergine_4",
+      "mysticalworld:blocks/aubergine_5",
+      "mysticalworld:blocks/aubergine_6",
+      "mysticalworld:blocks/aubergine_7"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
-  "path": "mod_mysticalagradditions/tier6_inferium_plant.json",
+  "path": "mod_roots/plants/roots_wildewheet_plant.json",
   "enabled": true,
-  "id": "mysticalagradditions:tier_six_inferium_plant",
-  "plant_name": "Tier Six Inferium Crop",
-  "seed_name": "Tier Six Inferium Seeds",
+  "id": "roots:wildewheet_plant",
+  "plant_name": "Wildewheet",
+  "seed_name": "Wildewheet Seeds",
   "seed_items": [
     {
-      "item": "mysticalagradditions:tier6_inferium_seeds",
+      "item": "roots:wildewheet_seed",
       "meta": 0,
       "tags": "",
       "ignoreMeta": false,
@@ -18,10 +18,10 @@
   ],
   "description": {
     "translations": {},
-    "default": "Tier Six Inferium Seeds. Much upgrade. Very wow."
+    "default": "Wildewheet seeds."
   },
   "growth_chance": 0.9,
-  "growth_bonus": 0.02,
+  "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
   "weedable": false,
@@ -38,7 +38,7 @@
         "max": 5,
         "chance": 0.9,
         "required": true,
-        "item": "mysticalagriculture:inferium_essence",
+        "item": "roots:wildewheet",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
@@ -51,22 +51,26 @@
     "min_light": 10,
     "max_light": 16,
     "soils": [
-      "farmland_soil"
+      "elemental_soil_soil",
+      "caelic_soil_soil",
+      "magmatic_soil_soil",
+      "terran_soil_soil",
+      "aqueous_soil_soil"
     ],
     "conditions": []
   },
   "texture": {
-    "render_type": "cross",
-    "seed_texture": "mysticalagriculture:items/inferium_seeds",
+    "render_type": "hash",
+    "seed_texture": "roots:items/wildewheet_seed",
     "plant_textures": [
-      "mysticalagriculture:blocks/crop0",
-      "mysticalagriculture:blocks/crop1",
-      "mysticalagriculture:blocks/crop2",
-      "mysticalagriculture:blocks/crop2",
-      "mysticalagriculture:blocks/crop3",
-      "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/crop4",
-      "mysticalagriculture:blocks/inferium_crop"
+      "roots:blocks/wildewheet_0",
+      "roots:blocks/wildewheet_1",
+      "roots:blocks/wildewheet_2",
+      "roots:blocks/wildewheet_3",
+      "roots:blocks/wildewheet_4",
+      "roots:blocks/wildewheet_5",
+      "roots:blocks/wildewheet_6",
+      "roots:blocks/wildewheet_7"
     ]
   }
 }
