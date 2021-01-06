@@ -2,19 +2,21 @@
   "path": "vanilla/plants/allium_plant.json",
   "enabled": true,
   "id": "vanilla:allium_plant",
+  "plant_name": "Allium",
+  "seed_name": "Allium Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
     "default": "From the family of plants including the garlic, onion, and chive this plant produces a beautiful umbel consisting of many small purple blooms."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "cloneable": true,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -25,10 +27,12 @@
         "max": 1,
         "chance": 0.75,
         "required": true,
-        "item": "minecraft:magenta_dye",
+        "item": "minecraft:dye",
+        "meta": 13,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": false
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },

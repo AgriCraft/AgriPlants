@@ -2,19 +2,21 @@
   "path": "resource/plants/petinia_plant.json",
   "enabled": true,
   "id": "resource:petinia_plant",
+  "plant_name": "Petinia",
+  "seed_name": "Petinia Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
     "default": "A distant cousin of the familiar petunia flower, this plant produces a substance frequently used to plate metal cans."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "cloneable": false,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -25,10 +27,12 @@
         "max": 2,
         "chance": 0.95,
         "required": true,
-        "item": "forge:nuggets/tin",
+        "item": "oredict:nuggetTin",
+        "meta": 0,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": true
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
@@ -40,7 +44,6 @@
     ],
     "conditions": [
       {
-        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -48,10 +51,12 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "forge:ores/tin",
+        "item": "oredict:oreTin",
+        "meta": 0,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": true
+        "ignoreMeta": true,
+        "ignoreTags": [],
+        "useOreDict": true
       }
     ]
   },

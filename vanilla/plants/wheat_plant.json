@@ -2,26 +2,32 @@
   "path": "vanilla/plants/wheat_plant.json",
   "enabled": true,
   "id": "vanilla:wheat_plant",
+  "plant_name": "Wheat",
+  "seed_name": "Wheat Seeds",
   "seed_items": [
     {
       "item": "minecraft:wheat_seeds",
+      "meta": 0,
       "tags": "",
-      "ignoredTags": [],
-      "useTag": false
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
     }
   ],
   "description": {
     "translations": {},
     "default": "The cornerstone of the Agriculutural Revolution."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "cloneable": true,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -33,9 +39,11 @@
         "chance": 0.95,
         "required": true,
         "item": "minecraft:wheat",
+        "meta": 0,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": false
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },

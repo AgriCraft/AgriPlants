@@ -2,32 +2,42 @@
   "path": "vanilla/plants/nether_wart_plant.json",
   "enabled": true,
   "id": "vanilla:nether_wart_plant",
+  "plant_name": "Nether Wart",
+  "seed_name": "Nether Spores",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
+      "meta": 0,
       "tags": "",
-      "ignoredTags": [],
-      "useTag": false
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
     },
     {
       "item": "minecraft:nether_wart",
+      "meta": 0,
       "tags": "",
-      "ignoredTags": [],
-      "useTag": false
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
     }
   ],
   "description": {
     "translations": {},
     "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "cloneable": true,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -39,9 +49,11 @@
         "chance": 0.95,
         "required": true,
         "item": "minecraft:nether_wart",
+        "meta": 0,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": false
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },

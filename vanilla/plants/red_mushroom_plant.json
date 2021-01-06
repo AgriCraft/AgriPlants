@@ -2,34 +2,44 @@
   "path": "vanilla/plants/red_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:red_mushroom_plant",
+  "plant_name": "Red Mushroom",
+  "seed_name": "Red Mushroom Spores",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
+      "meta": 0,
       "tags": "",
-      "ignoredTags": [],
-      "useTag": false
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
     },
     {
       "item": "minecraft:red_mushroom",
+      "meta": 0,
       "tags": "",
-      "ignoredTags": [],
-      "useTag": false
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
     }
   ],
   "description": {
     "translations": {
-      "en_es": "Shrooms, ever so trippy."
+      "en_US": "Shrooms, ever so trippy."
     },
     "default": "Badger, badger, badger."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "cloneable": true,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -41,9 +51,11 @@
         "chance": 1.0,
         "required": true,
         "item": "minecraft:red_mushroom",
+        "meta": 0,
         "tags": "",
-        "ignoredTags": [],
-        "useTag": false
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
