@@ -2,21 +2,19 @@
   "path": "vanilla/plants/orchid_plant.json",
   "enabled": true,
   "id": "vanilla:orchid_plant",
-  "plant_name": "Blue Orchid",
-  "seed_name": "Blue Orchid Seeds",
   "seed_items": [],
   "description": {
     "translations": {},
     "default": "A rarity by any measure."
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -27,12 +25,10 @@
         "max": 1,
         "chance": 0.75,
         "required": true,
-        "item": "minecraft:dye",
-        "meta": 12,
+        "item": "minecraft:light_blue_dye",
         "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "ignoredTags": [],
+        "useTag": false
       }
     ]
   },

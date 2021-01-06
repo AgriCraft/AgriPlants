@@ -2,42 +2,32 @@
   "path": "vanilla/plants/brown_mushroom_plant.json",
   "enabled": true,
   "id": "vanilla:brown_mushroom_plant",
-  "plant_name": "Brown Mushroom",
-  "seed_name": "Brown Mushroom Spores",
   "seed_items": [
     {
       "item": "agricraft:agri_seed",
-      "meta": 0,
       "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
-        "*"
-      ],
-      "useOreDict": false
+      "ignoredTags": [],
+      "useTag": false
     },
     {
       "item": "minecraft:brown_mushroom",
-      "meta": 0,
       "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
-        "*"
-      ],
-      "useOreDict": false
+      "ignoredTags": [],
+      "useTag": false
     }
   ],
   "description": {
     "translations": {},
     "default": "A simple decomposer."
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -49,11 +39,9 @@
         "chance": 1.0,
         "required": true,
         "item": "minecraft:brown_mushroom",
-        "meta": 0,
         "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "ignoredTags": [],
+        "useTag": false
       }
     ]
   },

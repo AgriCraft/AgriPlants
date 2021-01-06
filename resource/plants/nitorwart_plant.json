@@ -2,21 +2,19 @@
   "path": "resource/plants/nitorwart_plant.json",
   "enabled": true,
   "id": "resource:nitorwart_plant",
-  "plant_name": "Nitorwart",
-  "seed_name": "Burning Spores",
   "seed_items": [],
   "description": {
     "translations": {},
     "default": "It sure seems to like to glow."
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": false,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -28,11 +26,9 @@
         "chance": 0.9,
         "required": true,
         "item": "minecraft:glowstone_dust",
-        "meta": 0,
         "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "ignoredTags": [],
+        "useTag": false
       }
     ]
   },
@@ -44,6 +40,7 @@
     ],
     "conditions": [
       {
+        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -52,11 +49,9 @@
         "max_y": -2,
         "max_z": 0,
         "item": "minecraft:glowstone",
-        "meta": 0,
         "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [],
-        "useOreDict": true
+        "ignoredTags": [],
+        "useTag": false
       }
     ]
   },
