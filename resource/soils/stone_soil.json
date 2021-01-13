@@ -2,17 +2,19 @@
   "path": "resource/soils/stone_soil.json",
   "enabled": true,
   "id": "stone_soil",
-  "name": "Stone",
+  "name": {
+    "default": "Stone",
+    "translations": {
+      "en_US": "Stone"
+    }
+  },
   "varients": [
     {
-      "item": "minecraft:stone",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": true,
-      "ignoreTags": [
-        "*"
-      ],
-      "useOreDict": true
+      "type": "block",
+      "object": "minecraft:stone",
+      "useTag": false,
+      "data": "",
+      "ignoredData": []
     }
   ]
 }

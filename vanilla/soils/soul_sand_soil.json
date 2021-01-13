@@ -2,17 +2,19 @@
   "path": "vanilla/soils/soul_sand_soil.json",
   "enabled": true,
   "id": "soul_sand_soil",
-  "name": "Soul Sand",
+  "name": {
+    "default": "Soul Sand",
+    "translations": {
+      "en_US": "Soul Sand"
+    }
+  },
   "varients": [
     {
-      "item": "minecraft:soul_sand",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": true,
-      "ignoreTags": [
-        "*"
-      ],
-      "useOreDict": true
+      "type": "block",
+      "object": "minecraft:soul_sand",
+      "useTag": false,
+      "data": "",
+      "ignoredData": []
     }
   ]
 }
