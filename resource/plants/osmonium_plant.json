@@ -1,29 +1,22 @@
 {
   "path": "resource/plants/osmonium_plant.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "resource:osmonium_plant",
-  "plant_name": {
-    "default": "Osmonium",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Osmonium Seeds",
-    "translations": {}
-  },
+  "plant_name": "Osmonium",
+  "seed_name": "Osmonium Seeds",
   "seed_items": [],
   "description": {
-    "default": "An unusually rare plant, thought to originate from outer space.",
-    "translations": {}
+    "translations": {},
+    "default": "An unusually rare plant, thought to originate from outer space."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "cloneable": false,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -34,11 +27,12 @@
         "max": 2,
         "chance": 0.95,
         "required": true,
-        "type": "item",
-        "object": "forge:nuggets/osmium",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "item": "oredict:nuggetOsmium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
@@ -50,7 +44,6 @@
     ],
     "conditions": [
       {
-        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -58,11 +51,12 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "type": "block",
-        "object": "forge:ores/osmium",
-        "useTag": true,
-        "data": "",
-        "ignoredData": []
+        "item": "oredict:oreOsmium",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [],
+        "useOreDict": true
       }
     ]
   },

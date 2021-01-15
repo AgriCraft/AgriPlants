@@ -1,21 +1,18 @@
 {
   "path": "vanilla/soils/farmland_soil.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "farmland_soil",
-  "name": {
-    "default": "Farmland",
-    "translations": {}
-  },
+  "name": "Farmland",
   "varients": [
     {
-      "type": "block",
-      "object": "minecraft:farmland",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "item": "minecraft:farmland",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
         "*"
-      ]
+      ],
+      "useOreDict": true
     }
   ]
 }

@@ -1,6 +1,5 @@
 {
   "path": "resource/mutations/jaslumine_mutation.json",
-  "version": "1.16.4",
   "enabled": true,
   "chance": 0.25,
   "child": "resource:jaslumine_plant",

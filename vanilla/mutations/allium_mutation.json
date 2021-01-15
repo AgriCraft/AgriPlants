@@ -1,6 +1,5 @@
 {
   "path": "vanilla/mutations/allium_mutation.json",
-  "version": "1.16.4",
   "enabled": true,
   "chance": 0.75,
   "child": "vanilla:allium_plant",

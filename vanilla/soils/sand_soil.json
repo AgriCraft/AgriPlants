@@ -1,21 +1,18 @@
 {
   "path": "vanilla/soils/sand_soil.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "sand_soil",
-  "name": {
-    "default": "Sand",
-    "translations": {}
-  },
+  "name": "Sand",
   "varients": [
     {
-      "type": "block",
-      "object": "minecraft:sand",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "item": "minecraft:sand",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
         "*"
-      ]
+      ],
+      "useOreDict": true
     }
   ]
 }

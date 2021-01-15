@@ -1,21 +1,18 @@
 {
   "path": "vanilla/soils/mycelium_soil.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "mycelium_soil",
-  "name": {
-    "default": "Mycelium",
-    "translations": {}
-  },
+  "name": "Mycelium",
   "varients": [
     {
-      "type": "block",
-      "object": "minecraft:mycelium",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "item": "minecraft:mycelium",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": true,
+      "ignoreTags": [
         "*"
-      ]
+      ],
+      "useOreDict": true
     }
   ]
 }

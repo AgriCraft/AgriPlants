@@ -1,29 +1,22 @@
 {
   "path": "resource/plants/quartzanthemum_plant.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "resource:quartzanthemum_plant",
-  "plant_name": {
-    "default": "Quartzanthemum",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Crystalline Seeds",
-    "translations": {}
-  },
+  "plant_name": "Quartzanthemum",
+  "seed_name": "Crystalline Seeds",
   "seed_items": [],
   "description": {
-    "default": "A suprisingly crystalline plant.",
-    "translations": {}
+    "translations": {},
+    "default": "A suprisingly crystalline plant."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "cloneable": false,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -34,11 +27,12 @@
         "max": 5,
         "chance": 0.875,
         "required": true,
-        "type": "item",
-        "object": "forge:nuggets/quartz",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "item": "oredict:nuggetQuartz",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },
@@ -50,7 +44,6 @@
     ],
     "conditions": [
       {
-        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -58,11 +51,12 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "type": "block",
-        "object": "minecraft:quartz_ore",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "item": "minecraft:quartz_ore",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": true,
+        "ignoreTags": [],
+        "useOreDict": true
       }
     ]
   },

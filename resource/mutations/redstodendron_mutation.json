@@ -1,6 +1,5 @@
 {
   "path": "resource/mutations/redstodendron_mutation.json",
-  "version": "1.16.4",
   "enabled": true,
   "chance": 1.0,
   "child": "resource:redstodendron_plant",

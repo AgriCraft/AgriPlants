@@ -1,48 +1,43 @@
 {
   "path": "vanilla/plants/potato_plant.json",
-  "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:potato_plant",
-  "plant_name": {
-    "default": "Potato",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Potato Seeds",
-    "translations": {}
-  },
+  "plant_name": "Potato",
+  "seed_name": "Potato Seeds",
   "seed_items": [
     {
-      "type": "item",
-      "object": "agricraft:agri_seed",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "item": "agricraft:agri_seed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
         "*"
-      ]
+      ],
+      "useOreDict": false
     },
     {
-      "type": "item",
-      "object": "minecraft:potato",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "item": "minecraft:potato",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
         "*"
-      ]
+      ],
+      "useOreDict": false
     }
   ],
   "description": {
-    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew.",
-    "translations": {}
+    "translations": {},
+    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew."
   },
-  "stages": 8,
-  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "cloneable": true,
+  "weedable": false,
+  "aggressive": false,
   "spread_chance": 0.1,
+  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -53,22 +48,24 @@
         "max": 4,
         "chance": 0.95,
         "required": true,
-        "type": "item",
-        "object": "minecraft:potato",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "item": "minecraft:potato",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       },
       {
         "min": 1,
         "max": 2,
         "chance": 0.02,
         "required": true,
-        "type": "item",
-        "object": "minecraft:poisonous_potato",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "item": "minecraft:poisonous_potato",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
       }
     ]
   },

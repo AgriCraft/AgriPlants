@@ -1,6 +1,5 @@
 {
   "path": "vanilla/mutations/cactus_mutation.json",
-  "version": "1.16.4",
   "enabled": true,
   "chance": 0.5,
   "child": "vanilla:cactus_plant",
