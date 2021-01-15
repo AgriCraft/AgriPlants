@@ -1,46 +1,51 @@
 {
   "path": "vanilla/plants/sugarcane_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:sugarcane_plant",
-  "plant_name": "Sugarcane",
-  "seed_name": "Sugarcane Seeds",
+  "plant_name": {
+    "default": "Sugarcane",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Sugarcane Seeds",
+    "translations": {}
+  },
   "seed_items": [
     {
-      "item": "agricraft:agri_seed",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "agricraft:agri_seed",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     },
     {
-      "item": "minecraft:reeds",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "minecraft:reeds",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     }
   ],
   "description": {
+    "default": "A good source of sugar.",
     "translations": {
       "en_US": "High in fructose, a healthy part of your daily breakfast.",
       "es_ES": "Mucho azucar."
-    },
-    "default": "A good source of sugar."
+    }
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -51,12 +56,11 @@
         "max": 2,
         "chance": 1000.0,
         "required": true,
-        "item": "minecraft:reeds",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "minecraft:reeds",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },

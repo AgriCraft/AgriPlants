@@ -1,5 +1,6 @@
 {
   "path": "resource/mutations/emeryllis_mutation.json",
+  "version": "1.16.4",
   "enabled": true,
   "chance": 1.0,
   "child": "resource:emeryllis_plant",

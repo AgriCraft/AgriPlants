@@ -1,5 +1,6 @@
 {
   "path": "vanilla/mutations/red_tulip_mutation.json",
+  "version": "1.16.4",
   "enabled": true,
   "chance": 0.75,
   "child": "vanilla:red_tulip_plant",
