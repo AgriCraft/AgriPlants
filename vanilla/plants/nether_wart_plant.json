@@ -1,43 +1,48 @@
 {
   "path": "vanilla/plants/nether_wart_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:nether_wart_plant",
-  "plant_name": "Nether Wart",
-  "seed_name": "Nether Spores",
+  "plant_name": {
+    "default": "Nether Wart",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Nether Spores",
+    "translations": {}
+  },
   "seed_items": [
     {
-      "item": "agricraft:agri_seed",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "agricraft:agri_seed",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     },
     {
-      "item": "minecraft:nether_wart",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "minecraft:nether_wart",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     }
   ],
   "description": {
-    "translations": {},
-    "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer."
+    "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer.",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -48,12 +53,11 @@
         "max": 3,
         "chance": 0.95,
         "required": true,
-        "item": "minecraft:nether_wart",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "minecraft:nether_wart",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -67,7 +71,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_nether_wart",
+    "seed_texture": "agricraft:item/seed_nether_wart",
     "plant_textures": [
       "minecraft:blocks/nether_wart_stage_0",
       "minecraft:blocks/nether_wart_stage_0",

@@ -1,33 +1,39 @@
 {
   "path": "vanilla/plants/pumpkin_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:pumpkin_plant",
-  "plant_name": "Pumpkin",
-  "seed_name": "Pumpkin Seeds",
+  "plant_name": {
+    "default": "Pumpkin",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Pumpkin Seeds",
+    "translations": {}
+  },
   "seed_items": [
     {
-      "item": "minecraft:pumpkin_seeds",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "minecraft:pumpkin_seeds",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     }
   ],
   "description": {
-    "translations": {},
-    "default": "If I eat enough of these will I turn orange?"
+    "default": "If I eat enough of these will I turn orange?",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -38,12 +44,11 @@
         "max": 2,
         "chance": 1.0,
         "required": true,
-        "item": "minecraft:pumpkin",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "minecraft:pumpkin",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -59,14 +64,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/seeds_pumpkin",
     "plant_textures": [
-      "agricraft:blocks/crop_pumpkin1",
-      "agricraft:blocks/crop_pumpkin1",
-      "agricraft:blocks/crop_pumpkin1",
-      "agricraft:blocks/crop_pumpkin2",
-      "agricraft:blocks/crop_pumpkin2",
-      "agricraft:blocks/crop_pumpkin3",
-      "agricraft:blocks/crop_pumpkin3",
-      "agricraft:blocks/crop_pumpkin4"
+      "agricraft:block/crop_pumpkin1",
+      "agricraft:block/crop_pumpkin1",
+      "agricraft:block/crop_pumpkin1",
+      "agricraft:block/crop_pumpkin2",
+      "agricraft:block/crop_pumpkin2",
+      "agricraft:block/crop_pumpkin3",
+      "agricraft:block/crop_pumpkin3",
+      "agricraft:block/crop_pumpkin4"
     ]
   }
 }

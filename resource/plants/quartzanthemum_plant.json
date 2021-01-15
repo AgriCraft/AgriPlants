@@ -1,22 +1,29 @@
 {
   "path": "resource/plants/quartzanthemum_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "resource:quartzanthemum_plant",
-  "plant_name": "Quartzanthemum",
-  "seed_name": "Crystalline Seeds",
+  "plant_name": {
+    "default": "Quartzanthemum",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Crystalline Seeds",
+    "translations": {}
+  },
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A suprisingly crystalline plant."
+    "default": "A suprisingly crystalline plant.",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": false,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -27,12 +34,11 @@
         "max": 5,
         "chance": 0.875,
         "required": true,
-        "item": "oredict:nuggetQuartz",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "forge:nuggets/quartz",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -44,6 +50,7 @@
     ],
     "conditions": [
       {
+        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -51,27 +58,26 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "minecraft:quartz_ore",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [],
-        "useOreDict": true
+        "type": "block",
+        "object": "minecraft:quartz_ore",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_quartzanthemum",
+    "seed_texture": "agricraft:item/seed_quartzanthemum",
     "plant_textures": [
-      "agricraft:blocks/crop_quartzanthemum1",
-      "agricraft:blocks/crop_quartzanthemum1",
-      "agricraft:blocks/crop_quartzanthemum1",
-      "agricraft:blocks/crop_quartzanthemum2",
-      "agricraft:blocks/crop_quartzanthemum2",
-      "agricraft:blocks/crop_quartzanthemum3",
-      "agricraft:blocks/crop_quartzanthemum3",
-      "agricraft:blocks/crop_quartzanthemum4"
+      "agricraft:block/crop_quartzanthemum1",
+      "agricraft:block/crop_quartzanthemum1",
+      "agricraft:block/crop_quartzanthemum1",
+      "agricraft:block/crop_quartzanthemum2",
+      "agricraft:block/crop_quartzanthemum2",
+      "agricraft:block/crop_quartzanthemum3",
+      "agricraft:block/crop_quartzanthemum3",
+      "agricraft:block/crop_quartzanthemum4"
     ]
   }
 }

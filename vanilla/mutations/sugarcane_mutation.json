@@ -1,5 +1,6 @@
 {
   "path": "vanilla/mutations/sugarcane_mutation.json",
+  "version": "1.16.4",
   "enabled": true,
   "chance": 0.5,
   "child": "vanilla:sugarcane_plant",

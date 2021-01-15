@@ -1,18 +1,21 @@
 {
   "path": "vanilla/soils/grass_soil.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "grass_soil",
-  "name": "Grass",
+  "name": {
+    "default": "Grass",
+    "translations": {}
+  },
   "varients": [
     {
-      "item": "minecraft:grass",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": true,
-      "ignoreTags": [
+      "type": "block",
+      "object": "minecraft:grass",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": true
+      ]
     }
   ]
 }

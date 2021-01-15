@@ -1,22 +1,29 @@
 {
   "path": "resource/plants/ferranium_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "resource:ferranium_plant",
-  "plant_name": "Ferranium",
-  "seed_name": "Ferranum Seeds",
+  "plant_name": {
+    "default": "Ferranium",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Ferranum Seeds",
+    "translations": {}
+  },
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A strong plant."
+    "default": "A strong plant.",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.9,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": false,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -27,12 +34,11 @@
         "max": 2,
         "chance": 0.95,
         "required": true,
-        "item": "oredict:nuggetIron",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "forge:nuggets/iron",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -44,6 +50,7 @@
     ],
     "conditions": [
       {
+        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -51,27 +58,26 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "oredict:oreIron",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [],
-        "useOreDict": true
+        "type": "block",
+        "object": "forge:ores/iron",
+        "useTag": true,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_ferranium",
+    "seed_texture": "agricraft:item/seed_ferranium",
     "plant_textures": [
-      "agricraft:blocks/crop_ferranium1",
-      "agricraft:blocks/crop_ferranium1",
-      "agricraft:blocks/crop_ferranium1",
-      "agricraft:blocks/crop_ferranium2",
-      "agricraft:blocks/crop_ferranium2",
-      "agricraft:blocks/crop_ferranium2",
-      "agricraft:blocks/crop_ferranium3",
-      "agricraft:blocks/crop_ferranium4"
+      "agricraft:block/crop_ferranium1",
+      "agricraft:block/crop_ferranium1",
+      "agricraft:block/crop_ferranium1",
+      "agricraft:block/crop_ferranium2",
+      "agricraft:block/crop_ferranium2",
+      "agricraft:block/crop_ferranium2",
+      "agricraft:block/crop_ferranium3",
+      "agricraft:block/crop_ferranium4"
     ]
   }
 }

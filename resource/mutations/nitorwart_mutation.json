@@ -1,5 +1,6 @@
 {
   "path": "resource/mutations/nitorwart_mutation.json",
+  "version": "1.16.4",
   "enabled": true,
   "chance": 0.75,
   "child": "resource:nitorwart_plant",

@@ -1,22 +1,29 @@
 {
   "path": "resource/plants/diamahlia_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "resource:diamahlia_plant",
-  "plant_name": "Diamahlia",
-  "seed_name": "Diamahlia Seeds",
+  "plant_name": {
+    "default": "Diamahlia",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Diamahlia Seeds",
+    "translations": {}
+  },
   "seed_items": [],
   "description": {
-    "translations": {},
-    "default": "A rarity by any measure."
+    "default": "A rarity by any measure.",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": false,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -27,12 +34,11 @@
         "max": 1,
         "chance": 0.75,
         "required": true,
-        "item": "oredict:nuggetDiamond",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "forge:nuggets/diamond",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -44,6 +50,7 @@
     ],
     "conditions": [
       {
+        "strength": 11,
         "amount": 1,
         "min_x": 0,
         "min_y": -2,
@@ -51,27 +58,26 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
-        "item": "oredict:oreDiamond",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": true,
-        "ignoreTags": [],
-        "useOreDict": true
+        "type": "block",
+        "object": "forge:ores/diamond",
+        "useTag": true,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:items/seed_diamahlia",
+    "seed_texture": "agricraft:item/seed_diamahlia",
     "plant_textures": [
-      "agricraft:blocks/crop_diamahlia1",
-      "agricraft:blocks/crop_diamahlia1",
-      "agricraft:blocks/crop_diamahlia1",
-      "agricraft:blocks/crop_diamahlia2",
-      "agricraft:blocks/crop_diamahlia2",
-      "agricraft:blocks/crop_diamahlia3",
-      "agricraft:blocks/crop_diamahlia3",
-      "agricraft:blocks/crop_diamahlia4"
+      "agricraft:block/crop_diamahlia1",
+      "agricraft:block/crop_diamahlia1",
+      "agricraft:block/crop_diamahlia1",
+      "agricraft:block/crop_diamahlia2",
+      "agricraft:block/crop_diamahlia2",
+      "agricraft:block/crop_diamahlia3",
+      "agricraft:block/crop_diamahlia3",
+      "agricraft:block/crop_diamahlia4"
     ]
   }
 }

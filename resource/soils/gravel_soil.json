@@ -1,18 +1,21 @@
 {
   "path": "resource/soils/gravel_soil.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "gravel_soil",
-  "name": "Gravel",
+  "name": {
+    "default": "Gravel",
+    "translations": {}
+  },
   "varients": [
     {
-      "item": "minecraft:gravel",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": true,
-      "ignoreTags": [
+      "type": "block",
+      "object": "minecraft:gravel",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": true
+      ]
     }
   ]
 }

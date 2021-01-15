@@ -1,5 +1,6 @@
 {
   "path": "resource/mutations/plombean_mutation.json",
+  "version": "1.16.4",
   "enabled": true,
   "chance": 0.25,
   "child": "resource:plombean_plant",

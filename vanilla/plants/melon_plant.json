@@ -1,33 +1,39 @@
 {
   "path": "vanilla/plants/melon_plant.json",
+  "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:melon_plant",
-  "plant_name": "Melon",
-  "seed_name": "Melon Seeds",
+  "plant_name": {
+    "default": "Melon",
+    "translations": {}
+  },
+  "seed_name": {
+    "default": "Melon Seeds",
+    "translations": {}
+  },
   "seed_items": [
     {
-      "item": "minecraft:melon_seeds",
-      "meta": 0,
-      "tags": "",
-      "ignoreMeta": false,
-      "ignoreTags": [
+      "type": "item",
+      "object": "minecraft:melon_seeds",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
         "*"
-      ],
-      "useOreDict": false
+      ]
     }
   ],
   "description": {
-    "translations": {},
-    "default": "Sweet \u0026 Juicy."
+    "default": "Sweet \u0026 Juicy.",
+    "translations": {}
   },
+  "stages": 8,
+  "harvestStage": 4,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
-  "weedable": false,
-  "aggressive": false,
+  "cloneable": true,
   "spread_chance": 0.1,
-  "spawn_chance": 0.0,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
@@ -38,12 +44,11 @@
         "max": 5,
         "chance": 1.0,
         "required": true,
-        "item": "minecraft:melon",
-        "meta": 0,
-        "tags": "",
-        "ignoreMeta": false,
-        "ignoreTags": [],
-        "useOreDict": false
+        "type": "item",
+        "object": "minecraft:melon",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
       }
     ]
   },
@@ -59,14 +64,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/seeds_melon",
     "plant_textures": [
-      "agricraft:blocks/crop_melon1",
-      "agricraft:blocks/crop_melon1",
-      "agricraft:blocks/crop_melon1",
-      "agricraft:blocks/crop_melon2",
-      "agricraft:blocks/crop_melon2",
-      "agricraft:blocks/crop_melon3",
-      "agricraft:blocks/crop_melon3",
-      "agricraft:blocks/crop_melon4"
+      "agricraft:block/crop_melon1",
+      "agricraft:block/crop_melon1",
+      "agricraft:block/crop_melon1",
+      "agricraft:block/crop_melon2",
+      "agricraft:block/crop_melon2",
+      "agricraft:block/crop_melon3",
+      "agricraft:block/crop_melon3",
+      "agricraft:block/crop_melon4"
     ]
   }
 }
