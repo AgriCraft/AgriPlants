@@ -11,7 +11,14 @@
     "default": "Jaslumine Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "Jaslumine to some, Jaluminium to me. Shines like silver, but not all that valuable of a plant.",
     "translations": {}

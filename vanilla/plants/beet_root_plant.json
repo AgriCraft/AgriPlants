@@ -11,17 +11,16 @@
     "default": "Beet Seeds",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "minecraft:beetroot_seeds",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [],
+    "type": "item",
+    "object": "minecraft:beetroot_seeds",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "Beet. It\u0027s what\u0027s for dinner.",
     "translations": {}

@@ -11,7 +11,14 @@
     "default": "Dandelion Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "While colloquially considered a weed, this yellow-flowering plant is one of unspoken value. Having a deep-rooting taproot, the plant brings up nutrients from lower levels of soil, making it a good companion plant for shallow rooting plants.",
     "translations": {}

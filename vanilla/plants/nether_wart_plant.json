@@ -11,26 +11,26 @@
     "default": "Nether Spores",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "agricraft:agri_seed",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    },
-    {
-      "type": "item",
-      "object": "minecraft:nether_wart",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [
+      {
+        "type": "item",
+        "object": "minecraft:nether_wart",
+        "useTag": false,
+        "data": "",
+        "ignoredData": [
+          "*"
+        ]
+      }
+    ],
+    "type": "item",
+    "object": "agricraft:agri_seed",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer.",
     "translations": {}

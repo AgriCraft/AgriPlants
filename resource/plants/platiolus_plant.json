@@ -11,7 +11,14 @@
     "default": "Platiolus Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "The unquestioned king among the metal-bearing plants, this plant has a gleam to it that puts even the aurigold flower to shame.",
     "translations": {}

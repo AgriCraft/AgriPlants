@@ -11,7 +11,14 @@
     "default": "Plombean Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "In ancient times this plant was thought to bear a lifegiving fruit. Nowadays we know better.",
     "translations": {}

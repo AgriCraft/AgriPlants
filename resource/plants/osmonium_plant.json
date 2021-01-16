@@ -11,7 +11,14 @@
     "default": "Osmonium Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "An unusually rare plant, thought to originate from outer space.",
     "translations": {}

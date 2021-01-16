@@ -11,7 +11,14 @@
     "default": "Burning Spores",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "It sure seems to like to glow.",
     "translations": {}

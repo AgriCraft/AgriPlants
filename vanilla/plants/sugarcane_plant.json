@@ -11,26 +11,26 @@
     "default": "Sugarcane Seeds",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "agricraft:agri_seed",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    },
-    {
-      "type": "item",
-      "object": "minecraft:sugar_cane",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [
+      {
+        "type": "item",
+        "object": "minecraft:sugar_cane",
+        "useTag": false,
+        "data": "",
+        "ignoredData": [
+          "*"
+        ]
+      }
+    ],
+    "type": "item",
+    "object": "agricraft:agri_seed",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "A good source of sugar.",
     "translations": {

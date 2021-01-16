@@ -11,26 +11,26 @@
     "default": "Red Mushroom Spores",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "agricraft:agri_seed",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    },
-    {
-      "type": "item",
-      "object": "minecraft:red_mushroom",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [
+      {
+        "type": "item",
+        "object": "minecraft:red_mushroom",
+        "useTag": false,
+        "data": "",
+        "ignoredData": [
+          "*"
+        ]
+      }
+    ],
+    "type": "item",
+    "object": "agricraft:agri_seed",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "Badger, badger, badger.",
     "translations": {

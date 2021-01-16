@@ -11,17 +11,16 @@
     "default": "Wheat Seeds",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "minecraft:wheat_seeds",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [],
+    "type": "item",
+    "object": "minecraft:wheat_seeds",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "The cornerstone of the Agriculutural Revolution.",
     "translations": {}

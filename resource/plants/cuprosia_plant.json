@@ -11,7 +11,14 @@
     "default": "Cuprosia Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "Known as the engineer\u0027s delight, this plant produces a substance of incredible utility.",
     "translations": {}

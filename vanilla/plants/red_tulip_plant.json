@@ -11,7 +11,14 @@
     "default": "Red Tulip Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "A vibrant red varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms.",
     "translations": {}

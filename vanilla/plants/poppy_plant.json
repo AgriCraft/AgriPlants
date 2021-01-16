@@ -11,7 +11,14 @@
     "default": "Poppy Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "Producing colorful blooms, this plant has gained a reputation for certain medicinal uses. A better use, perhaps, this plant produces seeds that go well with baked goods, particularly for lemon-flavored ones.",
     "translations": {}

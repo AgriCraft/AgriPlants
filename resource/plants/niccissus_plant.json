@@ -11,7 +11,14 @@
     "default": "Niccissus Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "While there is much debate over which is the best plant, we can all agree that the Niccissus plant is by far the most self-absorbed.",
     "translations": {}

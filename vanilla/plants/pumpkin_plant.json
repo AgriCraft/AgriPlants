@@ -11,17 +11,16 @@
     "default": "Pumpkin Seeds",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "minecraft:pumpkin_seeds",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [],
+    "type": "item",
+    "object": "minecraft:pumpkin_seeds",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "If I eat enough of these will I turn orange?",
     "translations": {}

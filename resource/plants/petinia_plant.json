@@ -11,7 +11,14 @@
     "default": "Petinia Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "A distant cousin of the familiar petunia flower, this plant produces a substance frequently used to plate metal cans.",
     "translations": {}

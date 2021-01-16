@@ -11,7 +11,14 @@
     "default": "Allium Seeds",
     "translations": {}
   },
-  "seed_items": [],
+  "seed_items": {
+    "substitutes": [],
+    "type": "block",
+    "object": "minecraft:dirt",
+    "useTag": false,
+    "data": "",
+    "ignoredData": []
+  },
   "description": {
     "default": "From the family of plants including the garlic, onion, and chive this plant produces a beautiful umbel consisting of many small purple blooms.",
     "translations": {}

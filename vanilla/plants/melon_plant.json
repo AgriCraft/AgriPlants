@@ -11,17 +11,16 @@
     "default": "Melon Seeds",
     "translations": {}
   },
-  "seed_items": [
-    {
-      "type": "item",
-      "object": "minecraft:melon_seeds",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": {
+    "substitutes": [],
+    "type": "item",
+    "object": "minecraft:melon_seeds",
+    "useTag": false,
+    "data": "",
+    "ignoredData": [
+      "*"
+    ]
+  },
   "description": {
     "default": "Sweet \u0026 Juicy.",
     "translations": {}
