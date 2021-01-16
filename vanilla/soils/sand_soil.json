@@ -10,8 +10,8 @@
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:sand",
-      "useTag": false,
+      "object": "forge:sand",
+      "useTag": true,
       "data": "",
       "ignoredData": [
         "*"

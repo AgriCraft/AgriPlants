@@ -10,7 +10,7 @@
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:grass",
+      "object": "minecraft:grass_block",
       "useTag": false,
       "data": "",
       "ignoredData": [

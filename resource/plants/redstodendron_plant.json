@@ -59,8 +59,8 @@
         "max_y": -2,
         "max_z": 0,
         "type": "block",
-        "object": "minecraft:redstone_ore",
-        "useTag": false,
+        "object": "forge:ores/redstone",
+        "useTag": true,
         "data": "",
         "ignoredData": []
       }

@@ -64,14 +64,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/beetroot_seeds",
     "plant_textures": [
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_0",
-      "minecraft:blocks/beetroots_stage_1",
-      "minecraft:blocks/beetroots_stage_1",
-      "minecraft:blocks/beetroots_stage_2",
-      "minecraft:blocks/beetroots_stage_2",
-      "minecraft:blocks/beetroots_stage_3"
+      "minecraft:blocks/beetroots_stage0",
+      "minecraft:blocks/beetroots_stage0",
+      "minecraft:blocks/beetroots_stage0",
+      "minecraft:blocks/beetroots_stage1",
+      "minecraft:blocks/beetroots_stage1",
+      "minecraft:blocks/beetroots_stage2",
+      "minecraft:blocks/beetroots_stage2",
+      "minecraft:blocks/beetroots_stage3"
     ]
   }
 }

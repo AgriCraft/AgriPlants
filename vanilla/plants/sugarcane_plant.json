@@ -23,7 +23,7 @@
     },
     {
       "type": "item",
-      "object": "minecraft:reeds",
+      "object": "minecraft:sugar_cane",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -34,8 +34,8 @@
   "description": {
     "default": "A good source of sugar.",
     "translations": {
-      "en_US": "High in fructose, a healthy part of your daily breakfast.",
-      "es_ES": "Mucho azucar."
+      "en_us": "High in fructose, a healthy part of your daily breakfast.",
+      "es_es": "Mucho azucar."
     }
   },
   "stages": 8,
@@ -57,7 +57,7 @@
         "chance": 1000.0,
         "required": true,
         "type": "item",
-        "object": "minecraft:reeds",
+        "object": "minecraft:sugar_cane",
         "useTag": false,
         "data": "",
         "ignoredData": []

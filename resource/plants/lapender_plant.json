@@ -35,7 +35,7 @@
         "chance": 0.9,
         "required": true,
         "type": "item",
-        "object": "minecraft:dye",
+        "object": "minecraft:lapis_lazuli",
         "useTag": false,
         "data": "",
         "ignoredData": []

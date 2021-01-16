@@ -59,8 +59,8 @@
         "max_y": -2,
         "max_z": 0,
         "type": "block",
-        "object": "minecraft:quartz_ore",
-        "useTag": false,
+        "object": "forge:ores/quartz",
+        "useTag": true,
         "data": "",
         "ignoredData": []
       }

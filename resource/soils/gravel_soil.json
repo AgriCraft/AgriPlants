@@ -10,8 +10,8 @@
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:gravel",
-      "useTag": false,
+      "object": "forge:gravel",
+      "useTag": true,
       "data": "",
       "ignoredData": [
         "*"
