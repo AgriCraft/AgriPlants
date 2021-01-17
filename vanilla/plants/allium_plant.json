@@ -13,8 +13,8 @@
   },
   "seed_items": {
     "substitutes": [],
-    "type": "block",
-    "object": "minecraft:dirt",
+    "type": "item",
+    "object": "agricraft:agri_seed",
     "useTag": false,
     "data": "",
     "ignoredData": []
