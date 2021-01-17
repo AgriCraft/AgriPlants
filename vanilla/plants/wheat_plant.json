@@ -63,14 +63,14 @@
     "render_type": "hash",
     "seed_texture": "minecraft:items/seeds_wheat",
     "plant_textures": [
-      "minecraft:blocks/wheat_stage0",
-      "minecraft:blocks/wheat_stage1",
-      "minecraft:blocks/wheat_stage2",
-      "minecraft:blocks/wheat_stage3",
-      "minecraft:blocks/wheat_stage4",
-      "minecraft:blocks/wheat_stage5",
-      "minecraft:blocks/wheat_stage6",
-      "minecraft:blocks/wheat_stage7"
+      "minecraft:block/wheat_stage0",
+      "minecraft:block/wheat_stage1",
+      "minecraft:block/wheat_stage2",
+      "minecraft:block/wheat_stage3",
+      "minecraft:block/wheat_stage4",
+      "minecraft:block/wheat_stage5",
+      "minecraft:block/wheat_stage6",
+      "minecraft:block/wheat_stage7"
     ]
   }
 }
