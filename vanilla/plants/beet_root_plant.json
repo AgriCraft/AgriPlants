@@ -61,7 +61,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:items/beetroot_seeds",
+    "seed_texture": "minecraft:item/beetroot_seeds",
     "plant_textures": [
       "minecraft:block/beetroots_stage0",
       "minecraft:block/beetroots_stage0",

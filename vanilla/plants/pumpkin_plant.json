@@ -61,7 +61,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:items/seeds_pumpkin",
+    "seed_texture": "minecraft:item/pumpkin_seeds",
     "plant_textures": [
       "agricraft:block/crop_pumpkin1",
       "agricraft:block/crop_pumpkin1",

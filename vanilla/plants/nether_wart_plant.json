@@ -73,14 +73,14 @@
     "render_type": "hash",
     "seed_texture": "agricraft:item/seed_nether_wart",
     "plant_textures": [
-      "minecraft:blocks/nether_wart_stage_0",
-      "minecraft:blocks/nether_wart_stage_0",
-      "minecraft:blocks/nether_wart_stage_0",
-      "minecraft:blocks/nether_wart_stage_1",
-      "minecraft:blocks/nether_wart_stage_1",
-      "minecraft:blocks/nether_wart_stage_1",
-      "minecraft:blocks/nether_wart_stage_1",
-      "minecraft:blocks/nether_wart_stage_2"
+      "minecraft:blocks/nether_wart_stage0",
+      "minecraft:blocks/nether_wart_stage0",
+      "minecraft:blocks/nether_wart_stage0",
+      "minecraft:blocks/nether_wart_stage1",
+      "minecraft:blocks/nether_wart_stage1",
+      "minecraft:blocks/nether_wart_stage1",
+      "minecraft:blocks/nether_wart_stage1",
+      "minecraft:blocks/nether_wart_stage2"
     ]
   }
 }
