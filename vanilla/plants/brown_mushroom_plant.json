@@ -11,26 +11,18 @@
     "default": "Brown Mushroom Spores",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [
-      {
-        "type": "item",
-        "object": "minecraft:brown_mushroom",
-        "useTag": false,
-        "data": "",
-        "ignoredData": [
-          "*"
-        ]
-      }
-    ],
-    "type": "item",
-    "object": "agricraft:agri_seed",
-    "useTag": false,
-    "data": "",
-    "ignoredData": [
-      "*"
-    ]
-  },
+  "seed_items": [
+    {
+      "overridePlanting": false,
+      "type": "item",
+      "object": "minecraft:brown_mushroom",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "description": {
     "default": "A simple decomposer.",
     "translations": {}
@@ -61,6 +53,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 0,
     "max_light": 10,
@@ -71,7 +66,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:item/seed_shroom_brown",
+    "seed_model": "agricraft:item/seed_shroom_brown",
     "plant_textures": [
       "agricraft:block/crop_shroom_brown1",
       "agricraft:block/crop_shroom_brown1",

@@ -11,16 +11,18 @@
     "default": "Beet Seeds",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [],
-    "type": "item",
-    "object": "minecraft:beetroot_seeds",
-    "useTag": false,
-    "data": "",
-    "ignoredData": [
-      "*"
-    ]
-  },
+  "seed_items": [
+    {
+      "overridePlanting": false,
+      "type": "item",
+      "object": "minecraft:beetroot_seeds",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "description": {
     "default": "Beet. It\u0027s what\u0027s for dinner.",
     "translations": {}
@@ -51,6 +53,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
@@ -61,7 +66,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:item/beetroot_seeds",
+    "seed_model": "minecraft:item/beetroot_seeds",
     "plant_textures": [
       "minecraft:block/beetroots_stage0",
       "minecraft:block/beetroots_stage0",

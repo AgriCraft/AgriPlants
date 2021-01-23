@@ -11,16 +11,18 @@
     "default": "Pumpkin Seeds",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [],
-    "type": "item",
-    "object": "minecraft:pumpkin_seeds",
-    "useTag": false,
-    "data": "",
-    "ignoredData": [
-      "*"
-    ]
-  },
+  "seed_items": [
+    {
+      "overridePlanting": false,
+      "type": "item",
+      "object": "minecraft:pumpkin_seeds",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "description": {
     "default": "If I eat enough of these will I turn orange?",
     "translations": {}
@@ -51,6 +53,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
@@ -61,7 +66,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "minecraft:item/pumpkin_seeds",
+    "seed_model": "minecraft:item/pumpkin_seeds",
     "plant_textures": [
       "agricraft:block/crop_pumpkin1",
       "agricraft:block/crop_pumpkin1",

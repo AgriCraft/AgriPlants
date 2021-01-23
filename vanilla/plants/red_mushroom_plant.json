@@ -11,26 +11,18 @@
     "default": "Red Mushroom Spores",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [
-      {
-        "type": "item",
-        "object": "minecraft:red_mushroom",
-        "useTag": false,
-        "data": "",
-        "ignoredData": [
-          "*"
-        ]
-      }
-    ],
-    "type": "item",
-    "object": "agricraft:agri_seed",
-    "useTag": false,
-    "data": "",
-    "ignoredData": [
-      "*"
-    ]
-  },
+  "seed_items": [
+    {
+      "overridePlanting": false,
+      "type": "item",
+      "object": "minecraft:red_mushroom",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "description": {
     "default": "Badger, badger, badger.",
     "translations": {
@@ -63,6 +55,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 0,
     "max_light": 10,
@@ -73,7 +68,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:item/seed_shroom_red",
+    "seed_model": "agricraft:item/seed_shroom_red",
     "plant_textures": [
       "agricraft:block/crop_shroom_red1",
       "agricraft:block/crop_shroom_red1",

@@ -11,14 +11,7 @@
     "default": "Jaslumine Seeds",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [],
-    "type": "item",
-    "object": "agricraft:agri_seed",
-    "useTag": false,
-    "data": "",
-    "ignoredData": []
-  },
+  "seed_items": [],
   "description": {
     "default": "Jaslumine to some, Jaluminium to me. Shines like silver, but not all that valuable of a plant.",
     "translations": {}
@@ -49,6 +42,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
@@ -75,7 +71,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:item/seed_jaslumine",
+    "seed_model": "agricraft:item/seed_jaslumine",
     "plant_textures": [
       "agricraft:block/crop_jaslumine1",
       "agricraft:block/crop_jaslumine1",

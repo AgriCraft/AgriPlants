@@ -11,14 +11,7 @@
     "default": "Allium Seeds",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [],
-    "type": "item",
-    "object": "agricraft:agri_seed",
-    "useTag": false,
-    "data": "",
-    "ignoredData": []
-  },
+  "seed_items": [],
   "description": {
     "default": "From the family of plants including the garlic, onion, and chive this plant produces a beautiful umbel consisting of many small purple blooms.",
     "translations": {}
@@ -49,6 +42,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
@@ -59,7 +55,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:item/seed_allium",
+    "seed_model": "agricraft:item/seed_allium",
     "plant_textures": [
       "agricraft:block/crop_allium1",
       "agricraft:block/crop_allium1",

@@ -11,26 +11,18 @@
     "default": "Carrot Seeds",
     "translations": {}
   },
-  "seed_items": {
-    "substitutes": [
-      {
-        "type": "item",
-        "object": "minecraft:carrot",
-        "useTag": false,
-        "data": "",
-        "ignoredData": [
-          "*"
-        ]
-      }
-    ],
-    "type": "item",
-    "object": "agricraft:agri_seed",
-    "useTag": false,
-    "data": "",
-    "ignoredData": [
-      "*"
-    ]
-  },
+  "seed_items": [
+    {
+      "overridePlanting": false,
+      "type": "item",
+      "object": "minecraft:carrot",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "description": {
     "default": "Rabbit attractant.",
     "translations": {}
@@ -61,6 +53,9 @@
       }
     ]
   },
+  "clip_products": {
+    "products": []
+  },
   "requirement": {
     "min_light": 10,
     "max_light": 16,
@@ -71,7 +66,7 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_texture": "agricraft:item/seed_carrot",
+    "seed_model": "agricraft:item/seed_carrot",
     "plant_textures": [
       "agricraft:block/crop_carrot1",
       "agricraft:block/crop_carrot1",
