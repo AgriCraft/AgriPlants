@@ -13,7 +13,7 @@
   },
   "stages": 8,
   "texture": {
-    "render_type": "hash",
+    "render_type": "rhombus",
     "plant_textures": [
       "agricraft:block/weed_stage_0",
       "agricraft:block/weed_stage_0",
