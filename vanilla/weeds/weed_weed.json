@@ -1,0 +1,28 @@
+{
+  "path": "vanilla/weeds/weed_weed.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "id": "agricraft:weed_weed",
+  "weed_name": {
+    "default": "weeds",
+    "translations": {}
+  },
+  "description": {
+    "default": "A nuisance for sure.",
+    "translations": {}
+  },
+  "stages": 8,
+  "texture": {
+    "render_type": "hash",
+    "plant_textures": [
+      "agricraft:block/weed_stage_0",
+      "agricraft:block/weed_stage_0",
+      "agricraft:block/weed_stage_1",
+      "agricraft:block/weed_stage_1",
+      "agricraft:block/weed_stage_2",
+      "agricraft:block/weed_stage_2",
+      "agricraft:block/weed_stage_2",
+      "agricraft:block/weed_stage_3"
+    ]
+  }
+}
