@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_platiolus",
     "plant_textures": [
       "agricraft:block/crop_platiolus1",
       "agricraft:block/crop_platiolus1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_platiolus3",
       "agricraft:block/crop_platiolus4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_platiolus"
 }

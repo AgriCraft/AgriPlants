@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_diamahlia",
     "plant_textures": [
       "agricraft:block/crop_diamahlia1",
       "agricraft:block/crop_diamahlia1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_diamahlia3",
       "agricraft:block/crop_diamahlia4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_diamahlia"
 }

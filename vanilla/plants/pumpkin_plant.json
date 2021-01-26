@@ -66,7 +66,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "minecraft:pumpkin_seeds#inventory",
     "plant_textures": [
       "agricraft:block/crop_pumpkin1",
       "agricraft:block/crop_pumpkin1",
@@ -77,5 +76,6 @@
       "agricraft:block/crop_pumpkin3",
       "agricraft:block/crop_pumpkin4"
     ]
-  }
+  },
+  "seed_model": "minecraft:pumpkin_seeds#inventory"
 }

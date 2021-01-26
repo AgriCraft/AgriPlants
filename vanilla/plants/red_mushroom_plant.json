@@ -68,7 +68,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_shroom_red",
     "plant_textures": [
       "agricraft:block/crop_shroom_red1",
       "agricraft:block/crop_shroom_red1",
@@ -79,5 +78,6 @@
       "agricraft:block/crop_shroom_red3",
       "agricraft:block/crop_shroom_red4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_shroom_red"
 }

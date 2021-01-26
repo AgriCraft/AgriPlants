@@ -55,7 +55,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_orchid",
     "plant_textures": [
       "agricraft:block/crop_orchid1",
       "agricraft:block/crop_orchid1",
@@ -66,5 +65,6 @@
       "agricraft:block/crop_orchid3",
       "agricraft:block/crop_orchid4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_orchid"
 }

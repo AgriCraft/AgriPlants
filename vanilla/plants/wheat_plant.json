@@ -66,7 +66,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "minecraft:wheat_seeds#inventory",
     "plant_textures": [
       "minecraft:block/wheat_stage0",
       "minecraft:block/wheat_stage1",
@@ -77,5 +76,6 @@
       "minecraft:block/wheat_stage6",
       "minecraft:block/wheat_stage7"
     ]
-  }
+  },
+  "seed_model": "minecraft:wheat_seeds#inventory"
 }

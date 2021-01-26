@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_jaslumine",
     "plant_textures": [
       "agricraft:block/crop_jaslumine1",
       "agricraft:block/crop_jaslumine1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_jaslumine3",
       "agricraft:block/crop_jaslumine4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_jaslumine"
 }

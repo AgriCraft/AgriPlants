@@ -66,7 +66,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_cactus",
     "plant_textures": [
       "agricraft:block/crop_cactus1",
       "agricraft:block/crop_cactus1",
@@ -77,5 +76,6 @@
       "agricraft:block/crop_cactus3",
       "agricraft:block/crop_cactus4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_cactus"
 }

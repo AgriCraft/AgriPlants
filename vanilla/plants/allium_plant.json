@@ -55,7 +55,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_allium",
     "plant_textures": [
       "agricraft:block/crop_allium1",
       "agricraft:block/crop_allium1",
@@ -66,5 +65,6 @@
       "agricraft:block/crop_allium3",
       "agricraft:block/crop_allium4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_allium"
 }

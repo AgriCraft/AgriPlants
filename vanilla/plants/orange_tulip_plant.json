@@ -55,7 +55,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_tulip_orange",
     "plant_textures": [
       "agricraft:block/crop_tulip_orange1",
       "agricraft:block/crop_tulip_orange1",
@@ -66,5 +65,6 @@
       "agricraft:block/crop_tulip_orange3",
       "agricraft:block/crop_tulip_orange4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_tulip_orange"
 }

@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_niccissus",
     "plant_textures": [
       "agricraft:block/crop_niccissus1",
       "agricraft:block/crop_niccissus1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_niccissus3",
       "agricraft:block/crop_niccissus4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_niccissus"
 }

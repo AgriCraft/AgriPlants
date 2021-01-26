@@ -66,7 +66,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "minecraft:melon_seeds#inventory",
     "plant_textures": [
       "agricraft:block/crop_melon1",
       "agricraft:block/crop_melon1",
@@ -77,5 +76,6 @@
       "agricraft:block/crop_melon3",
       "agricraft:block/crop_melon4"
     ]
-  }
+  },
+  "seed_model": "minecraft:melon_seeds#inventory"
 }

@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_quartzanthemum",
     "plant_textures": [
       "agricraft:block/crop_quartzanthemum1",
       "agricraft:block/crop_quartzanthemum1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_quartzanthemum3",
       "agricraft:block/crop_quartzanthemum4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_quartzanthemum"
 }

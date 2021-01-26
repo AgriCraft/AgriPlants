@@ -69,7 +69,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_sugarcane",
     "plant_textures": [
       "agricraft:block/crop_sugarcane1",
       "agricraft:block/crop_sugarcane1",
@@ -80,5 +79,6 @@
       "agricraft:block/crop_sugarcane3",
       "agricraft:block/crop_sugarcane4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_sugarcane"
 }

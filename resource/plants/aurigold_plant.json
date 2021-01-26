@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_aurigold",
     "plant_textures": [
       "agricraft:block/crop_aurigold1",
       "agricraft:block/crop_aurigold1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_aurigold3",
       "agricraft:block/crop_aurigold4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_aurigold"
 }

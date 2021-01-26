@@ -55,7 +55,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_poppy",
     "plant_textures": [
       "agricraft:block/crop_poppy1",
       "agricraft:block/crop_poppy1",
@@ -66,5 +65,6 @@
       "agricraft:block/crop_poppy3",
       "agricraft:block/crop_poppy4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_poppy"
 }

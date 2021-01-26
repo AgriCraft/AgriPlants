@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_plombean",
     "plant_textures": [
       "agricraft:block/crop_plombean1",
       "agricraft:block/crop_plombean1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_plombean3",
       "agricraft:block/crop_plombean4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_plombean"
 }

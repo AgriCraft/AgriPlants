@@ -77,7 +77,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_potato",
     "plant_textures": [
       "agricraft:block/crop_potato1",
       "agricraft:block/crop_potato1",
@@ -88,5 +87,6 @@
       "agricraft:block/crop_potato3",
       "agricraft:block/crop_potato4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_potato"
 }

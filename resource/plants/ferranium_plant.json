@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_ferranium",
     "plant_textures": [
       "agricraft:block/crop_ferranium1",
       "agricraft:block/crop_ferranium1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_ferranium3",
       "agricraft:block/crop_ferranium4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_ferranium"
 }

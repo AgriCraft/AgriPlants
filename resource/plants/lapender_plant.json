@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_lapender",
     "plant_textures": [
       "agricraft:block/crop_lapender1",
       "agricraft:block/crop_lapender1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_lapender3",
       "agricraft:block/crop_lapender4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_lapender"
 }

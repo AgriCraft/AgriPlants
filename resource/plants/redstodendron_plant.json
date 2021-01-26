@@ -71,7 +71,6 @@
   },
   "texture": {
     "render_type": "hash",
-    "seed_model": "agricraft:item/seed_redstodendron",
     "plant_textures": [
       "agricraft:block/crop_redstodendron1",
       "agricraft:block/crop_redstodendron1",
@@ -82,5 +81,6 @@
       "agricraft:block/crop_redstodendron3",
       "agricraft:block/crop_redstodendron4"
     ]
-  }
+  },
+  "seed_model": "agricraft:item/seed_redstodendron"
 }
