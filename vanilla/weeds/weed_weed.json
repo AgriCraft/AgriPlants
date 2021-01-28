@@ -12,6 +12,10 @@
     "translations": {}
   },
   "stages": 8,
+  "spawn_chance": 0.25,
+  "growth_chance": 0.9,
+  "aggressive": true,
+  "lethal": true,
   "texture": {
     "render_type": "rhombus",
     "plant_textures": [
