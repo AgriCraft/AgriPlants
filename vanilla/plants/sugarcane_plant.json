@@ -67,6 +67,7 @@
     ],
     "conditions": []
   },
+  "callbacks": [],
   "texture": {
     "render_type": "hash",
     "plant_textures": [

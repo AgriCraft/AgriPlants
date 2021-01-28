@@ -64,6 +64,9 @@
     ],
     "conditions": []
   },
+  "callbacks": [
+    "agricraft:thorns"
+  ],
   "texture": {
     "render_type": "hash",
     "plant_textures": [

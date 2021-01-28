@@ -69,6 +69,9 @@
       }
     ]
   },
+  "callbacks": [
+	"agricraft:brightness"
+  ],
   "texture": {
     "render_type": "hash",
     "plant_textures": [
