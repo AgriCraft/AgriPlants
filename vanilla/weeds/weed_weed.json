@@ -16,6 +16,9 @@
   "growth_chance": 0.9,
   "aggressive": true,
   "lethal": true,
+  "rake_drops": {
+    "products": []
+  },
   "texture": {
     "render_type": "rhombus",
     "plant_textures": [
