@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:pumpkin_plant",
-  "plant_name": {
-    "default": "Pumpkin",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Pumpkin Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.pumpkin.name",
+  "seed_lang_key": "agricraft.plant.pumpkin.seed",
+  "desc_lang_key": "agricraft.plant.pumpkin.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,10 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "If I eat enough of these will I turn orange?",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

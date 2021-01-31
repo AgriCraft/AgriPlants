@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:niccissus_plant",
-  "plant_name": {
-    "default": "Niccissus",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Niccissus Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.niccissus.name",
+  "seed_lang_key": "agricraft.plant.niccissus.seed",
+  "desc_lang_key": "agricraft.plant.niccissus.desc",
   "seed_items": [],
-  "description": {
-    "default": "While there is much debate over which is the best plant, we can all agree that the Niccissus plant is by far the most self-absorbed.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:potato_plant",
-  "plant_name": {
-    "default": "Potato",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Potato Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.potato.name",
+  "seed_lang_key": "agricraft.plant.potato.seed",
+  "desc_lang_key": "agricraft.plant.potato.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,10 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "Po-ta-toes! Boil them, mash them, stick them in a stew.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

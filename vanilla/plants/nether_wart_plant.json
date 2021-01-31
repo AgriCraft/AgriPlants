@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:nether_wart_plant",
-  "plant_name": {
-    "default": "Nether Wart",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Nether Spores",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.nether_wart.name",
+  "seed_lang_key": "agricraft.plant.nether_wart.seed",
+  "desc_lang_key": "agricraft.plant.nether_wart.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,10 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "An oddity from the nether, said to have somewhat mystical properties. The fungus appears to have a strong aptitude for heat, yet oddly cannot withstand the burning of the sun. Its fruit makes a covetable prize for the aspiring young brewer.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

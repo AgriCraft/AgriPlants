@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:orchid_plant",
-  "plant_name": {
-    "default": "Blue Orchid",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Blue Orchid Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.orchid.name",
+  "seed_lang_key": "agricraft.plant.orchid.seed",
+  "desc_lang_key": "agricraft.plant.orchid.desc",
   "seed_items": [],
-  "description": {
-    "default": "A rarity by any measure.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:cuprosia_plant",
-  "plant_name": {
-    "default": "Cuprosia",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Cuprosia Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.cuprosia.name",
+  "seed_lang_key": "agricraft.plant.cuprosia.seed",
+  "desc_lang_key": "agricraft.plant.cuprosia.desc",
   "seed_items": [],
-  "description": {
-    "default": "Known as the engineer\u0027s delight, this plant produces a substance of incredible utility.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

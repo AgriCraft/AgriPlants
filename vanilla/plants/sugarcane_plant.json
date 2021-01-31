@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:sugarcane_plant",
-  "plant_name": {
-    "default": "Sugarcane",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Sugarcane Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.sugarcane.name",
+  "seed_lang_key": "agricraft.plant.sugarcane.seed",
+  "desc_lang_key": "agricraft.plant.sugarcane.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,13 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "A good source of sugar.",
-    "translations": {
-      "en_us": "High in fructose, a healthy part of your daily breakfast.",
-      "es_es": "Mucho azucar."
-    }
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

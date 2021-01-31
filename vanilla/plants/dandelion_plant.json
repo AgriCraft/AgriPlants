@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:dandelion_plant",
-  "plant_name": {
-    "default": "Dandelion",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Dandelion Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.dandelion.name",
+  "seed_lang_key": "agricraft.plant.dandelion.seed",
+  "desc_lang_key": "agricraft.plant.dandelion.desc",
   "seed_items": [],
-  "description": {
-    "default": "While colloquially considered a weed, this yellow-flowering plant is one of unspoken value. Having a deep-rooting taproot, the plant brings up nutrients from lower levels of soil, making it a good companion plant for shallow rooting plants.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:aurigold_plant",
-  "plant_name": {
-    "default": "Aurigold",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Aurigold Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.aurigold.name",
+  "seed_lang_key": "agricraft.plant.aurigold.seed",
+  "desc_lang_key": "agricraft.plant.aurigold.desc",
   "seed_items": [],
-  "description": {
-    "default": "A golden delight.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.8,

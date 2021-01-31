@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:quartzanthemum_plant",
-  "plant_name": {
-    "default": "Quartzanthemum",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Crystalline Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.quartzanthemum.name",
+  "seed_lang_key": "agricraft.plant.quartzanthemum.seed",
+  "desc_lang_key": "agricraft.plant.quartzanthemum.desc",
   "seed_items": [],
-  "description": {
-    "default": "A suprisingly crystalline plant.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:red_mushroom_plant",
-  "plant_name": {
-    "default": "Red Mushroom",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Red Mushroom Spores",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.red_mushroom.name",
+  "seed_lang_key": "agricraft.plant.red_mushroom.seed",
+  "desc_lang_key": "agricraft.plant.red_mushroom.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,12 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "Badger, badger, badger.",
-    "translations": {
-      "en_US": "Shrooms, ever so trippy."
-    }
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,

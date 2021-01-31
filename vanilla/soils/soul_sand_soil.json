@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "soul_sand_soil",
-  "name": {
-    "default": "Soul Sand",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.soul_sand.name",
   "varients": [
     {
       "type": "block",

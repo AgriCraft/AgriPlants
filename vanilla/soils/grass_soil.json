@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "grass_soil",
-  "name": {
-    "default": "Grass",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.grass.name",
   "varients": [
     {
       "type": "block",
