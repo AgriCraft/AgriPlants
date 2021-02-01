@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "sand_soil",
-  "name": {
-    "default": "Sand",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.sand.name",
   "varients": [
     {
       "type": "block",

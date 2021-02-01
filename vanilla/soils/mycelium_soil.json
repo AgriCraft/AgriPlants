@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "mycelium_soil",
-  "name": {
-    "default": "Mycelium",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.mycelium.name",
   "varients": [
     {
       "type": "block",

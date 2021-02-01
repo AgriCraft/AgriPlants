@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "stone_soil",
-  "name": {
-    "default": "Stone",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.stone.name",
   "varients": [
     {
       "type": "block",

@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:daisy_plant",
-  "plant_name": {
-    "default": "Daisy",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Daisy Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.daisy.name",
+  "seed_lang_key": "agricraft.plant.daisy.seed",
+  "desc_lang_key": "agricraft.plant.daisy.desc",
   "seed_items": [],
-  "description": {
-    "default": "A rarity by any measure.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

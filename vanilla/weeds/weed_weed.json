@@ -3,14 +3,8 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "agricraft:weed_weed",
-  "weed_name": {
-    "default": "weeds",
-    "translations": {}
-  },
-  "description": {
-    "default": "A nuisance for sure.",
-    "translations": {}
-  },
+  "weed_lang_key": "agricraft.weed.weed.name",
+  "desc_lang_key": "agricraft.weed.weed.desc",
   "stages": 8,
   "spawn_chance": 0.25,
   "growth_chance": 0.9,

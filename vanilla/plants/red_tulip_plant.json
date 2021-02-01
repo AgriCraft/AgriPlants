@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:red_tulip_plant",
-  "plant_name": {
-    "default": "Red Tulip",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Red Tulip Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.red_tulip.name",
+  "seed_lang_key": "agricraft.plant.red_tulip.seed",
+  "desc_lang_key": "agricraft.plant.red_tulip.desc",
   "seed_items": [],
-  "description": {
-    "default": "A vibrant red varient of the perrenial tulip plant. The plant is valued mostly for its distinctive blooms.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

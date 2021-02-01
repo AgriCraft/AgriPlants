@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:diamahlia_plant",
-  "plant_name": {
-    "default": "Diamahlia",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Diamahlia Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.diamahlia.name",
+  "seed_lang_key": "agricraft.plant.diamahlia.seed",
+  "desc_lang_key": "agricraft.plant.diamahlia.desc",
   "seed_items": [],
-  "description": {
-    "default": "A rarity by any measure.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.75,

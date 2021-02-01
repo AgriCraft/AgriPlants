@@ -3,14 +3,9 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "vanilla:beet_root_plant",
-  "plant_name": {
-    "default": "Beets",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Beet Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.beet_root.name",
+  "seed_lang_key": "agricraft.plant.beet_root.seed",
+  "desc_lang_key": "agricraft.plant.beet_root.desc",
   "seed_items": [
     {
       "overridePlanting": false,
@@ -23,10 +18,6 @@
       ]
     }
   ],
-  "description": {
-    "default": "Beet. It\u0027s what\u0027s for dinner.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 1.0,

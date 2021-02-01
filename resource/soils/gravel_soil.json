@@ -3,10 +3,7 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "gravel_soil",
-  "name": {
-    "default": "Gravel",
-    "translations": {}
-  },
+  "lang_key": "agricraft.soil.gravel.name",
   "varients": [
     {
       "type": "block",

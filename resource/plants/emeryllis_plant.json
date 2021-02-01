@@ -3,19 +3,10 @@
   "version": "1.16.4",
   "enabled": true,
   "id": "resource:emeryllis_plant",
-  "plant_name": {
-    "default": "Emeryllis",
-    "translations": {}
-  },
-  "seed_name": {
-    "default": "Emeryllis Seeds",
-    "translations": {}
-  },
+  "plant_lang_key": "agricraft.plant.emeryllis.name",
+  "seed_lang_key": "agricraft.plant.emeryllis.seed",
+  "desc_lang_key": "agricraft.plant.emeryllis.desc",
   "seed_items": [],
-  "description": {
-    "default": "A truely green gem.",
-    "translations": {}
-  },
   "stages": 8,
   "harvestStage": 4,
   "growth_chance": 0.9,
