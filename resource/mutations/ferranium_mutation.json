@@ -2,6 +2,10 @@
   "path": "resource/mutations/ferranium_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 0.5,
   "child": "resource:ferranium_plant",
   "parent1": "vanilla:melon_plant",

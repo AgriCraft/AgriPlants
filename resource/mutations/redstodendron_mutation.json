@@ -2,6 +2,10 @@
   "path": "resource/mutations/redstodendron_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 1.0,
   "child": "resource:redstodendron_plant",
   "parent1": "resource:ferranium_plant",

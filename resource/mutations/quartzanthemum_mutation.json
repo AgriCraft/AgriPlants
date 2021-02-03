@@ -2,6 +2,10 @@
   "path": "resource/mutations/quartzanthemum_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 0.5,
   "child": "resource:quartzanthemum_plant",
   "parent1": "resource:redstodendron_plant",

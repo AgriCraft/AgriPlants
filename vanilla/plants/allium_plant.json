@@ -2,6 +2,10 @@
   "path": "vanilla/plants/allium_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "vanilla:allium_plant",
   "plant_lang_key": "agricraft.plant.allium.name",
   "seed_lang_key": "agricraft.plant.allium.seed",
@@ -44,6 +48,12 @@
     ],
     "conditions": []
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

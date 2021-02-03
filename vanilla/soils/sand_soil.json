@@ -2,6 +2,10 @@
   "path": "vanilla/soils/sand_soil.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "sand_soil",
   "lang_key": "agricraft.soil.sand.name",
   "varients": [

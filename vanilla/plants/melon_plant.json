@@ -2,6 +2,10 @@
   "path": "vanilla/plants/melon_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "vanilla:melon_plant",
   "plant_lang_key": "agricraft.plant.melon.name",
   "seed_lang_key": "agricraft.plant.melon.seed",
@@ -55,6 +59,12 @@
     ],
     "conditions": []
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

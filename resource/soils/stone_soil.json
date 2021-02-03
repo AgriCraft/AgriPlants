@@ -2,6 +2,10 @@
   "path": "resource/soils/stone_soil.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "stone_soil",
   "lang_key": "agricraft.soil.stone.name",
   "varients": [

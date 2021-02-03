@@ -2,6 +2,10 @@
   "path": "vanilla/plants/red_mushroom_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "vanilla:red_mushroom_plant",
   "plant_lang_key": "agricraft.plant.red_mushroom.name",
   "seed_lang_key": "agricraft.plant.red_mushroom.seed",
@@ -55,6 +59,12 @@
     ],
     "conditions": []
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

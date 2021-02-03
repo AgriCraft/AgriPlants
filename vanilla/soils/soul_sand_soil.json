@@ -2,6 +2,10 @@
   "path": "vanilla/soils/soul_sand_soil.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "soul_sand_soil",
   "lang_key": "agricraft.soil.soul_sand.name",
   "varients": [

@@ -2,6 +2,10 @@
   "path": "resource/plants/nitorwart_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "resource:nitorwart_plant",
   "plant_lang_key": "agricraft.plant.nitorwart.name",
   "seed_lang_key": "agricraft.plant.nitorwart.seed",
@@ -60,6 +64,12 @@
       }
     ]
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [
     "agricraft:brightness"
   ],

@@ -2,6 +2,10 @@
   "path": "resource/soils/gravel_soil.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "gravel_soil",
   "lang_key": "agricraft.soil.gravel.name",
   "varients": [

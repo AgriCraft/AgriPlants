@@ -2,6 +2,10 @@
   "path": "resource/mutations/emeryllis_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 1.0,
   "child": "resource:emeryllis_plant",
   "parent1": "resource:aurigold_plant",

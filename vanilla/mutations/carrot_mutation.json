@@ -2,6 +2,10 @@
   "path": "vanilla/mutations/carrot_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 0.75,
   "child": "vanilla:carrot_plant",
   "parent1": "vanilla:wheat_plant",

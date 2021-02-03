@@ -2,6 +2,10 @@
   "path": "resource/mutations/plombean_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 0.25,
   "child": "resource:plombean_plant",
   "parent1": "resource:ferranium_plant",

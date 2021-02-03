@@ -2,6 +2,10 @@
   "path": "vanilla/plants/white_tulip_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "vanilla:white_tulip_plant",
   "plant_lang_key": "agricraft.plant.white_tulip.name",
   "seed_lang_key": "agricraft.plant.white_tulip.seed",
@@ -44,6 +48,12 @@
     ],
     "conditions": []
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

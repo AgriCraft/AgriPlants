@@ -2,6 +2,10 @@
   "path": "vanilla/mutations/orange_tulip_mutation.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "chance": 0.75,
   "child": "vanilla:orange_tulip_plant",
   "parent1": "vanilla:daisy_plant",

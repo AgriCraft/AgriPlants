@@ -2,6 +2,10 @@
   "path": "resource/plants/niccissus_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "resource:niccissus_plant",
   "plant_lang_key": "agricraft.plant.niccissus.name",
   "seed_lang_key": "agricraft.plant.niccissus.seed",
@@ -60,6 +64,12 @@
       }
     ]
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

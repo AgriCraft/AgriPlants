@@ -2,6 +2,10 @@
   "path": "resource/plants/emeryllis_plant.json",
   "version": "1.16.4",
   "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
   "id": "resource:emeryllis_plant",
   "plant_lang_key": "agricraft.plant.emeryllis.name",
   "seed_lang_key": "agricraft.plant.emeryllis.seed",
@@ -60,6 +64,12 @@
       }
     ]
   },
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",
