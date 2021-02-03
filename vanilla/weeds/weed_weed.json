@@ -9,7 +9,16 @@
   "id": "agricraft:weed_weed",
   "weed_lang_key": "agricraft.weed.weed.name",
   "desc_lang_key": "agricraft.weed.weed.desc",
-  "stages": 8,
+  "stages": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16
+  ],
   "spawn_chance": 0.25,
   "growth_chance": 0.9,
   "aggressive": true,

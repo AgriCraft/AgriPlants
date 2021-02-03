@@ -11,7 +11,16 @@
   "seed_lang_key": "agricraft.plant.dandelion.seed",
   "desc_lang_key": "agricraft.plant.dandelion.desc",
   "seed_items": [],
-  "stages": 8,
+  "stages": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16
+  ],
   "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
