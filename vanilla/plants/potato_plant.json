@@ -77,14 +77,14 @@
     "soils": [
       "farmland_soil"
     ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
     "conditions": []
   },
-  "seasons": [
-    "spring",
-    "summer",
-    "autumn",
-    "winter"
-  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",

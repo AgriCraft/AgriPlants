@@ -55,6 +55,12 @@
     "soils": [
       "gravel_soil"
     ],
+    "seasons": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
     "conditions": [
       {
         "strength": 11,
@@ -73,12 +79,6 @@
       }
     ]
   },
-  "seasons": [
-    "spring",
-    "summer",
-    "autumn",
-    "winter"
-  ],
   "callbacks": [],
   "texture": {
     "render_type": "hash",
