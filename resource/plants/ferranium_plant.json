@@ -50,11 +50,24 @@
     "products": []
   },
   "requirement": {
+    "soil_humidity": {
+      "condition": "damp",
+      "type": "equal",
+      "tolerance_factor": 0.15
+    },
+    "soil_acidity": {
+      "condition": "neutral",
+      "type": "equal",
+      "tolerance_factor": 0.2
+    },
+    "soil_nutrients": {
+      "condition": "medium",
+      "type": "equal_or_higher",
+      "tolerance_factor": 0.1
+    },
     "min_light": 10,
     "max_light": 16,
-    "soils": [
-      "gravel_soil"
-    ],
+    "light_tolerance_factor": 0.5,
     "seasons": [
       "spring",
       "summer",
@@ -77,7 +90,14 @@
         "data": "",
         "ignoredData": []
       }
-    ]
+    ],
+    "fluid": {
+      "type": "fluid",
+      "object": "minecraft:empty",
+      "useTag": false,
+      "data": "",
+      "ignoredData": []
+    }
   },
   "callbacks": [],
   "texture": {
