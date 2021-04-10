@@ -6,9 +6,9 @@ CurseForge: [CurseForge](http://minecraft.curseforge.com/mc-mods/225635-agricraf
 
 FTB Thread: [FTB Thread](http://forum.feed-the-beast.com/threads/1-7-10-agricraft.50964/)
 
-## Contact
 
-I have a Slack channel where you can contact me for support/suggestions which you don't think fit on this issue tracker. Also if you want to discuss something with me, this is the place to be: [Join my Slack](https://join-infinityraider-slack.herokuapp.com)
+## Contact [![contact]][contact-link]
+I have a Discord channel where you can contact me for support/suggestions which you don't think fit on this issue tracker. Also if you want to discuss something with me, this is the place to be!
 
 
 ## Bug reports
@@ -24,3 +24,8 @@ If you report a bug and I request more feedback, the label 'Awaiting reply' will
 AgriCraft internals (such as MineTweaker3 integration) are documented here in the GitHub Wiki
 ([Link](https://github.com/InfinityRaider/AgriCraft/wiki)). Reason is that
 this kind of information is, most of the time, only needed by pack creators and not the average user.
+
+
+
+[contact-link]:https://agricraft.github.io/contact
+[contact]:https://agricraft.github.io/images/contact.svg "InfinityRaider Contact"
