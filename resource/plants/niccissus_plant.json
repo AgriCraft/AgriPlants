@@ -40,7 +40,7 @@
         "required": true,
         "type": "item",
         "object": "forge:nuggets/nickel",
-        "useTag": false,
+        "useTag": true,
         "data": "",
         "ignoredData": []
       }
