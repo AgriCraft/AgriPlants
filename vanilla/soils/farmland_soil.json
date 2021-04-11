@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "humidity": "dry",
+  "humidity": "damp",
   "acidity": "neutral",
   "nutrients": "medium",
   "growth_modifier": 1.0
