@@ -1,0 +1,13 @@
+{
+  "path": "vanilla/mutations/bamboo_mutation.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "vanilla:bamboo_plant",
+  "parent1": "vanilla:sugarcane_plant",
+  "parent2": "vanilla:cactus_plant"
+}
