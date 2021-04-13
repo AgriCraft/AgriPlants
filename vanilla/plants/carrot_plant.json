@@ -98,15 +98,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_carrot1",
-      "agricraft:block/crop_carrot1",
-      "agricraft:block/crop_carrot1",
-      "agricraft:block/crop_carrot2",
-      "agricraft:block/crop_carrot2",
-      "agricraft:block/crop_carrot3",
-      "agricraft:block/crop_carrot3",
-      "agricraft:block/crop_carrot4"
+      "agricraft:plant/carrot1",
+      "agricraft:plant/carrot1",
+      "agricraft:plant/carrot1",
+      "agricraft:plant/carrot2",
+      "agricraft:plant/carrot2",
+      "agricraft:plant/carrot3",
+      "agricraft:plant/carrot3",
+      "agricraft:plant/carrot4"
     ]
   },
-  "seed_model": "agricraft:item/seed_carrot"
+  "seed_model": "agricraft:seed/carrot"
 }

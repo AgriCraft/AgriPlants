@@ -99,15 +99,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_dandelion1",
-      "agricraft:block/crop_dandelion1",
-      "agricraft:block/crop_dandelion2",
-      "agricraft:block/crop_dandelion2",
-      "agricraft:block/crop_dandelion2",
-      "agricraft:block/crop_dandelion3",
-      "agricraft:block/crop_dandelion3",
-      "agricraft:block/crop_dandelion4"
+      "agricraft:plant/dandelion1",
+      "agricraft:plant/dandelion1",
+      "agricraft:plant/dandelion2",
+      "agricraft:plant/dandelion2",
+      "agricraft:plant/dandelion2",
+      "agricraft:plant/dandelion3",
+      "agricraft:plant/dandelion3",
+      "agricraft:plant/dandelion4"
     ]
   },
-  "seed_model": "agricraft:item/seed_dandelion"
+  "seed_model": "agricraft:seed/dandelion"
 }

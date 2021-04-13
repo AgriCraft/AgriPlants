@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_osmonium1",
-      "agricraft:block/crop_osmonium1",
-      "agricraft:block/crop_osmonium1",
-      "agricraft:block/crop_osmonium2",
-      "agricraft:block/crop_osmonium2",
-      "agricraft:block/crop_osmonium2",
-      "agricraft:block/crop_osmonium3",
-      "agricraft:block/crop_osmonium4"
+      "agricraft:plant/osmonium1",
+      "agricraft:plant/osmonium1",
+      "agricraft:plant/osmonium1",
+      "agricraft:plant/osmonium2",
+      "agricraft:plant/osmonium2",
+      "agricraft:plant/osmonium2",
+      "agricraft:plant/osmonium3",
+      "agricraft:plant/osmonium4"
     ]
   },
-  "seed_model": "agricraft:item/seed_osmonium"
+  "seed_model": "agricraft:seed/osmonium"
 }

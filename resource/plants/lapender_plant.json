@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_lapender1",
-      "agricraft:block/crop_lapender1",
-      "agricraft:block/crop_lapender1",
-      "agricraft:block/crop_lapender2",
-      "agricraft:block/crop_lapender2",
-      "agricraft:block/crop_lapender3",
-      "agricraft:block/crop_lapender3",
-      "agricraft:block/crop_lapender4"
+      "agricraft:plant/lapender1",
+      "agricraft:plant/lapender1",
+      "agricraft:plant/lapender1",
+      "agricraft:plant/lapender2",
+      "agricraft:plant/lapender2",
+      "agricraft:plant/lapender3",
+      "agricraft:plant/lapender3",
+      "agricraft:plant/lapender4"
     ]
   },
-  "seed_model": "agricraft:item/seed_lapender"
+  "seed_model": "agricraft:seed/lapender"
 }

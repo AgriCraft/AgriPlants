@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_niccissus1",
-      "agricraft:block/crop_niccissus1",
-      "agricraft:block/crop_niccissus1",
-      "agricraft:block/crop_niccissus2",
-      "agricraft:block/crop_niccissus2",
-      "agricraft:block/crop_niccissus2",
-      "agricraft:block/crop_niccissus3",
-      "agricraft:block/crop_niccissus4"
+      "agricraft:plant/niccissus1",
+      "agricraft:plant/niccissus1",
+      "agricraft:plant/niccissus1",
+      "agricraft:plant/niccissus2",
+      "agricraft:plant/niccissus2",
+      "agricraft:plant/niccissus2",
+      "agricraft:plant/niccissus3",
+      "agricraft:plant/niccissus4"
     ]
   },
-  "seed_model": "agricraft:item/seed_niccissus"
+  "seed_model": "agricraft:seed/niccissus"
 }

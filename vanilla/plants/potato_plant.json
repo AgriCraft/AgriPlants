@@ -109,15 +109,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_potato1",
-      "agricraft:block/crop_potato1",
-      "agricraft:block/crop_potato1",
-      "agricraft:block/crop_potato2",
-      "agricraft:block/crop_potato2",
-      "agricraft:block/crop_potato3",
-      "agricraft:block/crop_potato3",
-      "agricraft:block/crop_potato4"
+      "agricraft:plant/potato1",
+      "agricraft:plant/potato1",
+      "agricraft:plant/potato1",
+      "agricraft:plant/potato2",
+      "agricraft:plant/potato2",
+      "agricraft:plant/potato3",
+      "agricraft:plant/potato3",
+      "agricraft:plant/potato4"
     ]
   },
-  "seed_model": "agricraft:item/seed_potato"
+  "seed_model": "agricraft:seed/potato"
 }

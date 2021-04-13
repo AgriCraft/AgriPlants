@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_diamahlia1",
-      "agricraft:block/crop_diamahlia1",
-      "agricraft:block/crop_diamahlia1",
-      "agricraft:block/crop_diamahlia2",
-      "agricraft:block/crop_diamahlia2",
-      "agricraft:block/crop_diamahlia3",
-      "agricraft:block/crop_diamahlia3",
-      "agricraft:block/crop_diamahlia4"
+      "agricraft:plant/diamahlia1",
+      "agricraft:plant/diamahlia1",
+      "agricraft:plant/diamahlia1",
+      "agricraft:plant/diamahlia2",
+      "agricraft:plant/diamahlia2",
+      "agricraft:plant/diamahlia3",
+      "agricraft:plant/diamahlia3",
+      "agricraft:plant/diamahlia4"
     ]
   },
-  "seed_model": "agricraft:item/seed_diamahlia"
+  "seed_model": "agricraft:seed/diamahlia"
 }

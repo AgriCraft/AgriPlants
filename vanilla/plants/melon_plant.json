@@ -98,14 +98,14 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_melon1",
-      "agricraft:block/crop_melon1",
-      "agricraft:block/crop_melon1",
-      "agricraft:block/crop_melon2",
-      "agricraft:block/crop_melon2",
-      "agricraft:block/crop_melon3",
-      "agricraft:block/crop_melon3",
-      "agricraft:block/crop_melon4"
+      "agricraft:plant/melon1",
+      "agricraft:plant/melon1",
+      "agricraft:plant/melon1",
+      "agricraft:plant/melon2",
+      "agricraft:plant/melon2",
+      "agricraft:plant/melon3",
+      "agricraft:plant/melon3",
+      "agricraft:plant/melon4"
     ]
   },
   "seed_model": "minecraft:melon_seeds#inventory"

@@ -99,15 +99,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_tulip_red1",
-      "agricraft:block/crop_tulip_red1",
-      "agricraft:block/crop_tulip_red2",
-      "agricraft:block/crop_tulip_red2",
-      "agricraft:block/crop_tulip_red2",
-      "agricraft:block/crop_tulip_red3",
-      "agricraft:block/crop_tulip_red3",
-      "agricraft:block/crop_tulip_red4"
+      "agricraft:plant/tulip_red1",
+      "agricraft:plant/tulip_red1",
+      "agricraft:plant/tulip_red2",
+      "agricraft:plant/tulip_red2",
+      "agricraft:plant/tulip_red2",
+      "agricraft:plant/tulip_red3",
+      "agricraft:plant/tulip_red3",
+      "agricraft:plant/tulip_red4"
     ]
   },
-  "seed_model": "agricraft:item/seed_tulip_red"
+  "seed_model": "agricraft:seed/tulip_red"
 }

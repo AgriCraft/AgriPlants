@@ -98,14 +98,14 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_pumpkin1",
-      "agricraft:block/crop_pumpkin1",
-      "agricraft:block/crop_pumpkin1",
-      "agricraft:block/crop_pumpkin2",
-      "agricraft:block/crop_pumpkin2",
-      "agricraft:block/crop_pumpkin3",
-      "agricraft:block/crop_pumpkin3",
-      "agricraft:block/crop_pumpkin4"
+      "agricraft:plant/pumpkin1",
+      "agricraft:plant/pumpkin1",
+      "agricraft:plant/pumpkin1",
+      "agricraft:plant/pumpkin2",
+      "agricraft:plant/pumpkin2",
+      "agricraft:plant/pumpkin3",
+      "agricraft:plant/pumpkin3",
+      "agricraft:plant/pumpkin4"
     ]
   },
   "seed_model": "minecraft:pumpkin_seeds#inventory"

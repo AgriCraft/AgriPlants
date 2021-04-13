@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_platiolus1",
-      "agricraft:block/crop_platiolus1",
-      "agricraft:block/crop_platiolus1",
-      "agricraft:block/crop_platiolus2",
-      "agricraft:block/crop_platiolus2",
-      "agricraft:block/crop_platiolus2",
-      "agricraft:block/crop_platiolus3",
-      "agricraft:block/crop_platiolus4"
+      "agricraft:plant/platiolus1",
+      "agricraft:plant/platiolus1",
+      "agricraft:plant/platiolus1",
+      "agricraft:plant/platiolus2",
+      "agricraft:plant/platiolus2",
+      "agricraft:plant/platiolus2",
+      "agricraft:plant/platiolus3",
+      "agricraft:plant/platiolus4"
     ]
   },
-  "seed_model": "agricraft:item/seed_platiolus"
+  "seed_model": "agricraft:seed/platiolus"
 }

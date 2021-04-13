@@ -108,5 +108,5 @@
       "minecraft:block/nether_wart_stage2"
     ]
   },
-  "seed_model": "agricraft:item/seed_nether_wart"
+  "seed_model": "agricraft:seed/nether_wart"
 }

@@ -99,15 +99,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_poppy1",
-      "agricraft:block/crop_poppy1",
-      "agricraft:block/crop_poppy2",
-      "agricraft:block/crop_poppy2",
-      "agricraft:block/crop_poppy2",
-      "agricraft:block/crop_poppy3",
-      "agricraft:block/crop_poppy3",
-      "agricraft:block/crop_poppy4"
+      "agricraft:plant/poppy1",
+      "agricraft:plant/poppy1",
+      "agricraft:plant/poppy2",
+      "agricraft:plant/poppy2",
+      "agricraft:plant/poppy2",
+      "agricraft:plant/poppy3",
+      "agricraft:plant/poppy3",
+      "agricraft:plant/poppy4"
     ]
   },
-  "seed_model": "agricraft:item/seed_poppy"
+  "seed_model": "agricraft:seed/poppy"
 }

@@ -98,15 +98,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_sugarcane1",
-      "agricraft:block/crop_sugarcane1",
-      "agricraft:block/crop_sugarcane1",
-      "agricraft:block/crop_sugarcane2",
-      "agricraft:block/crop_sugarcane2",
-      "agricraft:block/crop_sugarcane3",
-      "agricraft:block/crop_sugarcane3",
-      "agricraft:block/crop_sugarcane4"
+      "agricraft:plant/sugarcane1",
+      "agricraft:plant/sugarcane1",
+      "agricraft:plant/sugarcane1",
+      "agricraft:plant/sugarcane2",
+      "agricraft:plant/sugarcane2",
+      "agricraft:plant/sugarcane3",
+      "agricraft:plant/sugarcane3",
+      "agricraft:plant/sugarcane4"
     ]
   },
-  "seed_model": "agricraft:item/seed_sugarcane"
+  "seed_model": "agricraft:seed/sugarcane"
 }

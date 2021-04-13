@@ -103,15 +103,15 @@
   "texture": {
     "render_type": "hash",
     "plant_textures": [
-      "agricraft:block/crop_plombean1",
-      "agricraft:block/crop_plombean1",
-      "agricraft:block/crop_plombean1",
-      "agricraft:block/crop_plombean2",
-      "agricraft:block/crop_plombean2",
-      "agricraft:block/crop_plombean2",
-      "agricraft:block/crop_plombean3",
-      "agricraft:block/crop_plombean4"
+      "agricraft:plant/plombean1",
+      "agricraft:plant/plombean1",
+      "agricraft:plant/plombean1",
+      "agricraft:plant/plombean2",
+      "agricraft:plant/plombean2",
+      "agricraft:plant/plombean2",
+      "agricraft:plant/plombean3",
+      "agricraft:plant/plombean4"
     ]
   },
-  "seed_model": "agricraft:item/seed_plombean"
+  "seed_model": "agricraft:seed/plombean"
 }
