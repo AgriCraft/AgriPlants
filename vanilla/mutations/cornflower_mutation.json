@@ -1,0 +1,13 @@
+{
+  "path": "vanilla/mutations/orchid_mutation.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "vanilla:cornflower_plant",
+  "parent1": "vanilla:orchid_plant",
+  "parent2": "vanilla:lily_plant"
+}

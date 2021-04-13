@@ -1,0 +1,13 @@
+{
+  "path": "vanilla/mutations/wither_rose_mutation.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "vanilla:wither_rose_plant",
+  "parent1": "vanilla:cornflower_plant",
+  "parent2": "vanilla:poppy_plant"
+}

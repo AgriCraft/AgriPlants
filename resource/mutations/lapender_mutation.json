@@ -9,5 +9,5 @@
   "chance": 0.25,
   "child": "resource:lapender_plant",
   "parent1": "resource:ferranium_plant",
-  "parent2": "vanilla:potato_plant"
+  "parent2": "vanilla:cornflower_plant"
 }
