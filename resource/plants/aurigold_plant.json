@@ -22,10 +22,10 @@
     16
   ],
   "harvestStage": 4,
-  "growth_chance": 0.8,
+  "growth_chance": 0.5,
   "growth_bonus": 0.025,
   "bonemeal": false,
-  "tier": 1,
+  "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
   "grass_drop_chance": 0.0,

@@ -33,7 +33,7 @@
     16
   ],
   "harvestStage": 4,
-  "growth_chance": 0.9,
+  "growth_chance": 0.75,
   "growth_bonus": 0.025,
   "bonemeal": true,
   "tier": 1,
