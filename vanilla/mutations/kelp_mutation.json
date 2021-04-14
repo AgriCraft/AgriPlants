@@ -1,0 +1,13 @@
+{
+  "path": "vanilla/mutations/kelp_mutation.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "vanilla:kelp_plant",
+  "parent1": "vanilla:sea_grass_plant",
+  "parent2": "vanilla:bamboo_plant"
+}
