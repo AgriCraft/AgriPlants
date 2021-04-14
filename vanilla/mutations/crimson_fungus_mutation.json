@@ -1,0 +1,13 @@
+{
+  "path": "vanilla/mutations/crimson_fungus_mutation.json",
+  "version": "1.16.4",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "vanilla:crimson_fungus_plant",
+  "parent1": "vanilla:nether_wart_plant",
+  "parent2": "vanilla:poppy_plant"
+}
