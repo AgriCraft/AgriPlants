@@ -51,7 +51,7 @@
   },
   "requirement": {
     "soil_humidity": {
-      "condition": "damp",
+      "condition": "arid",
       "type": "equal",
       "tolerance_factor": 0.15
     },
@@ -61,7 +61,7 @@
       "tolerance_factor": 0.2
     },
     "soil_nutrients": {
-      "condition": "medium",
+      "condition": "high",
       "type": "equal_or_higher",
       "tolerance_factor": 0.1
     },

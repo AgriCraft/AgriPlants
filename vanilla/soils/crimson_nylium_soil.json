@@ -1,17 +1,17 @@
 {
-  "path": "vanilla/soils/mycelium_soil.json",
+  "path": "vanilla/soils/crimson_nylium_soil.json",
   "version": "1.16.4",
   "enabled": true,
   "mods": [
     "agricraft",
     "minecraft"
   ],
-  "id": "mycelium_soil",
-  "lang_key": "agricraft.soil.mycelium.name",
+  "id": "crimson_nylium_soil",
+  "lang_key": "agricraft.soil.crimson_nylium.name",
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:mycelium",
+      "object": "minecraft:crimson_nylium",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -19,8 +19,8 @@
       ]
     }
   ],
-  "humidity": "damp",
-  "acidity": "neutral",
+  "humidity": "arid",
+  "acidity": "highly_acidic",
   "nutrients": "low",
-  "growth_modifier": 0.8
+  "growth_modifier": 0.75
 }

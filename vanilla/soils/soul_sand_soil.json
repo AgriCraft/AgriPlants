@@ -19,8 +19,8 @@
       ]
     }
   ],
-  "humidity": "dry",
+  "humidity": "arid",
   "acidity": "neutral",
-  "nutrients": "medium",
-  "growth_modifier": 1.0
+  "nutrients": "high",
+  "growth_modifier": 0.8
 }

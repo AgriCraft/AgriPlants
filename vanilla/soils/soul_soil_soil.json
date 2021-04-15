@@ -1,17 +1,17 @@
 {
-  "path": "vanilla/soils/farmland_soil.json",
+  "path": "vanilla/soils/soul_soil_soil.json",
   "version": "1.16.4",
   "enabled": true,
   "mods": [
     "agricraft",
     "minecraft"
   ],
-  "id": "farmland_soil",
-  "lang_key": "agricraft.soil.farmland.name",
+  "id": "soul_soil_soil",
+  "lang_key": "agricraft.soil.soul_soil.name",
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:farmland",
+      "object": "minecraft:soul_soil",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -19,8 +19,8 @@
       ]
     }
   ],
-  "humidity": "wet",
-  "acidity": "slightly_acidic",
-  "nutrients": "high",
+  "humidity": "arid",
+  "acidity": "neutral",
+  "nutrients": "very_high",
   "growth_modifier": 1.0
 }

@@ -1,18 +1,18 @@
 {
-  "path": "vanilla/soils/sand_soil.json",
+  "path": "vanilla/soils/warped_nylium_soil.json",
   "version": "1.16.4",
   "enabled": true,
   "mods": [
     "agricraft",
     "minecraft"
   ],
-  "id": "sand_soil",
-  "lang_key": "agricraft.soil.sand.name",
+  "id": "warped_nylium_soil",
+  "lang_key": "agricraft.soil.warped_nylium.name",
   "varients": [
     {
       "type": "block",
-      "object": "forge:sand",
-      "useTag": true,
+      "object": "minecraft:warped_nylium",
+      "useTag": false,
       "data": "",
       "ignoredData": [
         "*"
@@ -20,7 +20,7 @@
     }
   ],
   "humidity": "arid",
-  "acidity": "neutral",
+  "acidity": "highly_alkaline",
   "nutrients": "low",
-  "growth_modifier": 0.8
+  "growth_modifier": 0.75
 }

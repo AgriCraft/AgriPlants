@@ -51,19 +51,19 @@
   },
   "requirement": {
     "soil_humidity": {
-      "condition": "damp",
+      "condition": "dry",
       "type": "equal",
-      "tolerance_factor": 0.15
+      "tolerance_factor": 0.2
     },
     "soil_acidity": {
-      "condition": "neutral",
+      "condition": "slightly_alkaline",
       "type": "equal",
       "tolerance_factor": 0.2
     },
     "soil_nutrients": {
-      "condition": "medium",
-      "type": "equal_or_higher",
-      "tolerance_factor": 0.1
+      "condition": "low",
+      "type": "equal",
+      "tolerance_factor": 0.2
     },
     "min_light": 10,
     "max_light": 16,

@@ -64,17 +64,17 @@
     "soil_humidity": {
       "condition": "damp",
       "type": "equal",
-      "tolerance_factor": 0.15
+      "tolerance_factor": 0.4
     },
     "soil_acidity": {
       "condition": "neutral",
       "type": "equal",
-      "tolerance_factor": 0.2
+      "tolerance_factor": 0.4
     },
     "soil_nutrients": {
       "condition": "medium",
       "type": "equal_or_higher",
-      "tolerance_factor": 0.1
+      "tolerance_factor": 0.4
     },
     "min_light": 10,
     "max_light": 16,

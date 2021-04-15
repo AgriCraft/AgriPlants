@@ -1,17 +1,17 @@
 {
-  "path": "vanilla/soils/farmland_soil.json",
+  "path": "vanilla/soils/podzol_soil.json",
   "version": "1.16.4",
   "enabled": true,
   "mods": [
     "agricraft",
     "minecraft"
   ],
-  "id": "farmland_soil",
-  "lang_key": "agricraft.soil.farmland.name",
+  "id": "podzol_soil",
+  "lang_key": "agricraft.soil.podzol.name",
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:farmland",
+      "object": "minecraft:podzol",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -19,8 +19,8 @@
       ]
     }
   ],
-  "humidity": "wet",
+  "humidity": "damp",
   "acidity": "slightly_acidic",
-  "nutrients": "high",
-  "growth_modifier": 1.0
+  "nutrients": "very_high",
+  "growth_modifier": 1.1
 }

@@ -1,17 +1,17 @@
 {
-  "path": "vanilla/soils/farmland_soil.json",
+  "path": "vanilla/soils/clay_soil.json",
   "version": "1.16.4",
   "enabled": true,
   "mods": [
     "agricraft",
     "minecraft"
   ],
-  "id": "farmland_soil",
-  "lang_key": "agricraft.soil.farmland.name",
+  "id": "clay_soil",
+  "lang_key": "agricraft.soil.clay.name",
   "varients": [
     {
       "type": "block",
-      "object": "minecraft:farmland",
+      "object": "minecraft:clay",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -19,8 +19,8 @@
       ]
     }
   ],
-  "humidity": "wet",
+  "humidity": "flooded",
   "acidity": "slightly_acidic",
-  "nutrients": "high",
+  "nutrients": "medium",
   "growth_modifier": 1.0
 }

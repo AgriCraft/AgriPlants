@@ -20,7 +20,7 @@
     }
   ],
   "humidity": "dry",
-  "acidity": "neutral",
-  "nutrients": "medium",
-  "growth_modifier": 1.0
+  "acidity": "slightly_alkaline",
+  "nutrients": "low",
+  "growth_modifier": 0.5
 }
