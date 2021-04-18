@@ -1,6 +1,7 @@
 {
   "path": "resource/plants/carbonation_plant.json",
   "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
     "agricraft",
