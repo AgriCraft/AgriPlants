@@ -74,7 +74,7 @@
     "soil_nutrients": {
       "condition": "medium",
       "type": "equal_or_lower",
-      "tolerance_factor": 0.1
+      "tolerance_factor": 0.2
     },
     "min_light": 0,
     "max_light": 10,

@@ -65,7 +65,7 @@
     "soil_humidity": {
       "condition": "damp",
       "type": "equal",
-      "tolerance_factor": 0.15
+      "tolerance_factor": 0.2
     },
     "soil_acidity": {
       "condition": "slightly_acidic",
@@ -75,7 +75,7 @@
     "soil_nutrients": {
       "condition": "very_high",
       "type": "equal_or_higher",
-      "tolerance_factor": 0.1
+      "tolerance_factor": 0.2
     },
     "min_light": 10,
     "max_light": 16,

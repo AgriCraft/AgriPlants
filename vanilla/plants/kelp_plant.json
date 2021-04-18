@@ -52,12 +52,12 @@
   "requirement": {
     "soil_humidity": {
       "condition": "watery",
-      "type": "equal",
+      "type": "equal_or_higher",
       "tolerance_factor": 0.4
     },
     "soil_acidity": {
       "condition": "slightly_acidic",
-      "type": "equal_or_higher",
+      "type": "equal",
       "tolerance_factor": 0.2
     },
     "soil_nutrients": {

@@ -67,7 +67,7 @@
       "tolerance_factor": 0.4
     },
     "soil_acidity": {
-      "condition": "neutral",
+      "condition": "slightly_acidic",
       "type": "equal",
       "tolerance_factor": 0.4
     },
