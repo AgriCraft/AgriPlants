@@ -128,5 +128,6 @@
       ]
     ]
   },
+  "seed_texture": "agricraft:seed/wither_rose",
   "seed_model": "agricraft:seed/wither_rose"
 }

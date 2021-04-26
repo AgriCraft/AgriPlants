@@ -125,5 +125,6 @@
       ]
     ]
   },
+  "seed_texture": "minecraft:item/pumpkin_seeds",
   "seed_model": "minecraft:pumpkin_seeds#inventory"
 }

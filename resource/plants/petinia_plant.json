@@ -130,5 +130,6 @@
       ]
     ]
   },
+  "seed_texture": "agricraft:seed/petinia",
   "seed_model": "agricraft:seed/petinia"
 }

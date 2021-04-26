@@ -130,5 +130,6 @@
       ]
     ]
   },
+  "seed_texture": "agricraft:seed/plombean",
   "seed_model": "agricraft:seed/plombean"
 }

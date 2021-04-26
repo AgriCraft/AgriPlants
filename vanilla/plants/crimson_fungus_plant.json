@@ -125,5 +125,6 @@
       ]
     ]
   },
+  "seed_texture": "agricraft:seed/crimson_fungus",
   "seed_model": "agricraft:seed/crimson_fungus"
 }
