@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:coffeebean_plant",
-  "plant_lang_key": "Coffeebean",
-  "seed_lang_key": "Coffeebean Seeds",
-  "desc_lang_key": "Coffeebean Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcoffeebeancrop",
+  "seed_lang_key": "item.pamhc2crops.coffeebeanseeditem",
+  "desc_lang_key": "item.pamhc2crops.coffeebeanitem",
   "seed_items": [
     {
       "overridePlanting": false,

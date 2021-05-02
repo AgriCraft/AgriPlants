@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cactusfruit_plant",
-  "plant_lang_key": "Cactus Fruit",
-  "seed_lang_key": "Cactus Fruit Seeds",
-  "desc_lang_key": "Cactus Fruit Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcactusfruitcrop",
+  "seed_lang_key": "item.pamhc2crops.cactusfruitseeditem",
+  "desc_lang_key": "item.pamhc2crops.cactusfruititem",
   "seed_items": [
     {
       "overridePlanting": false,

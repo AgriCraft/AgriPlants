@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:candleberry_plant",
-  "plant_lang_key": "Candleberry",
-  "seed_lang_key": "Candleberry Seeds",
-  "desc_lang_key": "Candleberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcandleberrycrop",
+  "seed_lang_key": "item.pamhc2crops.candleberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.candleberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:onion_plant",
-  "plant_lang_key": "Onion",
-  "seed_lang_key": "Onion Seeds",
-  "desc_lang_key": "Onion Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamonioncrop",
+  "seed_lang_key": "item.pamhc2crops.onionseeditem",
+  "desc_lang_key": "item.pamhc2crops.onionitem",
   "seed_items": [
     {
       "overridePlanting": false,

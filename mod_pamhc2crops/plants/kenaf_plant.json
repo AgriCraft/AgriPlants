@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:kenaf_plant",
-  "plant_lang_key": "Kenaf",
-  "seed_lang_key": "Kenaf Seeds",
-  "desc_lang_key": "Kenaf Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamkenafcrop",
+  "seed_lang_key": "item.pamhc2crops.kenafseeditem",
+  "desc_lang_key": "item.pamhc2crops.kenafitem",
   "seed_items": [
     {
       "overridePlanting": false,

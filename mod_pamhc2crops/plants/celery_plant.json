@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:celery_plant",
-  "plant_lang_key": "Celery",
-  "seed_lang_key": "Celery Seeds",
-  "desc_lang_key": "Celery Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcelerycrop",
+  "seed_lang_key": "item.pamhc2crops.celeryseeditem",
+  "desc_lang_key": "item.pamhc2crops.celeryitem",
   "seed_items": [
     {
       "overridePlanting": false,

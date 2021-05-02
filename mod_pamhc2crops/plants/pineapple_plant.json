@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:pineapple_plant",
-  "plant_lang_key": "Pineapple",
-  "seed_lang_key": "Pineapple Seeds",
-  "desc_lang_key": "Pineapple Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pampineapplecrop",
+  "seed_lang_key": "item.pamhc2crops.pineappleseeditem",
+  "desc_lang_key": "item.pamhc2crops.pineappleitem",
   "seed_items": [
     {
       "overridePlanting": false,

@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cotton_plant",
-  "plant_lang_key": "Cotton",
-  "seed_lang_key": "Cotton Seeds",
-  "desc_lang_key": "Cotton Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcottoncrop",
+  "seed_lang_key": "item.pamhc2crops.cottonseeditem",
+  "desc_lang_key": "item.pamhc2crops.cottonitem",
   "seed_items": [
     {
       "overridePlanting": false,

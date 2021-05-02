@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:juniperberry_plant",
-  "plant_lang_key": "Juniper Berry",
-  "seed_lang_key": "Juniper Berry Seeds",
-  "desc_lang_key": "Juniper Berry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamjuniperberrycrop",
+  "seed_lang_key": "item.pamhc2crops.juniperberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.juniperberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

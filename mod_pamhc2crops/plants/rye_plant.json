@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:rye_plant",
-  "plant_lang_key": "Rye",
-  "seed_lang_key": "Rye Seeds",
-  "desc_lang_key": "Rye Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamryecrop",
+  "seed_lang_key": "item.pamhc2crops.ryeseeditem",
+  "desc_lang_key": "item.pamhc2crops.ryeitem",
   "seed_items": [
     {
       "overridePlanting": false,

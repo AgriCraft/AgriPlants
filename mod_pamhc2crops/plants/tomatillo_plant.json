@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:tomatillo_plant",
-  "plant_lang_key": "Tomatillo",
-  "seed_lang_key": "Tomatillo Seeds",
-  "desc_lang_key": "Tomatillo Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamtomatillocrop",
+  "seed_lang_key": "item.pamhc2crops.tomatilloseeditem",
+  "desc_lang_key": "item.pamhc2crops.tomatilloitem",
   "seed_items": [
     {
       "overridePlanting": false,

@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:quinoa_plant",
-  "plant_lang_key": "Quinoa",
-  "seed_lang_key": "Quinoa Seeds",
-  "desc_lang_key": "Quinoa Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamquinoacrop",
+  "seed_lang_key": "item.pamhc2crops.quinoaseeditem",
+  "desc_lang_key": "item.pamhc2crops.quinoaitem",
   "seed_items": [
     {
       "overridePlanting": false,

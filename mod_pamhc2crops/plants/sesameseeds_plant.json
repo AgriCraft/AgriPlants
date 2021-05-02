@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:sesameseeds_plant",
-  "plant_lang_key": "Sesame Seeds",
-  "seed_lang_key": "Sesame Seeds Seeds",
-  "desc_lang_key": "Sesame Seeds Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamsesameseedscrop",
+  "seed_lang_key": "item.pamhc2crops.sesameseedsseeditem",
+  "desc_lang_key": "item.pamhc2crops.sesameseedsitem",
   "seed_items": [
     {
       "overridePlanting": false,

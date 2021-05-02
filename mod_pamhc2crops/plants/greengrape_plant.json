@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:greengrape_plant",
-  "plant_lang_key": "Greengrape",
-  "seed_lang_key": "Greengrape Seeds",
-  "desc_lang_key": "Greengrape Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamgreengrapecrop",
+  "seed_lang_key": "item.pamhc2crops.greengrapeseeditem",
+  "desc_lang_key": "item.pamhc2crops.greengrapeitem",
   "seed_items": [
     {
       "overridePlanting": false,

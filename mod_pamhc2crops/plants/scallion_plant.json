@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:scallion_plant",
-  "plant_lang_key": "Scallion",
-  "seed_lang_key": "Scallion Seeds",
-  "desc_lang_key": "Scallion Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamscallioncrop",
+  "seed_lang_key": "item.pamhc2crops.scallionseeditem",
+  "desc_lang_key": "item.pamhc2crops.scallionitem",
   "seed_items": [
     {
       "overridePlanting": false,

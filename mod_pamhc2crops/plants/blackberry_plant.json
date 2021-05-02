@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:blackberry_plant",
-  "plant_lang_key": "Blackberry",
-  "seed_lang_key": "Blackberry Seeds",
-  "desc_lang_key": "Blackberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamblackberrycrop",
+  "seed_lang_key": "item.pamhc2crops.blackberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.blackberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

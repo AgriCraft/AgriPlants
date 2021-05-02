@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:wintersquash_plant",
-  "plant_lang_key": "Winter Squash",
-  "seed_lang_key": "Winter Squash Seeds",
-  "desc_lang_key": "Winter Squash Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamwintersquashcrop",
+  "seed_lang_key": "item.pamhc2crops.wintersquashseeditem",
+  "desc_lang_key": "item.pamhc2crops.wintersquashitem",
   "seed_items": [
     {
       "overridePlanting": false,

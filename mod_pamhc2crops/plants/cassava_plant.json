@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cassava_plant",
-  "plant_lang_key": "Cassava",
-  "seed_lang_key": "Cassava Seeds",
-  "desc_lang_key": "Cassava Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcassavacrop",
+  "seed_lang_key": "item.pamhc2crops.cassavaseeditem",
+  "desc_lang_key": "item.pamhc2crops.cassavaitem",
   "seed_items": [
     {
       "overridePlanting": false,

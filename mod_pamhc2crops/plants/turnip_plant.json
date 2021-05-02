@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:turnip_plant",
-  "plant_lang_key": "Turnip",
-  "seed_lang_key": "Turnip Seeds",
-  "desc_lang_key": "Turnip Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamturnipcrop",
+  "seed_lang_key": "item.pamhc2crops.turnipseeditem",
+  "desc_lang_key": "item.pamhc2crops.turnipitem",
   "seed_items": [
     {
       "overridePlanting": false,

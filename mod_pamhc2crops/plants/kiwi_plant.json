@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:kiwi_plant",
-  "plant_lang_key": "Kiwi",
-  "seed_lang_key": "Kiwi Seeds",
-  "desc_lang_key": "Kiwi Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamkiwicrop",
+  "seed_lang_key": "item.pamhc2crops.kiwiseeditem",
+  "desc_lang_key": "item.pamhc2crops.kiwiitem",
   "seed_items": [
     {
       "overridePlanting": false,

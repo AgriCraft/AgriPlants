@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:spinach_plant",
-  "plant_lang_key": "Spinach",
-  "seed_lang_key": "Spinach Seeds",
-  "desc_lang_key": "Spinach Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamspinachcrop",
+  "seed_lang_key": "item.pamhc2crops.spinachseeditem",
+  "desc_lang_key": "item.pamhc2crops.spinachitem",
   "seed_items": [
     {
       "overridePlanting": false,

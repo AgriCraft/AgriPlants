@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:corn_plant",
-  "plant_lang_key": "Corn",
-  "seed_lang_key": "Corn Seeds",
-  "desc_lang_key": "Corn Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcorncrop",
+  "seed_lang_key": "item.pamhc2crops.cornseeditem",
+  "desc_lang_key": "item.pamhc2crops.cornitem",
   "seed_items": [
     {
       "overridePlanting": false,

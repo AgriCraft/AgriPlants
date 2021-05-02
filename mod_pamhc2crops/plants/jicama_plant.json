@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:jicama_plant",
-  "plant_lang_key": "Jicama",
-  "seed_lang_key": "Jicama Seeds",
-  "desc_lang_key": "Jicama Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamjicamacrop",
+  "seed_lang_key": "item.pamhc2crops.jicamaseeditem",
+  "desc_lang_key": "item.pamhc2crops.jicamaitem",
   "seed_items": [
     {
       "overridePlanting": false,

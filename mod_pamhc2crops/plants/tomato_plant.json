@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:tomato_plant",
-  "plant_lang_key": "Tomato",
-  "seed_lang_key": "Tomato Seeds",
-  "desc_lang_key": "Tomato Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamtomatocrop",
+  "seed_lang_key": "item.pamhc2crops.tomatoseeditem",
+  "desc_lang_key": "item.pamhc2crops.tomatoitem",
   "seed_items": [
     {
       "overridePlanting": false,

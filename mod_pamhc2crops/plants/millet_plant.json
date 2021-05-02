@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:millet_plant",
-  "plant_lang_key": "Millet",
-  "seed_lang_key": "Millet Seeds",
-  "desc_lang_key": "Millet Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pammilletcrop",
+  "seed_lang_key": "item.pamhc2crops.milletseeditem",
+  "desc_lang_key": "item.pamhc2crops.milletitem",
   "seed_items": [
     {
       "overridePlanting": false,

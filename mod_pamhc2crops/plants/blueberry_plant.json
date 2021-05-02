@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:blueberry_plant",
-  "plant_lang_key": "Blueberry",
-  "seed_lang_key": "Blueberry Seeds",
-  "desc_lang_key": "Blueberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamblueberrycrop",
+  "seed_lang_key": "item.pamhc2crops.blueberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.blueberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

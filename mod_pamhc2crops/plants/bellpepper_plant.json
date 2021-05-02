@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:bellpepper_plant",
-  "plant_lang_key": "Bellpepper",
-  "seed_lang_key": "Bellpepper Seeds",
-  "desc_lang_key": "Bellpepper Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pambellpeppercrop",
+  "seed_lang_key": "item.pamhc2crops.bellpepperseeditem",
+  "desc_lang_key": "item.pamhc2crops.bellpepperitem",
   "seed_items": [
     {
       "overridePlanting": false,

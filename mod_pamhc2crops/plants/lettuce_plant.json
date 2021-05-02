@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:lettuce_plant",
-  "plant_lang_key": "Lettuce",
-  "seed_lang_key": "Lettuce Seeds",
-  "desc_lang_key": "Lettuce Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamlettucecrop",
+  "seed_lang_key": "item.pamhc2crops.lettuceseeditem",
+  "desc_lang_key": "item.pamhc2crops.lettuceitem",
   "seed_items": [
     {
       "overridePlanting": false,

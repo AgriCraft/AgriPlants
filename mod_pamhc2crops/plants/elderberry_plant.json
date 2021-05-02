@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:elderberry_plant",
-  "plant_lang_key": "Elderberry",
-  "seed_lang_key": "Elderberry Seeds",
-  "desc_lang_key": "Elderberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamelderberrycrop",
+  "seed_lang_key": "item.pamhc2crops.elderberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.elderberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

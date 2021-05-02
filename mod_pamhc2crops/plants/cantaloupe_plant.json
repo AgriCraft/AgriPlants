@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cantaloupe_plant",
-  "plant_lang_key": "Cantaloupe",
-  "seed_lang_key": "Cantaloupe Seeds",
-  "desc_lang_key": "Cantaloupe Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcantaloupecrop",
+  "seed_lang_key": "item.pamhc2crops.cantaloupeseeditem",
+  "desc_lang_key": "item.pamhc2crops.cantaloupeitem",
   "seed_items": [
     {
       "overridePlanting": false,

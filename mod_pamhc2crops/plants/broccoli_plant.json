@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:broccoli_plant",
-  "plant_lang_key": "Broccoli",
-  "seed_lang_key": "Broccoli Seeds",
-  "desc_lang_key": "Broccoli Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pambroccolicrop",
+  "seed_lang_key": "item.pamhc2crops.broccoliseeditem",
+  "desc_lang_key": "item.pamhc2crops.broccoliitem",
   "seed_items": [
     {
       "overridePlanting": false,

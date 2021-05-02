@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:barley_plant",
-  "plant_lang_key": "Barley",
-  "seed_lang_key": "Barley Seeds",
-  "desc_lang_key": "Barley Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pambarleycrop",
+  "seed_lang_key": "item.pamhc2crops.barleyseeditem",
+  "desc_lang_key": "item.pamhc2crops.barleyitem",
   "seed_items": [
     {
       "overridePlanting": false,

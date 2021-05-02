@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:radish_plant",
-  "plant_lang_key": "Radish",
-  "seed_lang_key": "Radish Seeds",
-  "desc_lang_key": "Radish Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamradishcrop",
+  "seed_lang_key": "item.pamhc2crops.radishseeditem",
+  "desc_lang_key": "item.pamhc2crops.radishitem",
   "seed_items": [
     {
       "overridePlanting": false,

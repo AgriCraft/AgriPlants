@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:eggplant_plant",
-  "plant_lang_key": "Eggplant",
-  "seed_lang_key": "Eggplant Seeds",
-  "desc_lang_key": "Eggplant Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pameggplantcrop",
+  "seed_lang_key": "item.pamhc2crops.eggplantseeditem",
+  "desc_lang_key": "item.pamhc2crops.eggplantitem",
   "seed_items": [
     {
       "overridePlanting": false,

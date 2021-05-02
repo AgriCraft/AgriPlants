@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:whitemushroom_plant",
-  "plant_lang_key": "White Mushroom",
-  "seed_lang_key": "White Mushroom Seeds",
-  "desc_lang_key": "White Mushroom Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamwhitemushroomcrop",
+  "seed_lang_key": "item.pamhc2crops.whitemushroomseeditem",
+  "desc_lang_key": "item.pamhc2crops.whitemushroomitem",
   "seed_items": [
     {
       "overridePlanting": false,

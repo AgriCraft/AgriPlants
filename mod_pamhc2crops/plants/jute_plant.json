@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:jute_plant",
-  "plant_lang_key": "Jute",
-  "seed_lang_key": "Jute Seeds",
-  "desc_lang_key": "Jute Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamjutecrop",
+  "seed_lang_key": "item.pamhc2crops.juteseeditem",
+  "desc_lang_key": "item.pamhc2crops.juteitem",
   "seed_items": [
     {
       "overridePlanting": false,

@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:brusselsprout_plant",
-  "plant_lang_key": "Brussel Sprout",
-  "seed_lang_key": "Brussel Sprout Seeds",
-  "desc_lang_key": "Brussel Sprout Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pambrusselsproutcrop",
+  "seed_lang_key": "item.pamhc2crops.brusselsproutseeditem",
+  "desc_lang_key": "item.pamhc2crops.brusselsproutitem",
   "seed_items": [
     {
       "overridePlanting": false,

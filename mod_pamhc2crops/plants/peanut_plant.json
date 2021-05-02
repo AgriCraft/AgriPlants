@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:peanut_plant",
-  "plant_lang_key": "Peanut",
-  "seed_lang_key": "Peanut Seeds",
-  "desc_lang_key": "Peanut Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pampeanutcrop",
+  "seed_lang_key": "item.pamhc2crops.peanutseeditem",
+  "desc_lang_key": "item.pamhc2crops.peanutitem",
   "seed_items": [
     {
       "overridePlanting": false,

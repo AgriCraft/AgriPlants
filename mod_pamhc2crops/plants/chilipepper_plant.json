@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:chilipepper_plant",
-  "plant_lang_key": "Chili Pepper",
-  "seed_lang_key": "Chili Pepper Seeds",
-  "desc_lang_key": "Chili Pepper Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamchilipeppercrop",
+  "seed_lang_key": "item.pamhc2crops.chilipepperseeditem",
+  "desc_lang_key": "item.pamhc2crops.chilipepperitem",
   "seed_items": [
     {
       "overridePlanting": false,

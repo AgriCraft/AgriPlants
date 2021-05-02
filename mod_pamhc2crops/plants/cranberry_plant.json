@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cranberry_plant",
-  "plant_lang_key": "Cranberry",
-  "seed_lang_key": "Cranberry Seeds",
-  "desc_lang_key": "Cranberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcranberrycrop",
+  "seed_lang_key": "item.pamhc2crops.cranberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.cranberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

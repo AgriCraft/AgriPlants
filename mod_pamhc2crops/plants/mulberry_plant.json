@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:mulberry_plant",
-  "plant_lang_key": "Mulberry",
-  "seed_lang_key": "Mulberry Seeds",
-  "desc_lang_key": "Mulberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pammulberrycrop",
+  "seed_lang_key": "item.pamhc2crops.mulberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.mulberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

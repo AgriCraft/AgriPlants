@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:raspberry_plant",
-  "plant_lang_key": "Raspberry",
-  "seed_lang_key": "Raspberry Seeds",
-  "desc_lang_key": "Raspberry Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamraspberrycrop",
+  "seed_lang_key": "item.pamhc2crops.raspberryseeditem",
+  "desc_lang_key": "item.pamhc2crops.raspberryitem",
   "seed_items": [
     {
       "overridePlanting": false,

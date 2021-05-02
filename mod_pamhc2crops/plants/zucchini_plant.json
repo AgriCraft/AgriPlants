@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:zucchini_plant",
-  "plant_lang_key": "Zucchini",
-  "seed_lang_key": "Zucchini Seeds",
-  "desc_lang_key": "Zucchini Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamzucchinicrop",
+  "seed_lang_key": "item.pamhc2crops.zucchiniseeditem",
+  "desc_lang_key": "item.pamhc2crops.zucchiniitem",
   "seed_items": [
     {
       "overridePlanting": false,

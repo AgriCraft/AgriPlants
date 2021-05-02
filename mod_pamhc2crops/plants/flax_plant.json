@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:flax_plant",
-  "plant_lang_key": "Flax",
-  "seed_lang_key": "Flax Seeds",
-  "desc_lang_key": "Flax Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamflaxcrop",
+  "seed_lang_key": "item.pamhc2crops.flaxseeditem",
+  "desc_lang_key": "item.pamhc2crops.flaxitem",
   "seed_items": [
     {
       "overridePlanting": false,

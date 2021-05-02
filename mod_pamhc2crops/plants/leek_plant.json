@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:leek_plant",
-  "plant_lang_key": "Leek",
-  "seed_lang_key": "Leek Seeds",
-  "desc_lang_key": "Leek Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamleekcrop",
+  "seed_lang_key": "item.pamhc2crops.leekseeditem",
+  "desc_lang_key": "item.pamhc2crops.leekitem",
   "seed_items": [
     {
       "overridePlanting": false,

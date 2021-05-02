@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:cucumber_plant",
-  "plant_lang_key": "Cucumber",
-  "seed_lang_key": "Cucumber Seeds",
-  "desc_lang_key": "Cucumber Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamcucumbercrop",
+  "seed_lang_key": "item.pamhc2crops.cucumberseeditem",
+  "desc_lang_key": "item.pamhc2crops.cucumberitem",
   "seed_items": [
     {
       "overridePlanting": false,

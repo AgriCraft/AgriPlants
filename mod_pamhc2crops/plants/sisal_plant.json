@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:sisal_plant",
-  "plant_lang_key": "Sisal",
-  "seed_lang_key": "Sisal Seeds",
-  "desc_lang_key": "Sisal Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamsisalcrop",
+  "seed_lang_key": "item.pamhc2crops.sisalseeditem",
+  "desc_lang_key": "item.pamhc2crops.sisalitem",
   "seed_items": [
     {
       "overridePlanting": false,

@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:garlic_plant",
-  "plant_lang_key": "Garlic",
-  "seed_lang_key": "Garlic Seeds",
-  "desc_lang_key": "Garlic Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamgarliccrop",
+  "seed_lang_key": "item.pamhc2crops.garlicseeditem",
+  "desc_lang_key": "item.pamhc2crops.garlicitem",
   "seed_items": [
     {
       "overridePlanting": false,

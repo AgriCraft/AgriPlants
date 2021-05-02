@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:spiceleaf_plant",
-  "plant_lang_key": "Spiceleaf",
-  "seed_lang_key": "Spiceleaf Seeds",
-  "desc_lang_key": "Spiceleaf Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamspiceleafcrop",
+  "seed_lang_key": "item.pamhc2crops.spiceleafseeditem",
+  "desc_lang_key": "item.pamhc2crops.spiceleafitem",
   "seed_items": [
     {
       "overridePlanting": false,

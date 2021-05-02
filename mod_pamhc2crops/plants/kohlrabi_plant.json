@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:kohlrabi_plant",
-  "plant_lang_key": "Kohlrabi",
-  "seed_lang_key": "Kohlrabi Seeds",
-  "desc_lang_key": "Kohlrabi Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamkohlrabicrop",
+  "seed_lang_key": "item.pamhc2crops.kohlrabiseeditem",
+  "desc_lang_key": "item.pamhc2crops.kohlrabiitem",
   "seed_items": [
     {
       "overridePlanting": false,

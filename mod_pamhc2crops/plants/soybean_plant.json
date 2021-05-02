@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "pamhc2crops:soybean_plant",
-  "plant_lang_key": "Soybean",
-  "seed_lang_key": "Soybean Seeds",
-  "desc_lang_key": "Soybean Seeds.",
+  "plant_lang_key": "block.pamhc2crops.pamsoybeancrop",
+  "seed_lang_key": "item.pamhc2crops.soybeanseeditem",
+  "desc_lang_key": "item.pamhc2crops.soybeanitem",
   "seed_items": [
     {
       "overridePlanting": false,
