@@ -25,14 +25,14 @@
     }
   ],
   "stages": [
-    2,
-    4,
     6,
-    8,
+    10,
     10,
     12,
-    14,
-    16
+    12,
+    16,
+    16,
+    32
   ],
   "harvestStage": 4,
   "growth_chance": 0.75,
@@ -133,8 +133,8 @@
         "immersiveengineering:block/hemp/bottom3"
       ],
       [
-        "immersiveengineering:block/hemp/bottom4",
-        "immersiveengineering:block/hemp/top0"
+        "immersiveengineering:block/hemp/top0",
+        "immersiveengineering:block/hemp/bottom4"
       ]
     ]
   },
