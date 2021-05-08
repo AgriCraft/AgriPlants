@@ -100,6 +100,7 @@
   ],
   "texture": {
     "render_type": "hash",
+    "models": false,
     "plant_textures": [
       [
         "agricraft:plant/cactus1"
