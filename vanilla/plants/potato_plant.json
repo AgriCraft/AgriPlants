@@ -92,10 +92,7 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring",
-      "summer",
-      "autumn",
-      "winter"
+      "spring"
     ],
     "conditions": [],
     "fluid": {

@@ -72,8 +72,7 @@
     "seasons": [
       "spring",
       "summer",
-      "autumn",
-      "winter"
+      "autumn"
     ],
     "conditions": [],
     "fluid": {
