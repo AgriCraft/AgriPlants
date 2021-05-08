@@ -100,7 +100,9 @@
       "ignoredData": []
     }
   },
-  "callbacks": [],
+  "callbacks": [
+    "agricraft:redstone"
+  ],
   "texture": {
     "render_type": "hash",
     "models": false,
