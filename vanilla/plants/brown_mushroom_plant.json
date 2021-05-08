@@ -98,6 +98,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
+    "models": false,
     "plant_textures": [
       [
         "agricraft:plant/shroom_brown1"

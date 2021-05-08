@@ -68,6 +68,7 @@
   ],
   "texture": {
     "render_type": "rhombus",
+    "models": false,
     "plant_textures": [
       [
         "agricraft:block/weed_stage_0"
