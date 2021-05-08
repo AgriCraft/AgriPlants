@@ -87,7 +87,6 @@
   "callbacks": [],
   "texture": {
     "render_type": "plus",
-    "models": false,
     "plant_textures": [
       [
         "minecraft:block/kelp"
