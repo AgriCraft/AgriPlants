@@ -1,22 +1,22 @@
 {
-  "path": "mod_farmersdelight/plants/tomato_plant.json",
+  "path": "mod_thermal/plants/hops_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "farmersdelight",
+    "thermal",
     "agricraft",
     "minecraft"
   ],
-  "id": "farmersdelight:tomato_plant",
-  "plant_lang_key": "block.farmersdelight.tomatoes",
-  "seed_lang_key": "item.farmersdelight.tomato_seeds",
-  "desc_lang_key": "agricraft.plant.farmersdelight_tomato.desc",
+  "id": "thermal:spinach_plant",
+  "plant_lang_key": "item.thermal.hops",
+  "seed_lang_key": "item.thermal.hops_seeds",
+  "desc_lang_key": "agricraft.plant.thermal_hops.desc",
   "seed_items": [
     {
       "overridePlanting": false,
       "type": "item",
-      "object": "farmersdelight:tomato_seeds",
+      "object": "thermal:hops_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -26,13 +26,13 @@
   ],
   "stages": [
     2,
-    4,
     6,
     8,
-    10,
     12,
-    14,
-    16
+    16,
+    22,
+    28,
+    32
   ],
   "harvestStage": 4,
   "growth_chance": 0.75,
@@ -52,7 +52,7 @@
         "chance": 0.95,
         "required": true,
         "type": "item",
-        "object": "farmersdelight:tomato",
+        "object": "thermal:hops",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -99,31 +99,36 @@
     "render_type": "cross",
     "plant_textures": [
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/hops_1"
       ],
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/hops_2"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/hops_3"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/hops_5_top",
+        "thermal:block/crops/hops_5"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/hops_6_top",
+        "thermal:block/crops/hops_6"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/hops_7_top",
+        "thermal:block/crops/hops_7"
       ],
       [
-        "farmersdelight:block/tomatoes_stage3"
+        "thermal:block/crops/hops_8_top",
+        "thermal:block/crops/hops_8"
       ],
       [
-        "farmersdelight:block/tomatoes_stage4"
+        "thermal:block/crops/hops_9_top",
+        "thermal:block/crops/hops_9"
       ]
     ]
   },
-  "seed_texture": "farmersdelight:item/tomato_seeds",
-  "seed_model": "farmersdelight:item/tomato_seeds"
+  "seed_texture": "thermal:item/hops_seeds",
+  "seed_model": "thermal:item/hops_seeds"
 }

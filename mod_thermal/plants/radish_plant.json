@@ -1,22 +1,22 @@
 {
-  "path": "mod_farmersdelight/plants/tomato_plant.json",
+  "path": "mod_thermal/plants/radish_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "farmersdelight",
+    "thermal",
     "agricraft",
     "minecraft"
   ],
-  "id": "farmersdelight:tomato_plant",
-  "plant_lang_key": "block.farmersdelight.tomatoes",
-  "seed_lang_key": "item.farmersdelight.tomato_seeds",
-  "desc_lang_key": "agricraft.plant.farmersdelight_tomato.desc",
+  "id": "thermal:radish_plant",
+  "plant_lang_key": "item.thermal.radish",
+  "seed_lang_key": "item.thermal.radish_seeds",
+  "desc_lang_key": "agricraft.plant.thermal_radish.desc",
   "seed_items": [
     {
       "overridePlanting": false,
       "type": "item",
-      "object": "farmersdelight:tomato_seeds",
+      "object": "thermal:radish_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.95,
         "required": true,
         "type": "item",
-        "object": "farmersdelight:tomato",
+        "object": "thermal:radish",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -82,7 +82,6 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring",
       "summer"
     ],
     "conditions": [],
@@ -99,31 +98,31 @@
     "render_type": "cross",
     "plant_textures": [
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/radish_0"
       ],
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/radish_1"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/radish_2"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/radish_3"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/radish_4"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/radish_5"
       ],
       [
-        "farmersdelight:block/tomatoes_stage3"
+        "thermal:block/crops/radish_6"
       ],
       [
-        "farmersdelight:block/tomatoes_stage4"
+        "thermal:block/crops/radish_7"
       ]
     ]
   },
-  "seed_texture": "farmersdelight:item/tomato_seeds",
-  "seed_model": "farmersdelight:item/tomato_seeds"
+  "seed_texture": "thermal:item/radish_seeds",
+  "seed_model": "thermal:item/radish_seeds"
 }

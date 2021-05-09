@@ -1,22 +1,22 @@
 {
-  "path": "mod_farmersdelight/plants/tomato_plant.json",
+  "path": "mod_thermal/plants/green_bean_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "farmersdelight",
+    "thermal",
     "agricraft",
     "minecraft"
   ],
-  "id": "farmersdelight:tomato_plant",
-  "plant_lang_key": "block.farmersdelight.tomatoes",
-  "seed_lang_key": "item.farmersdelight.tomato_seeds",
-  "desc_lang_key": "agricraft.plant.farmersdelight_tomato.desc",
+  "id": "thermal:green_bean_plant",
+  "plant_lang_key": "item.thermal.green_bean",
+  "seed_lang_key": "item.thermal.green_bean_seeds",
+  "desc_lang_key": "agricraft.plant.thermal_green_bean.desc",
   "seed_items": [
     {
       "overridePlanting": false,
       "type": "item",
-      "object": "farmersdelight:tomato_seeds",
+      "object": "thermal:green_bean_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.95,
         "required": true,
         "type": "item",
-        "object": "farmersdelight:tomato",
+        "object": "thermal:green_bean",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -99,31 +99,31 @@
     "render_type": "cross",
     "plant_textures": [
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/green_bean_0"
       ],
       [
-        "farmersdelight:block/tomatoes_stage0"
+        "thermal:block/crops/green_bean_1"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/green_bean_2"
       ],
       [
-        "farmersdelight:block/tomatoes_stage1"
+        "thermal:block/crops/green_bean_3"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/green_bean_4"
       ],
       [
-        "farmersdelight:block/tomatoes_stage2"
+        "thermal:block/crops/green_bean_5"
       ],
       [
-        "farmersdelight:block/tomatoes_stage3"
+        "thermal:block/crops/green_bean_6"
       ],
       [
-        "farmersdelight:block/tomatoes_stage4"
+        "thermal:block/crops/green_bean_10"
       ]
     ]
   },
-  "seed_texture": "farmersdelight:item/tomato_seeds",
-  "seed_model": "farmersdelight:item/tomato_seeds"
+  "seed_texture": "thermal:item/green_bean_seeds",
+  "seed_model": "thermal:item/green_bean_seeds"
 }

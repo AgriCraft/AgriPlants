@@ -82,10 +82,8 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring",
       "summer",
-      "autumn",
-      "winter"
+      "autumn"
     ],
     "conditions": [],
     "fluid": {
@@ -98,7 +96,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "cross",
+    "render_type": "hash",
     "plant_textures": [
       [
         "farmersdelight:block/onions_stage0"
