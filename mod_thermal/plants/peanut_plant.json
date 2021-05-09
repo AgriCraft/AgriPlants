@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "s": [
+  "stages": [
     2,
     4,
     6,
@@ -82,10 +82,7 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring",
-      "summer",
-      "autumn",
-      "winter"
+      "summer"
     ],
     "conditions": [],
     "fluid": {

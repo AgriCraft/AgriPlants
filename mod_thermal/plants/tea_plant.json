@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "s": [
+  "stages": [
     2,
     4,
     6,
@@ -84,8 +84,7 @@
     "seasons": [
       "spring",
       "summer",
-      "autumn",
-      "winter"
+      "autumn"
     ],
     "conditions": [],
     "fluid": {

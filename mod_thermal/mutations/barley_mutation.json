@@ -11,5 +11,5 @@
   "chance": 0.5,
   "child": "thermal:barley_plant",
   "parent1": "vanilla:wheat_plant",
-  "parent2": "vanilla:rice_plant"
+  "parent2": "thermal:rice_plant"
 }
