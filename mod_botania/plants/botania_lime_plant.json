@@ -85,6 +85,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "plus",
+    "models": false,
     "plant_textures": [
       [
         "agricraft:plant/botania_lime1"

@@ -97,6 +97,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
+    "models": false,
     "plant_textures": [
       [
         "farmersdelight:block/onions_stage0"

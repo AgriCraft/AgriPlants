@@ -97,6 +97,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "cross",
+    "models": false,
     "plant_textures": [
       [
         "thermal:block/crops/coffee_0"
