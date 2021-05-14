@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_frost_melon.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:frost_melon_seeds",
       "useTag": false,

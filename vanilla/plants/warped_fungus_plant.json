@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.warped_fungus.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:warped_fungus",
       "useTag": false,

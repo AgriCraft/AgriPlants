@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_eggplant.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:eggplant_seeds",
       "useTag": false,

@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_rice.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:rice_seeds",
       "useTag": false,

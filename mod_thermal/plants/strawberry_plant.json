@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_strawberry.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:strawberry_seeds",
       "useTag": false,

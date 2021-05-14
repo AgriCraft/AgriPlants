@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.crimson_fungus.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:crimson_fungus",
       "useTag": false,

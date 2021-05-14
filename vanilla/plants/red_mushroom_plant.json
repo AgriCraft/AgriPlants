@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.red_mushroom.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:red_mushroom",
       "useTag": false,

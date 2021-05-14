@@ -14,7 +14,7 @@
   "desc_lang_key": "item.pamhc2crops.wintersquashitem",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "pamhc2crops:wintersquashseeditem",
       "useTag": false,

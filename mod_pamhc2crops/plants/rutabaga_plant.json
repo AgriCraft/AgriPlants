@@ -14,7 +14,7 @@
   "desc_lang_key": "item.pamhc2crops.rutabagaitem",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "pamhc2crops:rutabagaseeditem",
       "useTag": false,

@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.brown_mushroom.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:brown_mushroom",
       "useTag": false,

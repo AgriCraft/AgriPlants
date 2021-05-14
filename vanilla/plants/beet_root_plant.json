@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.beet_root.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:beetroot_seeds",
       "useTag": false,

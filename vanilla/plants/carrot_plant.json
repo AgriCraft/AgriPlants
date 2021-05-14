@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.carrot.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:carrot",
       "useTag": false,

@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.pumpkin.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:pumpkin_seeds",
       "useTag": false,

@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.immersiveengineering_hemp.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "immersiveengineering:seed",
       "useTag": false,

@@ -13,7 +13,7 @@
   "desc_lang_key": "agricraft.plant.wheat.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "minecraft:wheat_seeds",
       "useTag": false,

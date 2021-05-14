@@ -14,7 +14,7 @@
   "desc_lang_key": "item.pamhc2crops.bellpepperitem",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "pamhc2crops:bellpepperseeditem",
       "useTag": false,

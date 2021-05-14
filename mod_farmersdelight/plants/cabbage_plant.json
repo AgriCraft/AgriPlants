@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.farmersdelight_cabbage.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "farmersdelight:cabbage_seeds",
       "useTag": false,

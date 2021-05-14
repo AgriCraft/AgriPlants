@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_bell_pepper.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:bell_pepper_seeds",
       "useTag": false,

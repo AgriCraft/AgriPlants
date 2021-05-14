@@ -14,7 +14,7 @@
   "desc_lang_key": "item.pamhc2crops.milletitem",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "pamhc2crops:milletseeditem",
       "useTag": false,

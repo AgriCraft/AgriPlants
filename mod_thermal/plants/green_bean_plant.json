@@ -14,7 +14,7 @@
   "desc_lang_key": "agricraft.plant.thermal_green_bean.desc",
   "seed_items": [
     {
-      "overridePlanting": false,
+      "overridePlanting": true,
       "type": "item",
       "object": "thermal:green_bean_seeds",
       "useTag": false,
