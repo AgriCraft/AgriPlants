@@ -99,28 +99,28 @@
     "models": false,
     "plant_textures": [
       [
-        "agricraft:plant_simplefarming/gourd0"
+        "agricraft:plant/simplefarming/gourd0"
       ],
       [
-        "agricraft:plant_simplefarming/gourd0"
+        "agricraft:plant/simplefarming/gourd0"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe1"
+        "agricraft:plant/simplefarming/cantaloupe1"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe1"
+        "agricraft:plant/simplefarming/cantaloupe1"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe2"
+        "agricraft:plant/simplefarming/cantaloupe2"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe2"
+        "agricraft:plant/simplefarming/cantaloupe2"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe2"
+        "agricraft:plant/simplefarming/cantaloupe2"
       ],
       [
-        "agricraft:plant_simplefarming/cantaloupe3"
+        "agricraft:plant/simplefarming/cantaloupe3"
       ]
     ]
   },

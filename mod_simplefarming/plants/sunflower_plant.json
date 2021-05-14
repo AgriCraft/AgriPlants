@@ -128,13 +128,11 @@
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "agricraft:plant_simplefarming/sunflower7",
+        "agricraft:plant/simplefarming/sunflower7",
         "simplefarming:block/sunflower_plant1"
       ]
     ]
   },
   "seed_texture": "simplefarming:item/sunflower_seeds",
-  "seed_model": "simplefarming:item/sunflower_seeds",
-
-  "comment" : "simplefarming:block/sunflower_plant1"
+  "seed_model": "simplefarming:item/sunflower_seeds"
 }

@@ -1,30 +1,19 @@
 {
-  "path": "mod_simplefarming/plants/squash_plant.json",
+  "path": "mod_botania/plants/blue_flower_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "simplefarming",
+    "botania",
     "agricraft",
     "minecraft"
   ],
-  "id": "simplefarming:squash_plant",
-  "plant_lang_key": "block.simplefarming.squash_crop",
-  "seed_lang_key": "item.simplefarming.squash_seeds",
-  "desc_lang_key": "block.simplefarming.squash_block",
-  "seed_items": [
-    {
-      "overridePlanting": true,
-      "type": "item",
-      "object": "simplefarming:squash_seeds",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
-  "crops": [
+  "id": "botania:blue_flower_plant",
+  "plant_lang_key": "agricraft.plant.botania_blue_flower.name",
+  "seed_lang_key": "agricraft.plant.botania_blue_flower.seed",
+  "desc_lang_key": "agricraft.plant.botania_blue_flower.desc",
+  "seed_items": [],
+  "stages": [
     2,
     4,
     6,
@@ -35,10 +24,10 @@
     16
   ],
   "harvestStage": 4,
-  "growth_chance": 0.75,
+  "growth_chance": 0.5,
   "growth_bonus": 0.025,
-  "bonemeal": true,
-  "tier": 1,
+  "bonemeal": false,
+  "tier": 4,
   "cloneable": true,
   "spread_chance": 0.1,
   "grass_drop_chance": 0.0,
@@ -48,11 +37,11 @@
     "products": [
       {
         "min": 1,
-        "max": 3,
-        "chance": 0.95,
+        "max": 4,
+        "chance": 1.0,
         "required": true,
         "type": "item",
-        "object": "simplefarming:squash_block",
+        "object": "botania:blue_petal",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -64,7 +53,7 @@
   },
   "requirement": {
     "soil_humidity": {
-      "condition": "wet",
+      "condition": "damp",
       "type": "equal",
       "tolerance_factor": 0.15
     },
@@ -74,15 +63,15 @@
       "tolerance_factor": 0.2
     },
     "soil_nutrients": {
-      "condition": "high",
-      "type": "equal_or_higher",
-      "tolerance_factor": 0.1
+      "condition": "very_high",
+      "type": "equal",
+      "tolerance_factor": 0.15
     },
-    "min_light": 10,
+    "min_light": 12,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "autumn"
+      "spring"
     ],
     "conditions": [],
     "fluid": {
@@ -95,35 +84,35 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "plus",
     "models": false,
     "plant_textures": [
       [
-        "agricraft:plant/simplefarming/gourd0"
+        "agricraft:plant/botania/blue_flower1"
       ],
       [
-        "agricraft:plant/simplefarming/gourd0"
+        "agricraft:plant/botania/blue_flower1"
       ],
       [
-        "agricraft:plant/simplefarming/squash1"
+        "agricraft:plant/botania/blue_flower1"
       ],
       [
-        "agricraft:plant/simplefarming/squash1"
+        "agricraft:plant/botania/blue_flower2"
       ],
       [
-        "agricraft:plant/simplefarming/squash2"
+        "agricraft:plant/botania/blue_flower2"
       ],
       [
-        "agricraft:plant/simplefarming/squash2"
+        "agricraft:plant/botania/blue_flower3"
       ],
       [
-        "agricraft:plant/simplefarming/squash2"
+        "agricraft:plant/botania/blue_flower3"
       ],
       [
-        "agricraft:plant/simplefarming/squash3"
+        "agricraft:plant/botania/blue_flower4"
       ]
     ]
   },
-  "seed_texture": "simplefarming:item/squash_seeds",
-  "seed_model": "simplefarming:item/squash_seeds"
+  "seed_texture": "agricraft:seed/botania/blue_flower",
+  "seed_model": "agricraft:seed/botania/blue_flower"
 }

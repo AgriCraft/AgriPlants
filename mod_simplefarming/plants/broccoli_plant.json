@@ -99,35 +99,35 @@
     "models": true,
     "plant_textures": [
       [
-        "agricraft:plant_simplefarming/broccoli0",
+        "agricraft:plant/simplefarming/broccoli0",
         "simplefarming:block/gourd_crop0"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli1",
+        "agricraft:plant/simplefarming/broccoli1",
         "simplefarming:block/crop_leaves"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli1",
+        "agricraft:plant/simplefarming/broccoli1",
         "simplefarming:block/crop_leaves"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli1",
+        "agricraft:plant/simplefarming/broccoli1",
         "simplefarming:block/crop_leaves"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli2",
+        "agricraft:plant/simplefarming/broccoli2",
         "simplefarming:block/broccoli_crop2"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli2",
+        "agricraft:plant/simplefarming/broccoli2",
         "simplefarming:block/broccoli_crop2"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli2",
+        "agricraft:plant/simplefarming/broccoli2",
         "simplefarming:block/broccoli_crop2"
       ],
       [
-        "agricraft:plant_simplefarming/broccoli3",
+        "agricraft:plant/simplefarming/broccoli3",
         "simplefarming:block/broccoli_crop3"
       ]
     ]

@@ -100,28 +100,28 @@
     "models": false,
     "plant_textures": [
       [
-        "agricraft:plant_simplefarming/gourd0"
+        "agricraft:plant/simplefarming/gourd0"
       ],
       [
-        "agricraft:plant_simplefarming/gourd0"
+        "agricraft:plant/simplefarming/gourd0"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew1"
+        "agricraft:plant/simplefarming/honeydew1"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew1"
+        "agricraft:plant/simplefarming/honeydew1"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew2"
+        "agricraft:plant/simplefarming/honeydew2"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew2"
+        "agricraft:plant/simplefarming/honeydew2"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew2"
+        "agricraft:plant/simplefarming/honeydew2"
       ],
       [
-        "agricraft:plant_simplefarming/honeydew3"
+        "agricraft:plant/simplefarming/honeydew3"
       ]
     ]
   },
