@@ -1,0 +1,15 @@
+{
+  "path": "mod_xlfoodmod/mutations/tomato_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "xlfoodmod",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "xlfoodmod:tomato_agriplant",
+  "parent1": "vanilla:wheat_plant",
+  "parent2": "vanilla:beet_root_plant"
+}
