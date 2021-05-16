@@ -96,6 +96,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "cross",
+    "models": false,
     "plant_textures": [
       [
         "thermal:block/crops/strawberry_1"

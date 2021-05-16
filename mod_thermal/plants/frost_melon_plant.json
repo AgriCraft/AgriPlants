@@ -96,30 +96,31 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
+    "models": false,
     "plant_textures": [
       [
-        "agricraft:plant_thermal/frost_melon1"
+        "agricraft:plant/thermal/frost_melon1"
       ],
       [
-        "agricraft:plant_thermal/frost_melon1"
+        "agricraft:plant/thermal/frost_melon1"
       ],
       [
-        "agricraft:plant_thermal/frost_melon1"
+        "agricraft:plant/thermal/frost_melon1"
       ],
       [
-        "agricraft:plant_thermal/frost_melon2"
+        "agricraft:plant/thermal/frost_melon2"
       ],
       [
-        "agricraft:plant_thermal/frost_melon2"
+        "agricraft:plant/thermal/frost_melon2"
       ],
       [
-        "agricraft:plant_thermal/frost_melon3"
+        "agricraft:plant/thermal/frost_melon3"
       ],
       [
-        "agricraft:plant_thermal/frost_melon3"
+        "agricraft:plant/thermal/frost_melon3"
       ],
       [
-        "agricraft:plant_thermal/frost_melon4"
+        "agricraft:plant/thermal/frost_melon4"
       ]
     ]
   },

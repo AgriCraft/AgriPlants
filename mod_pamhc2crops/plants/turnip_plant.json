@@ -96,6 +96,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
+    "models": false,
     "plant_textures": [
       [
         "pamhc2crops:block/turnip_stage_0"
