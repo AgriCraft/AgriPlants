@@ -8,7 +8,7 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "xlfoodmod:tomato_agriplant",
+  "id": "xlfoodmod:tomato_plant",
   "plant_lang_key": "block.xlfoodmod.tomato_plant",
   "seed_lang_key": "item.xlfoodmod.tomato_seeds",
   "desc_lang_key": "item.xlfoodmod.tomato",

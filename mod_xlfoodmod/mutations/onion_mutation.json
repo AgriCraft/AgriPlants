@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "chance": 0.5,
-  "child": "xlfoodmod:onion_agriplant",
+  "child": "xlfoodmod:onion_plant",
   "parent1": "vanilla:allium_plant",
   "parent2": "vanilla:potato_plant"
 }

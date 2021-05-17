@@ -8,7 +8,7 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "xlfoodmod:lemon_agriplant",
+  "id": "xlfoodmod:lemon_plant",
   "plant_lang_key": "block.xlfoodmod.lemon_plant",
   "seed_lang_key": "item.xlfoodmod.lemon_seeds",
   "desc_lang_key": "item.xlfoodmod.lemon",

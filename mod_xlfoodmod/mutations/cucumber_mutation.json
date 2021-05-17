@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "chance": 0.5,
-  "child": "xlfoodmod:cucumber_agriplant",
-  "parent1": "xlfoodmod:tomato_agriplant",
-  "parent2": "xlfoodmod:lettuce_agriplant"
+  "child": "xlfoodmod:cucumber_plant",
+  "parent1": "xlfoodmod:tomato_plant",
+  "parent2": "xlfoodmod:lettuce_plant"
 }

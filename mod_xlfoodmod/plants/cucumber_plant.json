@@ -8,7 +8,7 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "xlfoodmod:cucumber_agriplant",
+  "id": "xlfoodmod:cucumber_plant",
   "plant_lang_key": "block.xlfoodmod.cucumber_plant",
   "seed_lang_key": "item.xlfoodmod.cucumber_seeds",
   "desc_lang_key": "item.xlfoodmod.cucumber",

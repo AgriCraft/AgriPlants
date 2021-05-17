@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "chance": 0.5,
-  "child": "xlfoodmod:corn_agriplant",
-  "parent1": "xlfoodmod:rice_agriplant",
+  "child": "xlfoodmod:corn_plant",
+  "parent1": "xlfoodmod:rice_plant",
   "parent2": "vanilla:wheat_plant"
 }
