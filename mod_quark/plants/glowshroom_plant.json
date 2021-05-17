@@ -96,7 +96,9 @@
       "ignoredData": []
     }
   },
-  "callbacks": [],
+  "callbacks": [
+    "agricraft:brightness"
+  ],
   "texture": {
     "render_type": "hash",
     "models": false,

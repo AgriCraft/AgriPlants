@@ -11,5 +11,5 @@
   "chance": 0.5,
   "child": "quark:glowshroom_plant",
   "parent1": "vanilla:brown_mushroom_plant",
-  "parent2": "resource:nitorwart_plant"
+  "parent2": "vanilla:orchid_plant"
 }
