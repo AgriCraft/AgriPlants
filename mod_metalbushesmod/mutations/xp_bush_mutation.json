@@ -1,0 +1,15 @@
+{
+  "path": "mod_metalbushesmod/mutations/xp_bush_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "metalbushesmod",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "metalbushesmod:xp_bush_plant",
+  "parent1": "metalbushesmod:diamond_bush_plant",
+  "parent2": "metalbushesmod:blaze_bush_plant"
+}

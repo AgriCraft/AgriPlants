@@ -1,0 +1,15 @@
+{
+  "path": "mod_metalbushesmod/mutations/diamond_bush_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "metalbushesmod",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "metalbushesmod:diamond_bush_plant",
+  "parent1": "metalbushesmod:gold_bush_plant",
+  "parent2": "metalbushesmod:nether_quartz_plant_plant"
+}
