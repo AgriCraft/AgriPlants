@@ -124,5 +124,6 @@
     ]
   },
   "seed_texture": "minecraft:item/beetroot_seeds",
-  "seed_model": "minecraft:item/beetroot_seeds"
+  "seed_model": "minecraft:item/beetroot_seeds",
+  "particle_effects": []
 }

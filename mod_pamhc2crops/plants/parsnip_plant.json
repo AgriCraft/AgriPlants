@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/parsnipseeditem",
-  "seed_model": "pamhc2crops:item/parsnipseeditem"
+  "seed_model": "pamhc2crops:item/parsnipseeditem",
+  "particle_effects": []
 }

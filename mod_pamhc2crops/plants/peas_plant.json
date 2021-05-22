@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/peasseeditem",
-  "seed_model": "pamhc2crops:item/peasseeditem"
+  "seed_model": "pamhc2crops:item/peasseeditem",
+  "particle_effects": []
 }

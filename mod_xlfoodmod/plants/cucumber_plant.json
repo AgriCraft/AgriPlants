@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/cucumber_seeds",
-  "seed_model": "xlfoodmod:item/cucumber_seeds"
+  "seed_model": "xlfoodmod:item/cucumber_seeds",
+  "particle_effects": []
 }

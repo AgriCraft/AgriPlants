@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/wintersquashseeditem",
-  "seed_model": "pamhc2crops:item/wintersquashseeditem"
+  "seed_model": "pamhc2crops:item/wintersquashseeditem",
+  "particle_effects": []
 }

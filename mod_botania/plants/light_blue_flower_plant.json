@@ -114,5 +114,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/botania/light_blue_flower",
-  "seed_model": "agricraft:seed/botania/light_blue_flower"
+  "seed_model": "agricraft:seed/botania/light_blue_flower",
+  "particle_effects": []
 }

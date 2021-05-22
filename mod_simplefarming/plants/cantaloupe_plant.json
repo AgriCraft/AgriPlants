@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "crops": [
+  "stages": [
     2,
     4,
     6,
@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "simplefarming:item/cantaloupe_seeds",
-  "seed_model": "simplefarming:item/cantaloupe_seeds"
+  "seed_model": "simplefarming:item/cantaloupe_seeds",
+  "particle_effects": []
 }

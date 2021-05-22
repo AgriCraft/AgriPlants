@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/cactusfruitseeditem",
-  "seed_model": "pamhc2crops:item/cactusfruitseeditem"
+  "seed_model": "pamhc2crops:item/cactusfruitseeditem",
+  "particle_effects": []
 }

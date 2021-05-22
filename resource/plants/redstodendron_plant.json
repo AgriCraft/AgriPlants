@@ -131,5 +131,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/redstodendron",
-  "seed_model": "agricraft:seed/redstodendron"
+  "seed_model": "agricraft:seed/redstodendron",
+  "particle_effects": []
 }

@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "thermal:item/bell_pepper_seeds",
-  "seed_model": "thermal:item/bell_pepper_seeds"
+  "seed_model": "thermal:item/bell_pepper_seeds",
+  "particle_effects": []
 }

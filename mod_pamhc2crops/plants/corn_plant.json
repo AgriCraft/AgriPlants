@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/cornseeditem",
-  "seed_model": "pamhc2crops:item/cornseeditem"
+  "seed_model": "pamhc2crops:item/cornseeditem",
+  "particle_effects": []
 }

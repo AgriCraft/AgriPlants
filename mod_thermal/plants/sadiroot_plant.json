@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "thermal:item/sadiroot_seeds",
-  "seed_model": "thermal:item/sadiroot_seeds"
+  "seed_model": "thermal:item/sadiroot_seeds",
+  "particle_effects": []
 }

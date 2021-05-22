@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/dandelion",
-  "seed_model": "agricraft:seed/dandelion"
+  "seed_model": "agricraft:seed/dandelion",
+  "particle_effects": []
 }

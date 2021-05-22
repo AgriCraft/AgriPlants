@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/raspberryseeditem",
-  "seed_model": "pamhc2crops:item/raspberryseeditem"
+  "seed_model": "pamhc2crops:item/raspberryseeditem",
+  "particle_effects": []
 }

@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "thermal:item/tomato_seeds",
-  "seed_model": "thermal:item/tomato_seeds"
+  "seed_model": "thermal:item/tomato_seeds",
+  "particle_effects": []
 }

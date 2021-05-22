@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "thermal:item/corn_seeds",
-  "seed_model": "thermal:item/corn_seeds"
+  "seed_model": "thermal:item/corn_seeds",
+  "particle_effects": []
 }

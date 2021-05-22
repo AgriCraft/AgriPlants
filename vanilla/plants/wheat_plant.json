@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "minecraft:item/wheat_seeds",
-  "seed_model": "minecraft:wheat_seeds#inventory"
+  "seed_model": "minecraft:wheat_seeds#inventory",
+  "particle_effects": []
 }

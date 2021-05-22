@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/strawberryseeditem",
-  "seed_model": "pamhc2crops:item/strawberryseeditem"
+  "seed_model": "pamhc2crops:item/strawberryseeditem",
+  "particle_effects": []
 }

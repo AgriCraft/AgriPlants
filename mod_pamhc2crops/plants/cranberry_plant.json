@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/cranberryseeditem",
-  "seed_model": "pamhc2crops:item/cranberryseeditem"
+  "seed_model": "pamhc2crops:item/cranberryseeditem",
+  "particle_effects": []
 }

@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/turnipseeditem",
-  "seed_model": "pamhc2crops:item/turnipseeditem"
+  "seed_model": "pamhc2crops:item/turnipseeditem",
+  "particle_effects": []
 }

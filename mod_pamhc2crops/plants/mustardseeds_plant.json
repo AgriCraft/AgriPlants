@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/mustardseedsseeditem",
-  "seed_model": "pamhc2crops:item/mustardseedsseeditem"
+  "seed_model": "pamhc2crops:item/mustardseedsseeditem",
+  "particle_effects": []
 }

@@ -118,5 +118,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/sea_pickle",
-  "seed_model": "agricraft:seed/sea_pickle"
+  "seed_model": "agricraft:seed/sea_pickle",
+  "particle_effects": []
 }

@@ -129,5 +129,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/emeryllis",
-  "seed_model": "agricraft:seed/emeryllis"
+  "seed_model": "agricraft:seed/emeryllis",
+  "particle_effects": []
 }

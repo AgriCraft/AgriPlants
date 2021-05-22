@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/amaranthseeditem",
-  "seed_model": "pamhc2crops:item/amaranthseeditem"
+  "seed_model": "pamhc2crops:item/amaranthseeditem",
+  "particle_effects": []
 }

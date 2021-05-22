@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/sweetpotatoseeditem",
-  "seed_model": "pamhc2crops:item/sweetpotatoseeditem"
+  "seed_model": "pamhc2crops:item/sweetpotatoseeditem",
+  "particle_effects": []
 }

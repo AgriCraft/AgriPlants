@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/gingerseeditem",
-  "seed_model": "pamhc2crops:item/gingerseeditem"
+  "seed_model": "pamhc2crops:item/gingerseeditem",
+  "particle_effects": []
 }

@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "thermal:item/spinach_seeds",
-  "seed_model": "thermal:item/spinach_seeds"
+  "seed_model": "thermal:item/spinach_seeds",
+  "particle_effects": []
 }

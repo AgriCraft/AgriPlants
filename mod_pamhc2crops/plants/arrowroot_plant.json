@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/arrowrootseeditem",
-  "seed_model": "pamhc2crops:item/arrowrootseeditem"
+  "seed_model": "pamhc2crops:item/arrowrootseeditem",
+  "particle_effects": []
 }

@@ -129,5 +129,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/cuprosia",
-  "seed_model": "agricraft:seed/cuprosia"
+  "seed_model": "agricraft:seed/cuprosia",
+  "particle_effects": []
 }

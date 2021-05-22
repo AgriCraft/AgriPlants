@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "thermal:item/tea_seeds",
-  "seed_model": "thermal:item/tea_seeds"
+  "seed_model": "thermal:item/tea_seeds",
+  "particle_effects": []
 }

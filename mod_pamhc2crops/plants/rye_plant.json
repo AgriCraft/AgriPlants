@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/ryeseeditem",
-  "seed_model": "pamhc2crops:item/ryeseeditem"
+  "seed_model": "pamhc2crops:item/ryeseeditem",
+  "particle_effects": []
 }

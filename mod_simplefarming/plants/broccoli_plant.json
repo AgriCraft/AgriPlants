@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "crops": [
+  "stages": [
     2,
     4,
     6,
@@ -133,5 +133,6 @@
     ]
   },
   "seed_texture": "simplefarming:item/broccoli_seeds",
-  "seed_model": "simplefarming:item/broccoli_seeds"
+  "seed_model": "simplefarming:item/broccoli_seeds",
+  "particle_effects": []
 }

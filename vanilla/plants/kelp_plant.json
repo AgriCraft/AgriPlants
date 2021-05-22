@@ -119,5 +119,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/kelp",
-  "seed_model": "agricraft:seed/kelp"
+  "seed_model": "agricraft:seed/kelp",
+  "particle_effects": []
 }

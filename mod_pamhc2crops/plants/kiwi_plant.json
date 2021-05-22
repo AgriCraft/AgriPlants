@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/kiwiseeditem",
-  "seed_model": "pamhc2crops:item/kiwiseeditem"
+  "seed_model": "pamhc2crops:item/kiwiseeditem",
+  "particle_effects": []
 }

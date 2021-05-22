@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/cactus",
-  "seed_model": "agricraft:seed/cactus"
+  "seed_model": "agricraft:seed/cactus",
+  "particle_effects": []
 }

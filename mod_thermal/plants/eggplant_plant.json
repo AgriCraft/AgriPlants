@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "thermal:item/eggplant_seeds",
-  "seed_model": "thermal:item/eggplant_seeds"
+  "seed_model": "thermal:item/eggplant_seeds",
+  "particle_effects": []
 }

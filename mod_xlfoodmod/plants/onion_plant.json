@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/onion",
-  "seed_model": "xlfoodmod:item/onion"
+  "seed_model": "xlfoodmod:item/onion",
+  "particle_effects": []
 }

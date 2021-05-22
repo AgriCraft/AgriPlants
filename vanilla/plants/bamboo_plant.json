@@ -129,5 +129,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/bamboo",
-  "seed_model": "agricraft:seed/bamboo"
+  "seed_model": "agricraft:seed/bamboo",
+  "particle_effects": []
 }
