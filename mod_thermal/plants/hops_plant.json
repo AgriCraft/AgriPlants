@@ -131,5 +131,6 @@
     ]
   },
   "seed_texture": "thermal:item/hops_seeds",
-  "seed_model": "thermal:item/hops_seeds"
+  "seed_model": "thermal:item/hops_seeds",
+  "particle_effects": []
 }

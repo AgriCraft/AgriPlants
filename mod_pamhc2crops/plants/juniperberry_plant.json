@@ -121,5 +121,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/juniperberryseeditem",
-  "seed_model": "pamhc2crops:item/juniperberryseeditem"
+  "seed_model": "pamhc2crops:item/juniperberryseeditem",
+  "particle_effects": []
 }

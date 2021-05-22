@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "thermal:item/peanut_seeds",
-  "seed_model": "thermal:item/peanut_seeds"
+  "seed_model": "thermal:item/peanut_seeds",
+  "particle_effects": []
 }

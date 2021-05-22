@@ -135,5 +135,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/potato",
-  "seed_model": "agricraft:seed/potato"
+  "seed_model": "agricraft:seed/potato",
+  "particle_effects": []
 }

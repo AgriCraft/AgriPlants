@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "farmersdelight:item/rice",
-  "seed_model": "farmersdelight:item/rice"
+  "seed_model": "farmersdelight:item/rice",
+  "particle_effects": []
 }

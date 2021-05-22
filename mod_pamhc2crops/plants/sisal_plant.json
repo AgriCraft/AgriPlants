@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/sisalseeditem",
-  "seed_model": "pamhc2crops:item/sisalseeditem"
+  "seed_model": "pamhc2crops:item/sisalseeditem",
+  "particle_effects": []
 }

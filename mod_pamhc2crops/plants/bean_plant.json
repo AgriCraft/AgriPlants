@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/beanseeditem",
-  "seed_model": "pamhc2crops:item/beanseeditem"
+  "seed_model": "pamhc2crops:item/beanseeditem",
+  "particle_effects": []
 }

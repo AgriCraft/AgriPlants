@@ -124,5 +124,6 @@
     ]
   },
   "seed_texture": "minecraft:item/melon_seeds",
-  "seed_model": "minecraft:melon_seeds#inventory"
+  "seed_model": "minecraft:melon_seeds#inventory",
+  "particle_effects": []
 }

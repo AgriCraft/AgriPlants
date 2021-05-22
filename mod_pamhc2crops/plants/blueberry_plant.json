@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/blueberryseeditem",
-  "seed_model": "pamhc2crops:item/blueberryseeditem"
+  "seed_model": "pamhc2crops:item/blueberryseeditem",
+  "particle_effects": []
 }

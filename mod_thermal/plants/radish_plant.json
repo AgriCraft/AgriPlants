@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "thermal:item/radish_seeds",
-  "seed_model": "thermal:item/radish_seeds"
+  "seed_model": "thermal:item/radish_seeds",
+  "particle_effects": []
 }

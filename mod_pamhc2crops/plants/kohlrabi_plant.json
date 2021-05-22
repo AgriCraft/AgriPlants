@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/kohlrabiseeditem",
-  "seed_model": "pamhc2crops:item/kohlrabiseeditem"
+  "seed_model": "pamhc2crops:item/kohlrabiseeditem",
+  "particle_effects": []
 }

@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/onionseeditem",
-  "seed_model": "pamhc2crops:item/onionseeditem"
+  "seed_model": "pamhc2crops:item/onionseeditem",
+  "particle_effects": []
 }

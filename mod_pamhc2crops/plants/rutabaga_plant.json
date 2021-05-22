@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/rutabagaseeditem",
-  "seed_model": "pamhc2crops:item/rutabagaseeditem"
+  "seed_model": "pamhc2crops:item/rutabagaseeditem",
+  "particle_effects": []
 }

@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/daisy",
-  "seed_model": "agricraft:seed/daisy"
+  "seed_model": "agricraft:seed/daisy",
+  "particle_effects": []
 }

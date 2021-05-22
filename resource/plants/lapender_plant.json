@@ -129,5 +129,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/lapender",
-  "seed_model": "agricraft:seed/lapender"
+  "seed_model": "agricraft:seed/lapender",
+  "particle_effects": []
 }

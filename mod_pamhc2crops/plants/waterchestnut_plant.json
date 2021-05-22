@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/waterchestnutseeditem",
-  "seed_model": "pamhc2crops:item/waterchestnutseeditem"
+  "seed_model": "pamhc2crops:item/waterchestnutseeditem",
+  "particle_effects": []
 }

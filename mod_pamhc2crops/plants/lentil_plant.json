@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/lentilseeditem",
-  "seed_model": "pamhc2crops:item/lentilseeditem"
+  "seed_model": "pamhc2crops:item/lentilseeditem",
+  "particle_effects": []
 }

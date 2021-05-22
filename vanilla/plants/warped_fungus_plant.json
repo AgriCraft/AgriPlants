@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/warped_fungus",
-  "seed_model": "agricraft:seed/warped_fungus"
+  "seed_model": "agricraft:seed/warped_fungus",
+  "particle_effects": []
 }

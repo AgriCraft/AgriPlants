@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/rice",
-  "seed_model": "xlfoodmod:item/rice"
+  "seed_model": "xlfoodmod:item/rice",
+  "particle_effects": []
 }

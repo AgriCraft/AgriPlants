@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/orchid",
-  "seed_model": "agricraft:seed/orchid"
+  "seed_model": "agricraft:seed/orchid",
+  "particle_effects": []
 }

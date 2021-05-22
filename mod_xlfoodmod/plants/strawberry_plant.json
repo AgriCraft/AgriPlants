@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/strawberry_seeds",
-  "seed_model": "xlfoodmod:item/strawberry_seeds"
+  "seed_model": "xlfoodmod:item/strawberry_seeds",
+  "particle_effects": []
 }

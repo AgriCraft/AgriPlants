@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "farmersdelight:item/cabbage_seeds",
-  "seed_model": "farmersdelight:item/cabbage_seeds"
+  "seed_model": "farmersdelight:item/cabbage_seeds",
+  "particle_effects": []
 }

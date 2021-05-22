@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/zucchiniseeditem",
-  "seed_model": "pamhc2crops:item/zucchiniseeditem"
+  "seed_model": "pamhc2crops:item/zucchiniseeditem",
+  "particle_effects": []
 }

@@ -134,5 +134,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/nitor_wart",
-  "seed_model": "agricraft:seed/nitor_wart"
+  "seed_model": "agricraft:seed/nitor_wart",
+  "particle_effects": []
 }

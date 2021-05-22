@@ -140,5 +140,6 @@
     ]
   },
   "seed_texture": "immersiveengineering:item/seed_hemp",
-  "seed_model": "immersiveengineering:item/hemp"
+  "seed_model": "immersiveengineering:item/hemp",
+  "particle_effects": []
 }

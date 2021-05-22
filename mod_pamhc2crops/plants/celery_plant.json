@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/celeryseeditem",
-  "seed_model": "pamhc2crops:item/celeryseeditem"
+  "seed_model": "pamhc2crops:item/celeryseeditem",
+  "particle_effects": []
 }

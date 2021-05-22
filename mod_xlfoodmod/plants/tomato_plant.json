@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/tomato_seeds",
-  "seed_model": "xlfoodmod:item/tomato_seeds"
+  "seed_model": "xlfoodmod:item/tomato_seeds",
+  "particle_effects": []
 }

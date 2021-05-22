@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "crops": [
+  "stages": [
     2,
     4,
     6,
@@ -127,5 +127,6 @@
     ]
   },
   "seed_texture": "simplefarming:item/onion_seeds",
-  "seed_model": "simplefarming:item/onion_seeds"
+  "seed_model": "simplefarming:item/onion_seeds",
+  "particle_effects": []
 }

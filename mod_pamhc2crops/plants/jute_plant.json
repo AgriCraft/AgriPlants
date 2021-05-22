@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/juteseeditem",
-  "seed_model": "pamhc2crops:item/juteseeditem"
+  "seed_model": "pamhc2crops:item/juteseeditem",
+  "particle_effects": []
 }

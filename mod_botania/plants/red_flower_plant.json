@@ -114,5 +114,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/botania/red_flower",
-  "seed_model": "agricraft:seed/botania/red_flower"
+  "seed_model": "agricraft:seed/botania/red_flower",
+  "particle_effects": []
 }

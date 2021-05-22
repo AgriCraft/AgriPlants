@@ -24,7 +24,7 @@
       ]
     }
   ],
-  "crops": [
+  "stages": [
     2,
     4,
     6,
@@ -128,5 +128,6 @@
     ]
   },
   "seed_texture": "simplefarming:item/chicory_root",
-  "seed_model": "simplefarming:item/chicory_root"
+  "seed_model": "simplefarming:item/chicory_root",
+  "particle_effects": []
 }

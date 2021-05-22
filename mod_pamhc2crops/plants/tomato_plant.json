@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/tomatoseeditem",
-  "seed_model": "pamhc2crops:item/tomatoseeditem"
+  "seed_model": "pamhc2crops:item/tomatoseeditem",
+  "particle_effects": []
 }

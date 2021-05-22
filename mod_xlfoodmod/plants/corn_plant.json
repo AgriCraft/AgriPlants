@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/corn_seeds",
-  "seed_model": "xlfoodmod:item/corn_seeds"
+  "seed_model": "xlfoodmod:item/corn_seeds",
+  "particle_effects": []
 }

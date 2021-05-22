@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/cottonseeditem",
-  "seed_model": "pamhc2crops:item/cottonseeditem"
+  "seed_model": "pamhc2crops:item/cottonseeditem",
+  "particle_effects": []
 }

@@ -114,5 +114,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/botania/green_flower",
-  "seed_model": "agricraft:seed/botania/green_flower"
+  "seed_model": "agricraft:seed/botania/green_flower",
+  "particle_effects": []
 }

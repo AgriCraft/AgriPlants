@@ -125,5 +125,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/allium",
-  "seed_model": "agricraft:seed/allium"
+  "seed_model": "agricraft:seed/allium",
+  "particle_effects": []
 }

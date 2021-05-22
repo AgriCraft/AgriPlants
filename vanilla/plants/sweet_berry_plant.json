@@ -115,5 +115,6 @@
     ]
   },
   "seed_texture": "agricraft:seed/sweet_berry",
-  "seed_model": "agricraft:seed/sweet_berry"
+  "seed_model": "agricraft:seed/sweet_berry",
+  "particle_effects": []
 }

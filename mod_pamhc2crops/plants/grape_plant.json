@@ -126,5 +126,6 @@
     ]
   },
   "seed_texture": "pamhc2crops:item/grapeseeditem",
-  "seed_model": "pamhc2crops:item/grapeseeditem"
+  "seed_model": "pamhc2crops:item/grapeseeditem",
+  "particle_effects": []
 }

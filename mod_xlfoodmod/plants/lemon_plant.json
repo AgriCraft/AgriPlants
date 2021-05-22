@@ -128,5 +128,6 @@
     ]
   },
   "seed_texture": "xlfoodmod:item/lemon_seeds",
-  "seed_model": "xlfoodmod:item/lemon_seeds"
+  "seed_model": "xlfoodmod:item/lemon_seeds",
+  "particle_effects": []
 }
