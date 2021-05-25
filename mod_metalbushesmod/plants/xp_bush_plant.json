@@ -86,7 +86,7 @@
   },
   "callbacks": [
     "agricraft:thorns",
-	"agricraft:experience"
+    "agricraft:experience"
   ],
   "texture": {
     "render_type": "cross",
