@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/redstone_bush",
-  "seed_model": "metalbushesmod:item/redstone_bush"
+  "seed_model": "metalbushesmod:item/redstone_bush",
+  "particle_effects": []
 }

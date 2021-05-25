@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/nether_quartz_bush",
-  "seed_model": "metalbushesmod:item/nether_quartz_bush"
+  "seed_model": "metalbushesmod:item/nether_quartz_bush",
+  "particle_effects": []
 }

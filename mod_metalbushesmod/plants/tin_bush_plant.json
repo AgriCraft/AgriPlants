@@ -131,5 +131,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/tin_bush",
-  "seed_model": "metalbushesmod:item/tin_bush"
+  "seed_model": "metalbushesmod:item/tin_bush",
+  "particle_effects": []
 }

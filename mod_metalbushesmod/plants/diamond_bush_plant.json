@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/diamond_bush",
-  "seed_model": "metalbushesmod:item/diamond_bush"
+  "seed_model": "metalbushesmod:item/diamond_bush",
+  "particle_effects": []
 }

@@ -45,19 +45,7 @@
   "seed_drop_chance": 1.0,
   "seed_drop_bonus": 0.0,
   "products": {
-    "products": [
-      {
-        "min": 1,
-        "max": 1,
-        "chance": 0.85,
-        "required": true,
-        "type": "item",
-        "object": "minecraft:experience_bottle",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
-      }
-    ]
+    "products": []
   },
   "clip_products": {
     "products": []
@@ -97,7 +85,8 @@
     }
   },
   "callbacks": [
-    "agricraft:thorns"
+    "agricraft:thorns",
+	"agricraft:experience"
   ],
   "texture": {
     "render_type": "cross",
@@ -130,5 +119,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/xp_bush",
-  "seed_model": "metalbushesmod:item/xp_bush"
+  "seed_model": "metalbushesmod:item/xp_bush",
+  "particle_effects": []
 }

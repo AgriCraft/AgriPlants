@@ -130,5 +130,6 @@
     ]
   },
   "seed_texture": "metalbushesmod:item/iron_bush",
-  "seed_model": "metalbushesmod:item/iron_bush"
+  "seed_model": "metalbushesmod:item/iron_bush",
+  "particle_effects": []
 }
