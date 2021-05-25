@@ -94,7 +94,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "gourd",
     "models": false,
     "plant_textures": [
       [
@@ -119,7 +119,8 @@
         "agricraft:plant/pumpkin3"
       ],
       [
-        "agricraft:plant/pumpkin4"
+        "agricraft:plant/pumpkin4",
+        "minecraft:block/pumpkin_side"
       ]
     ]
   },
