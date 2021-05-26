@@ -66,7 +66,7 @@
       "type": "equal_or_higher",
       "tolerance_factor": 0.1
     },
-    "min_light": 10,
+    "min_light": 0,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
@@ -105,7 +105,7 @@
   ],
   "texture": {
     "render_type": "hash",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "agricraft:plant/nitor_wart1"

@@ -96,7 +96,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "plus",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "agricraft:plant/lily1"

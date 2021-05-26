@@ -81,7 +81,10 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "autumn"
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
     ],
     "conditions": [],
     "fluid": {
@@ -95,7 +98,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "gourd",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "agricraft:plant/pumpkin1"
