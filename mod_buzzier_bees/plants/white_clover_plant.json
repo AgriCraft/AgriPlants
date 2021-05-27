@@ -98,7 +98,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "plus",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "agricraft:plant/buzzier_bees/white_clover0"

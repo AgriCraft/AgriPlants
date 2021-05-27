@@ -96,7 +96,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "cross",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "farmersdelight:block/cabbages_stage0"
