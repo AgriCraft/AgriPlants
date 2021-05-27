@@ -110,7 +110,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "immersiveengineering:block/hemp/bottom0"

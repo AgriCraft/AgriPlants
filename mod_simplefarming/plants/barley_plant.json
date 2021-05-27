@@ -97,7 +97,7 @@
   "callbacks": [],
   "texture": {
     "render_type": "hash",
-    "models": true,
+    "plant_models": [],
     "plant_textures": [
       [
         "simplefarming:block/barley_crop0"

@@ -97,39 +97,40 @@
   "callbacks": [],
   "texture": {
     "render_type": "cross",
-    "models": true,
+    "plant_models": [
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant0",
+      "simplefarming:block/sunflower_plant1"
+    ],
     "plant_textures": [
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "simplefarming:block/sunflower_plant0",
         "simplefarming:block/sunflower_plant0"
       ],
       [
-        "agricraft:plant/simplefarming/sunflower7",
-        "simplefarming:block/sunflower_plant1"
+        "agricraft:plant/simplefarming/sunflower7"
       ]
     ]
   },

@@ -96,39 +96,40 @@
   "callbacks": [],
   "texture": {
     "render_type": "cross",
-    "models": true,
+    "plant_models": [
+      "simplefarming:block/gourd_crop0",
+      "simplefarming:block/crop_leaves",
+      "simplefarming:block/crop_leaves",
+      "simplefarming:block/crop_leaves",
+      "simplefarming:block/broccoli_crop2",
+      "simplefarming:block/broccoli_crop2",
+      "simplefarming:block/broccoli_crop2",
+      "simplefarming:block/broccoli_crop3"
+    ],
     "plant_textures": [
       [
-        "agricraft:plant/simplefarming/broccoli0",
-        "simplefarming:block/gourd_crop0"
+        "agricraft:plant/simplefarming/broccoli0"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli1",
-        "simplefarming:block/crop_leaves"
+        "agricraft:plant/simplefarming/broccoli1"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli1",
-        "simplefarming:block/crop_leaves"
+        "agricraft:plant/simplefarming/broccoli1"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli1",
-        "simplefarming:block/crop_leaves"
+        "agricraft:plant/simplefarming/broccoli1"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli2",
-        "simplefarming:block/broccoli_crop2"
+        "agricraft:plant/simplefarming/broccoli2"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli2",
-        "simplefarming:block/broccoli_crop2"
+        "agricraft:plant/simplefarming/broccoli2"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli2",
-        "simplefarming:block/broccoli_crop2"
+        "agricraft:plant/simplefarming/broccoli2"
       ],
       [
-        "agricraft:plant/simplefarming/broccoli3",
-        "simplefarming:block/broccoli_crop3"
+        "agricraft:plant/simplefarming/broccoli3"
       ]
     ]
   },

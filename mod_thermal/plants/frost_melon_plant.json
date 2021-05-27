@@ -95,8 +95,8 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
-    "models": false,
+    "render_type": "gourd",
+    "plant_models": [],
     "plant_textures": [
       [
         "agricraft:plant/thermal/frost_melon1"
@@ -120,7 +120,8 @@
         "agricraft:plant/thermal/frost_melon3"
       ],
       [
-        "agricraft:plant/thermal/frost_melon4"
+        "agricraft:plant/thermal/frost_melon4",
+        "thermal:block/crops/frost_melon_side"
       ]
     ]
   },

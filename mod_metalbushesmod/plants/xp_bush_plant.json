@@ -90,7 +90,7 @@
   ],
   "texture": {
     "render_type": "cross",
-    "models": false,
+    "plant_models": [],
     "plant_textures": [
       [
         "metalbushesmod:blocks/bush_stage0"
