@@ -95,7 +95,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "plus",
     "plant_models": [],
     "plant_textures": [
       [
@@ -120,7 +120,7 @@
         "agricraft:plant/orchid3"
       ],
       [
-        "agricraft:plant/orchid4"
+        "minecraft:block/blue_orchid"
       ]
     ]
   },

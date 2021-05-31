@@ -109,28 +109,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "agricraft:plant/potato1"
+        "minecraft:block/potatoes_stage0"
       ],
       [
-        "agricraft:plant/potato1"
+        "minecraft:block/potatoes_stage0"
       ],
       [
-        "agricraft:plant/potato1"
+        "minecraft:block/potatoes_stage0"
       ],
       [
-        "agricraft:plant/potato2"
+        "minecraft:block/potatoes_stage1"
       ],
       [
-        "agricraft:plant/potato2"
+        "minecraft:block/potatoes_stage1"
       ],
       [
-        "agricraft:plant/potato3"
+        "minecraft:block/potatoes_stage2"
       ],
       [
-        "agricraft:plant/potato3"
+        "minecraft:block/potatoes_stage2"
       ],
       [
-        "agricraft:plant/potato4"
+        "minecraft:block/potatoes_stage3"
       ]
     ]
   },

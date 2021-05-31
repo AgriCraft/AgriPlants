@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "agricraft:plant/carrot1"
+        "minecraft:block/carrots_stage0"
       ],
       [
-        "agricraft:plant/carrot1"
+        "minecraft:block/carrots_stage0"
       ],
       [
-        "agricraft:plant/carrot1"
+        "minecraft:block/carrots_stage0"
       ],
       [
-        "agricraft:plant/carrot2"
+        "minecraft:block/carrots_stage1"
       ],
       [
-        "agricraft:plant/carrot2"
+        "minecraft:block/carrots_stage1"
       ],
       [
-        "agricraft:plant/carrot3"
+        "minecraft:block/carrots_stage2"
       ],
       [
-        "agricraft:plant/carrot3"
+        "minecraft:block/carrots_stage2"
       ],
       [
-        "agricraft:plant/carrot4"
+        "minecraft:block/carrots_stage3"
       ]
     ]
   },
