@@ -129,7 +129,7 @@
       ]
     ]
   },
-  "seed_texture": "agricraft:seed/quark/glowshroom_seeds",
-  "seed_model": "agricraft:seed/quark/glowshroom_seeds",
+  "seed_texture": "agricraft:seed/quark/glowshroom",
+  "seed_model": "agricraft:seed/quark/glowshroom",
   "particle_effects": []
 }

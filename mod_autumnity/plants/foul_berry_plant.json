@@ -1,26 +1,38 @@
 {
-  "path": "vanilla/plants/sweet_berry_plant.json",
+  "path": "mod_autumnity/plants/foul_berry_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
+    "autumnity",
     "agricraft",
     "minecraft"
   ],
-  "id": "vanilla:sweet_berry_plant",
-  "plant_lang_key": "agricraft.plant.sweet_berry.name",
-  "seed_lang_key": "agricraft.plant.sweet_berry.seed",
-  "desc_lang_key": "agricraft.plant.sweet_berry.desc",
-  "seed_items": [],
+  "id": "autumnity:foul_berry_plant",
+  "plant_lang_key": "block.autumnity.foul_berry_bush",
+  "seed_lang_key": "item.autumnity.foul_berries",
+  "desc_lang_key": "agricraft.plant.autumnity_foul_berry.desc",
+  "seed_items": [
+    {
+      "overridePlanting": true,
+      "type": "item",
+      "object": "autumnity:foul_berries",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
   "stages": [
-    2,
-    4,
-    6,
-    8,
     10,
     12,
     14,
-    16
+    16,
+    24,
+    28,
+    30,
+    32
   ],
   "harvestStage": 4,
   "growth_chance": 0.75,
@@ -36,11 +48,11 @@
     "products": [
       {
         "min": 1,
-        "max": 1,
-        "chance": 0.75,
+        "max": 2,
+        "chance": 0.95,
         "required": true,
         "type": "item",
-        "object": "minecraft:sweet_berries",
+        "object": "autumnity:foul_berries",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -70,8 +82,6 @@
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring",
-      "summer",
       "autumn"
     ],
     "conditions": [],
@@ -84,39 +94,44 @@
     }
   },
   "callbacks": [
+    "agricraft:poisoning",
     "agricraft:bushy"
   ],
   "texture": {
-    "render_type": "hash",
+    "render_type": "cross",
     "plant_models": [],
     "plant_textures": [
       [
-        "agricraft:plant/sweet_berry1"
+        "autumnity:block/foul_berry_bush_stage0"
       ],
       [
-        "agricraft:plant/sweet_berry1"
+        "autumnity:block/foul_berry_bush_stage0"
       ],
       [
-        "agricraft:plant/sweet_berry2"
+        "autumnity:block/foul_berry_bush_stage1"
       ],
       [
-        "agricraft:plant/sweet_berry2"
+        "autumnity:block/foul_berry_bush_stage1"
       ],
       [
-        "agricraft:plant/sweet_berry2"
+        "autumnity:block/foul_berry_bush_stage2_top",
+        "autumnity:block/foul_berry_bush_stage2_bottom"
       ],
       [
-        "agricraft:plant/sweet_berry3"
+        "autumnity:block/foul_berry_bush_stage3_top",
+        "autumnity:block/foul_berry_bush_stage3_bottom"
       ],
       [
-        "agricraft:plant/sweet_berry3"
+        "autumnity:block/foul_berry_bush_stage4_top",
+        "autumnity:block/foul_berry_bush_stage4_bottom"
       ],
       [
-        "agricraft:plant/sweet_berry4"
+        "autumnity:block/foul_berry_bush_stage5_top",
+        "autumnity:block/foul_berry_bush_stage5_bottom"
       ]
     ]
   },
-  "seed_texture": "agricraft:seed/sweet_berry",
-  "seed_model": "agricraft:seed/sweet_berry",
+  "seed_texture": "autumnity:item/foul_berries",
+  "seed_model": "autumnity:item/foul_berries",
   "particle_effects": []
 }
