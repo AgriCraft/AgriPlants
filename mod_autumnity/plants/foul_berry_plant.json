@@ -10,20 +10,9 @@
   ],
   "id": "autumnity:foul_berry_plant",
   "plant_lang_key": "block.autumnity.foul_berry_bush",
-  "seed_lang_key": "item.autumnity.foul_berries",
+  "seed_lang_key": "agricraft.plant.autumnity_foul_berry.seed",
   "desc_lang_key": "agricraft.plant.autumnity_foul_berry.desc",
-  "seed_items": [
-    {
-      "overridePlanting": true,
-      "type": "item",
-      "object": "autumnity:foul_berries",
-      "useTag": false,
-      "data": "",
-      "ignoredData": [
-        "*"
-      ]
-    }
-  ],
+  "seed_items": [],
   "stages": [
     10,
     12,
@@ -131,7 +120,7 @@
       ]
     ]
   },
-  "seed_texture": "autumnity:item/foul_berries",
-  "seed_model": "autumnity:item/foul_berries",
+  "seed_texture": "agricraft:seed/autumnity/foul_berry",
+  "seed_model": "agricraft:seed/autumnity/foul_berry",
   "particle_effects": []
 }
