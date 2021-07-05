@@ -1,22 +1,22 @@
 {
-  "path": "mod_quark/plants/glowshroom_plant.json",
+  "path": "mod_biomesoplenty/plants/glowshroom_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "quark",
+    "biomesoplenty",
     "agricraft",
     "minecraft"
   ],
-  "id": "quark:glowshroom_plant",
-  "plant_lang_key": "block.quark.glowshroom",
-  "seed_lang_key": "block.quark.glowshroom",
-  "desc_lang_key": "agricraft.plant.quark_glowshroom.desc",
+  "id": "biomesoplenty:glowshroom_plant",
+  "plant_lang_key": "block.biomesoplenty.glowshroom",
+  "seed_lang_key": "agricraft.plant.biomesoplenty_glowshroom.seed",
+  "desc_lang_key": "agricraft.plant.biomesoplenty_glowshroom.desc",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "quark:glowshroom",
+      "object": "biomesoplenty:glowshroom",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -47,12 +47,12 @@
   "products": {
     "products": [
       {
-        "min": 1,
-        "max": 3,
-        "chance": 0.95,
+        "min": 2,
+        "max": 5,
+        "chance": 1.0,
         "required": true,
         "type": "item",
-        "object": "quark:glowshroom",
+        "object": "biomesoplenty:glowshroom",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -64,12 +64,12 @@
   },
   "requirement": {
     "soil_humidity": {
-      "condition": "dry",
+      "condition": "damp",
       "type": "equal",
       "tolerance_factor": 0.15
     },
     "soil_acidity": {
-      "condition": "slightly_acidic",
+      "condition": "neutral",
       "type": "equal",
       "tolerance_factor": 0.2
     },
@@ -79,7 +79,7 @@
       "tolerance_factor": 0.2
     },
     "min_light": 0,
-    "max_light": 16,
+    "max_light": 10,
     "light_tolerance_factor": 0.5,
     "seasons": [
       "spring",
@@ -96,40 +96,38 @@
       "ignoredData": []
     }
   },
-  "callbacks": [
-    "agricraft:brightness"
-  ],
+  "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "cross",
     "plant_models": [],
     "plant_textures": [
       [
-        "agricraft:plant/quark/glowshroom1"
+        "agricraft:plant/biomesoplenty/glowshroom0"
       ],
       [
-        "agricraft:plant/quark/glowshroom1"
+        "agricraft:plant/biomesoplenty/glowshroom0"
       ],
       [
-        "agricraft:plant/quark/glowshroom1"
+        "agricraft:plant/biomesoplenty/glowshroom0"
       ],
       [
-        "agricraft:plant/quark/glowshroom2"
+        "agricraft:plant/biomesoplenty/glowshroom1"
       ],
       [
-        "agricraft:plant/quark/glowshroom2"
+        "agricraft:plant/biomesoplenty/glowshroom1"
       ],
       [
-        "agricraft:plant/quark/glowshroom3"
+        "agricraft:plant/biomesoplenty/glowshroom2"
       ],
       [
-        "agricraft:plant/quark/glowshroom3"
+        "agricraft:plant/biomesoplenty/glowshroom2"
       ],
       [
-        "agricraft:plant/quark/glowshroom4"
+        "biomesoplenty:block/glowshroom"
       ]
     ]
   },
-  "seed_texture": "agricraft:seed/quark/glowshroom",
-  "seed_model": "agricraft:seed/quark/glowshroom",
+  "seed_texture": "agricraft:seed/biomesoplenty/glowshroom",
+  "seed_model": "agricraft:seed/biomesoplenty/glowshroom",
   "particle_effects": []
 }
