@@ -14,14 +14,14 @@
   "desc_lang_key": "agricraft.plant.upgrade_aquatic_ochre_kelp.desc",
   "seed_items": [],
   "stages": [
-    8,
-    8,
-    16,
-    16,
-    16,
-    24,
-    24,
-    32
+    6,
+    6,
+    12,
+    12,
+    12,
+    18,
+    18,
+    24
   ],
   "harvestStage": 4,
   "growth_chance": 0.65,
