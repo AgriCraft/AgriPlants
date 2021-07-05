@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "botania:purple_flower_plant",
-  "plant_lang_key": "agricraft.plant.botania_purple_flower.name",
+  "plant_lang_key": "block.botania.purple_mystical_flower",
   "seed_lang_key": "agricraft.plant.botania_purple_flower.seed",
   "desc_lang_key": "agricraft.plant.botania_purple_flower.desc",
   "seed_items": [],
