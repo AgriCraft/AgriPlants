@@ -21,8 +21,8 @@
       ]
     }
   ],
-  "humidity": "dry",
-  "acidity": "slightly_alkaline",
-  "nutrients": "low",
-  "growth_modifier": 0.5
+  "humidity": "wet",
+  "acidity": "slightly_acidic",
+  "nutrients": "high",
+  "growth_modifier": 1.0
 }
