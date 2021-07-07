@@ -11,5 +11,5 @@
   "chance": 0.5,
   "child": "upgrade_aquatic:thorny_kelp_plant",
   "parent1": "upgrade_aquatic:tongue_kelp_plant",
-  "parent2": "upgrade_aquatic:polar_plant"
+  "parent2": "upgrade_aquatic:polar_kelp_plant"
 }
