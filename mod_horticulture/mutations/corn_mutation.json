@@ -1,0 +1,15 @@
+{
+  "path": "mod_horticulture/mutations/corn_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "horticulture",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "horticulture:corn_plant",
+  "parent1": "vanilla:dandelion_plant",
+  "parent2": "vanilla:cornflower_plant"
+}
