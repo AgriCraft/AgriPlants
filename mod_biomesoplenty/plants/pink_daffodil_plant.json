@@ -1,17 +1,17 @@
 {
-  "path": "mod_botania/plants/magenta_flower_plant.json",
+  "path": "mod_biomesoplenty/plants/pink_daffodil_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
-    "botania",
+    "biomesoplenty",
     "agricraft",
     "minecraft"
   ],
-  "id": "botania:magenta_flower_plant",
-  "plant_lang_key": "block.botania.magenta_mystical_flower",
-  "seed_lang_key": "agricraft.plant.botania_magenta_flower.seed",
-  "desc_lang_key": "agricraft.plant.botania_magenta_flower.desc",
+  "id": "biomesoplenty:pink_daffodil_plant",
+  "plant_lang_key": "block.biomesoplenty.pink_daffodil",
+  "seed_lang_key": "agricraft.plant.biomesoplenty_pink_daffodil.seed",
+  "desc_lang_key": "agricraft.plant.biomesoplenty_pink_daffodil.desc",
   "seed_items": [],
   "stages": [
     2,
@@ -24,10 +24,10 @@
     12
   ],
   "harvestStage": 4,
-  "growth_chance": 0.5,
+  "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": false,
-  "tier": 4,
+  "bonemeal": true,
+  "tier": 2,
   "cloneable": true,
   "spread_chance": 0.1,
   "grass_drop_chance": 0.0,
@@ -37,11 +37,11 @@
     "products": [
       {
         "min": 1,
-        "max": 4,
-        "chance": 1.0,
+        "max": 1,
+        "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "botania:magenta_petal",
+        "object": "minecraft:pink_dye",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -49,13 +49,25 @@
     ]
   },
   "clip_products": {
-    "products": []
+    "products": [
+      {
+        "min": 0,
+        "max": 1,
+        "chance": 0.5,
+        "required": true,
+        "type": "item",
+        "object": "biomesoplenty:pink_daffodil",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
+      }
+    ]
   },
   "requirement": {
     "soil_humidity": {
       "condition": "damp",
       "type": "equal",
-      "tolerance_factor": 0.15
+      "tolerance_factor": 0.2
     },
     "soil_acidity": {
       "condition": "slightly_acidic",
@@ -64,14 +76,15 @@
     },
     "soil_nutrients": {
       "condition": "very_high",
-      "type": "equal",
-      "tolerance_factor": 0.15
+      "type": "equal_or_higher",
+      "tolerance_factor": 0.2
     },
-    "min_light": 12,
+    "min_light": 10,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
     "seasons": [
-      "spring"
+      "spring",
+      "summer"
     ],
     "conditions": [],
     "fluid": {
@@ -88,32 +101,32 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "agricraft:plant/botania/magenta_flower1"
+        "agricraft:plant/biomesoplenty/pink_daffodil0"
       ],
       [
-        "agricraft:plant/botania/magenta_flower1"
+        "agricraft:plant/biomesoplenty/pink_daffodil0"
       ],
       [
-        "agricraft:plant/botania/magenta_flower1"
+        "agricraft:plant/biomesoplenty/pink_daffodil0"
       ],
       [
-        "agricraft:plant/botania/magenta_flower2"
+        "agricraft:plant/biomesoplenty/pink_daffodil1"
       ],
       [
-        "agricraft:plant/botania/magenta_flower2"
+        "agricraft:plant/biomesoplenty/pink_daffodil1"
       ],
       [
-        "agricraft:plant/botania/magenta_flower3"
+        "agricraft:plant/biomesoplenty/pink_daffodil2"
       ],
       [
-        "agricraft:plant/botania/magenta_flower3"
+        "agricraft:plant/biomesoplenty/pink_daffodil2"
       ],
       [
-        "agricraft:plant/botania/magenta_flower4"
+        "biomesoplenty:block/pink_daffodil"
       ]
     ]
   },
-  "seed_texture": "agricraft:seed/botania/magenta_flower",
-  "seed_model": "agricraft:seed/botania/magenta_flower",
+  "seed_texture": "agricraft:seed/biomesoplenty/pink_daffodil",
+  "seed_model": "agricraft:seed/biomesoplenty/pink_daffodil",
   "particle_effects": []
 }

@@ -49,18 +49,7 @@
       {
         "min": 1,
         "max": 2,
-        "chance": 0.5,
-        "required": true,
-        "type": "item",
-        "object": "immersiveengineering:seed",
-        "useTag": false,
-        "data": "",
-        "ignoredData": []
-      },
-      {
-        "min": 1,
-        "max": 2,
-        "chance": 0.5,
+        "chance": 0.85,
         "required": true,
         "type": "item",
         "object": "immersiveengineering:hemp_fiber",

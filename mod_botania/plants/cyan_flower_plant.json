@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "botania:cyan_flower_plant",
-  "plant_lang_key": "agricraft.plant.botania_cyan_flower.name",
+  "plant_lang_key": "block.botania.cyan_mystical_flower",
   "seed_lang_key": "agricraft.plant.botania_cyan_flower.seed",
   "desc_lang_key": "agricraft.plant.botania_cyan_flower.desc",
   "seed_items": [],
