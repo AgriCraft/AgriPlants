@@ -8,15 +8,15 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "mysticalagriculture:engergized_steel_plant",
-  "plant_lang_key": "block.mysticalagriculture.engergized_steel_crop",
-  "seed_lang_key": "item.mysticalagriculture.engergized_steel_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_engergized_steel.desc",
+  "id": "mysticalagriculture:energized_steel_plant",
+  "plant_lang_key": "block.mysticalagriculture.energized_steel_crop",
+  "seed_lang_key": "item.mysticalagriculture.energized_steel_seeds",
+  "desc_lang_key": "agricraft.plant.mysticalagriculture_energized_steel.desc",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:engergized_steel_seeds",
+      "object": "mystical_agriculture:energized_steel_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -37,9 +37,9 @@
   "harvestStage": 4,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": true,
-  "tier": 2,
-  "cloneable": true,
+  "bonemeal": false,
+  "tier": 4,
+  "cloneable": false,
   "spread_chance": 0.1,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,
@@ -52,7 +52,7 @@
         "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "mysticalagriculture:engergized_steel_essence",
+        "object": "mysticalagriculture:energized_steel_essence",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -98,7 +98,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "cross",
     "plant_models": [],
     "plant_textures": [
       [
@@ -123,11 +123,11 @@
         "mysticalagriculture:block/mystical_resource_crop_6"
       ],
       [
-        "mysticalagriculture:block/engergized_steel_crop"
+        "mysticalagriculture:block/energized_steel_crop"
       ]
     ]
   },
-  "seed_texture": "mysticalagriculture:item/engergized_steel_seeds",
-  "seed_model": "mysticalagriculture:item/engergized_steel_seeds",
+  "seed_texture": "mysticalagriculture:item/energized_steel_seeds",
+  "seed_model": "mysticalagriculture:item/energized_steel_seeds",
   "particle_effects": []
 }
