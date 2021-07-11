@@ -1,5 +1,5 @@
 {
-  "path": "mod_mysticalagriculture/plants/yellorium_plant.json",
+  "path": "mod_mysticalagriculture/plants/zombie_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
@@ -8,15 +8,15 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "mysticalagriculture:yellorium_plant",
-  "plant_lang_key": "block.mysticalagriculture.yellorium_crop",
-  "seed_lang_key": "item.mysticalagriculture.yellorium_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_yellorium.desc",
+  "id": "mysticalagriculture:zombie_plant",
+  "plant_lang_key": "block.mysticalagriculture.zombie_crop",
+  "seed_lang_key": "item.mysticalagriculture.zombie_seeds",
+  "desc_lang_key": "agricraft.plant.mysticalagriculture_zombie.desc",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:yellorium_seeds",
+      "object": "mystical_agriculture:zombie_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "mysticalagriculture:yellorium_essence",
+        "object": "mysticalagriculture:zombie_essence",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -123,11 +123,11 @@
         "mysticalagriculture:block/mystical_resource_crop_6"
       ],
       [
-        "mysticalagriculture:block/yellorium_crop"
+        "mysticalagriculture:block/zombie_crop"
       ]
     ]
   },
-  "seed_texture": "mysticalagriculture:item/yellorium_seeds",
-  "seed_model": "mysticalagriculture:item/yellorium_seeds",
+  "seed_texture": "mysticalagriculture:item/zombie_seeds",
+  "seed_model": "mysticalagriculture:item/zombie_seeds",
   "particle_effects": []
 }
