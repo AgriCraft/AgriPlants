@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "imperium_farmland_soil",
-  "lang_key": "agricraft.soil.imperium.name",
+  "lang_key": "block.mysticalagriculture.imperium_farmland",
   "varients": [
     {
       "type": "block",

@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "tertium_farmland_soil",
-  "lang_key": "agricraft.soil.tertium.name",
+  "lang_key": "block.mysticalagriculture.tertium_farmland",
   "varients": [
     {
       "type": "block",

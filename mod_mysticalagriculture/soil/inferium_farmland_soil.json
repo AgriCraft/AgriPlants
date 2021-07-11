@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "inferium_farmland_soil",
-  "lang_key": "agricraft.soil.inferium.name",
+  "lang_key": "block.mysticalagriculture.inferium_farmland",
   "varients": [
     {
       "type": "block",

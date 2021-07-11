@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "prudentium_farmland_soil",
-  "lang_key": "agricraft.soil.prudentium.name",
+  "lang_key": "block.mysticalagriculture.prudentium_farmland",
   "varients": [
     {
       "type": "block",

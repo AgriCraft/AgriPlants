@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "supremium_farmland_soil",
-  "lang_key": "agricraft.soil.supremium.name",
+  "lang_key": ""block.mysticalagriculture.supremium_farmland",
   "varients": [
     {
       "type": "block",
