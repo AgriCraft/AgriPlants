@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "insanium_farmland_soil",
-  "lang_key": "agricraft.soil.insanium.name",
+  "lang_key": "block.mysticalagradditions.insanium_farmland",
   "varients": [
     {
       "type": "block",
