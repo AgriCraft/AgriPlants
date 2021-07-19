@@ -22,5 +22,66 @@
   ],
   "trigger_mutation": true,
   "trigger_weeds": true,
-  "potency": 1
+  "potency": 1,
+  "effect": {
+    "reduce_growth": true,
+    "kill_plant": true,
+    "negatively_affected": {
+      "blacklist": false,
+      "plant_list": []
+    },
+    "positively_affected":  {
+      "blacklist": true,
+      "plant_list": [
+        "resource:aurigold_plant",
+        "resource:carbonation_plant",
+        "resource:cuprosia_plant",
+        "resource:diamahlia_plant",
+        "resource:eneryllis_plant",
+        "resource:ferranium_plant",
+        "resource:jaslumine_plant",
+        "resource:lapender_plant",
+        "resource:niccissus_plant",
+        "resource:nitorwart_plant",
+        "resource:osmonium_plant",
+        "resource:petinia_plant",
+        "resource:platiolus_plant",
+        "resource:plombean_plant",
+        "resource:quartzanthemum_plant",
+        "resource:redstodendron_plant"
+      ]
+    },
+    "particles": [
+      {
+        "particle": "minecraft:happy_villager",
+        "delta_x": 0.6,
+        "delta_y": 0.4,
+        "delta_z": 0.6,
+        "amount": 2,
+        "when": [
+          "positive"
+        ]
+      },
+      {
+        "particle": "minecraft:ash",
+        "delta_x": 0.6,
+        "delta_y": 0.4,
+        "delta_z": 0.6,
+        "amount": 2,
+        "when": [
+          "positive"
+        ]
+      },
+      {
+        "particle": "minecraft:smoke",
+        "delta_x": 0.6,
+        "delta_y": 0.4,
+        "delta_z": 0.6,
+        "amount": 2,
+        "when": [
+          "positive"
+        ]
+      }
+    ]
+  }
 }
