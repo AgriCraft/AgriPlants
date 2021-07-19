@@ -129,14 +129,14 @@
   "seed_model": "agricraft:seed/wither_rose",
   "particle_effects": [
     {
-      "particle": "minecraft:smoke",
-      "delta_x": 0.3,
-      "delta_y": 0.4,
-      "delta_z": 0.3,
       "probability": 0.4,
       "stages": [
         7
-      ]
+      ],
+      "particle": "minecraft:smoke",
+      "delta_x": 0.3,
+      "delta_y": 0.4,
+      "delta_z": 0.3
     }
   ]
 }

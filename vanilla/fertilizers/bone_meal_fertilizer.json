@@ -30,7 +30,7 @@
       "blacklist": false,
       "plant_list": []
     },
-    "positively_affected":  {
+    "positively_affected": {
       "blacklist": true,
       "plant_list": [
         "resource:aurigold_plant",
@@ -53,34 +53,24 @@
     },
     "particles": [
       {
+        "amount": 2,
+        "when": [
+          "positive"
+        ],
         "particle": "minecraft:happy_villager",
         "delta_x": 0.6,
         "delta_y": 0.4,
-        "delta_z": 0.6,
-        "amount": 2,
-        "when": [
-          "positive"
-        ]
+        "delta_z": 0.6
       },
       {
-        "particle": "minecraft:ash",
-        "delta_x": 0.6,
-        "delta_y": 0.4,
-        "delta_z": 0.6,
         "amount": 2,
         "when": [
-          "positive"
-        ]
-      },
-      {
+          "negative"
+        ],
         "particle": "minecraft:smoke",
         "delta_x": 0.6,
         "delta_y": 0.4,
-        "delta_z": 0.6,
-        "amount": 2,
-        "when": [
-          "positive"
-        ]
+        "delta_z": 0.6
       }
     ]
   }

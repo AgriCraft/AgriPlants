@@ -60,12 +60,6 @@
       "ignoredData": []
     }
   },
-  "seasons": [
-    "spring",
-    "summer",
-    "autumn",
-    "winter"
-  ],
   "texture": {
     "render_type": "rhombus",
     "plant_models": [],
