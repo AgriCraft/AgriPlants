@@ -25,15 +25,18 @@
     }
   ],
   "stages": [
+    2,
     4,
+    6,
     8,
+    10,
     12,
+    14,
     16
   ],
   "harvestStage": 2,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": true,
   "tier": 1,
   "cloneable": true,
   "spread_chance": 0.1,
@@ -104,19 +107,19 @@
         "pamhc2crops:block/juniperberry_stage_1"
       ],
       [
+        "pamhc2crops:block/juniperberry_stage_1"
+      ],
+      [
+        "pamhc2crops:block/juniperberry_stage_1"
+      ],
+      [
+        "pamhc2crops:block/juniperberry_stage_1"
+      ],
+      [
+        "pamhc2crops:block/juniperberry_stage_1"
+      ],
+      [
         "pamhc2crops:block/juniperberry_stage_3"
-      ],
-      [
-        "minecraft:block/wheat_stage4"
-      ],
-      [
-        "minecraft:block/wheat_stage5"
-      ],
-      [
-        "minecraft:block/wheat_stage6"
-      ],
-      [
-        "minecraft:block/wheat_stage7"
       ]
     ]
   },

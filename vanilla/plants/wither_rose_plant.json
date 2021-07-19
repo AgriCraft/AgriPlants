@@ -25,7 +25,6 @@
   "harvestStage": 4,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": true,
   "tier": 2,
   "cloneable": true,
   "spread_chance": 0.1,
@@ -130,14 +129,14 @@
   "seed_model": "agricraft:seed/wither_rose",
   "particle_effects": [
     {
-      "particle": "minecraft:smoke",
-      "delta_x": 0.3,
-      "delta_y": 0.4,
-      "delta_z": 0.3,
       "probability": 0.4,
       "stages": [
         7
-      ]
+      ],
+      "particle": "minecraft:smoke",
+      "delta_x": 0.3,
+      "delta_y": 0.4,
+      "delta_z": 0.3
     }
   ]
 }

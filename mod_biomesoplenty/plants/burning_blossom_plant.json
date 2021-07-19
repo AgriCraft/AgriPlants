@@ -26,7 +26,6 @@
   "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": true,
   "tier": 2,
   "cloneable": true,
   "spread_chance": 0.1,
@@ -132,24 +131,24 @@
   "seed_model": "agricraft:seed/biomesoplenty/burning_blossom",
   "particle_effects": [
     {
-      "particle": "minecraft:flame",
-      "delta_x": 0.5,
-      "delta_y": 0.75,
-      "delta_z": 0.5,
       "probability": 0.125,
       "stages": [
         7
-      ]
-    },
-    {
-      "particle": "minecraft:smoke",
+      ],
+      "particle": "minecraft:flame",
       "delta_x": 0.5,
       "delta_y": 0.75,
-      "delta_z": 0.5,
+      "delta_z": 0.5
+    },
+    {
       "probability": 0.25,
       "stages": [
         7
-      ]
+      ],
+      "particle": "minecraft:smoke",
+      "delta_x": 0.5,
+      "delta_y": 0.75,
+      "delta_z": 0.5
     }
   ]
 }

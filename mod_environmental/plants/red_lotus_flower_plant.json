@@ -26,7 +26,6 @@
   "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": true,
   "tier": 2,
   "cloneable": true,
   "spread_chance": 0.1,
@@ -130,14 +129,14 @@
   "seed_model": "agricraft:seed/environmental/red_lotus_flower",
   "particle_effects": [
     {
-      "particle": "environmental:red_lotus_blossom",
-      "delta_x": 0.3,
-      "delta_y": 0.3,
-      "delta_z": 0.3,
       "probability": 0.1,
       "stages": [
         7
-      ]
+      ],
+      "particle": "environmental:red_lotus_blossom",
+      "delta_x": 0.3,
+      "delta_y": 0.3,
+      "delta_z": 0.3
     }
   ]
 }

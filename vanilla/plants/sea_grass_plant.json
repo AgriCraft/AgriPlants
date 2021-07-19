@@ -25,7 +25,6 @@
   "harvestStage": 4,
   "growth_chance": 0.75,
   "growth_bonus": 0.025,
-  "bonemeal": true,
   "tier": 1,
   "cloneable": true,
   "spread_chance": 0.1,
