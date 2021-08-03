@@ -10,9 +10,9 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:dragon_egg_plant",
-  "plant_lang_key": "block.mysticalagriculture.dragon_egg_crop",
+  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
   "seed_lang_key": "item.mysticalagriculture.dragon_egg_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_dragon_egg.desc",
+  "desc_lang_key": "crop.mysticalagradditions.dragon_egg",
   "seed_items": [
     {
       "overridePlanting": true,
@@ -99,7 +99,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "cross",
+    "render_type": "mysticalagriculture",
     "plant_models": [],
     "plant_textures": [
       [
@@ -124,7 +124,8 @@
         "mysticalagriculture:block/mystical_resource_crop_6"
       ],
       [
-        "mysticalagriculture:block/dragon_egg_crop"
+        "mysticalagriculture:block/mystical_resource_crop_7",
+		"mysticalagradditions:block/dragon_egg_flower"
       ]
     ]
   },
