@@ -1,5 +1,5 @@
 {
-  "path": "mod_mysticalagriculture/plants/creeper_plant.json",
+  "path": "mod_mysticalagriculture/plants/ghast_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
@@ -8,15 +8,15 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "mysticalagriculture:creeper_plant",
+  "id": "mysticalagriculture:ghast_plant",
   "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.creeper_seeds",
-  "desc_lang_key": "crop.mysticalagriculture.creeper",
+  "seed_lang_key": "item.mysticalagriculture.ghast_seeds",
+  "desc_lang_key": "crop.mysticalagriculture.ghast",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:creeper_seeds",
+      "object": "mystical_agriculture:ghast_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "mysticalagriculture:creeper_essence",
+        "object": "mysticalagriculture:ghast_essence",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -124,11 +124,11 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-		"mysticalagriculture:block/creeper_flower"
+		"mysticalagriculture:block/ghast_flower"
       ]
     ]
   },
-  "seed_texture": "mysticalagriculture:item/creeper_seeds",
-  "seed_model": "mysticalagriculture:item/creeper_seeds",
+  "seed_texture": "mysticalagriculture:item/ghast_seeds",
+  "seed_model": "mysticalagriculture:item/ghast_seeds",
   "particle_effects": []
 }
