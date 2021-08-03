@@ -102,28 +102,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "mysticalagriculture:block/mystical_resource_mob_0"
+        "mysticalagriculture:block/mystical_mob_crop_0"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_1"
+        "mysticalagriculture:block/mystical_mob_crop_1"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_2"
+        "mysticalagriculture:block/mystical_mob_crop_2"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_3"
+        "mysticalagriculture:block/mystical_mob_crop_3"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_4"
+        "mysticalagriculture:block/mystical_mob_crop_4"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_5"
+        "mysticalagriculture:block/mystical_mob_crop_5"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_6"
+        "mysticalagriculture:block/mystical_mob_crop_6"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_mob_7",
+        "mysticalagriculture:block/mystical_mob_crop_7",
 		"mysticalagriculture:block/turtle_flower"
       ]
     ]

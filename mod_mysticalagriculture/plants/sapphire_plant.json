@@ -1,5 +1,5 @@
 {
-  "path": "mod_mysticalagriculture/plants/zinc_plant.json",
+  "path": "mod_mysticalagriculture/plants/sapphire_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
@@ -8,15 +8,15 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "mysticalagriculture:zinc_plant",
+  "id": "mysticalagriculture:sapphire_plant",
   "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.zinc_seeds",
-  "desc_lang_key": "crop.mysticalagriculture.zinc",
+  "seed_lang_key": "item.mysticalagriculture.sapphire_seeds",
+  "desc_lang_key": "crop.mysticalagriculture.sapphire",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:zinc_seeds",
+      "object": "mystical_agriculture:sapphire_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "mysticalagriculture:zinc_essence",
+        "object": "mysticalagriculture:sapphire_essence",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -124,11 +124,11 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagriculture:block/flower_ingot"
+		"mysticalagriculture:block/sapphire_flower"
       ]
     ]
   },
-  "seed_texture": "mysticalagriculture:item/zinc_seeds",
-  "seed_model": "mysticalagriculture:item/zinc_seeds",
+  "seed_texture": "mysticalagriculture:item/sapphire_seeds",
+  "seed_model": "mysticalagriculture:item/sapphire_seeds",
   "particle_effects": []
 }

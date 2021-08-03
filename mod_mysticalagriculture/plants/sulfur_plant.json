@@ -39,7 +39,7 @@
   "growth_bonus": 0.025,
   "bonemeal": false,
   "tier": 4,
-  "cloneable": false,,
+  "cloneable": false,
   "spread_chance": 0.1,
   "grass_drop_chance": 0.0,
   "seed_drop_chance": 1.0,

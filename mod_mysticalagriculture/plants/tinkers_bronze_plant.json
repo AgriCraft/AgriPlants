@@ -1,5 +1,5 @@
 {
-  "path": "mod_mysticalagriculture/plants/zinc_plant.json",
+  "path": "mod_mysticalagriculture/plants/tinkers_bronze_plant.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
@@ -8,15 +8,15 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "mysticalagriculture:zinc_plant",
+  "id": "mysticalagriculture:tinkers_bronze_plant",
   "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.zinc_seeds",
-  "desc_lang_key": "crop.mysticalagriculture.zinc",
+  "seed_lang_key": "item.mysticalagriculture.tinkers_bronze_seeds",
+  "desc_lang_key": "crop.mysticalagriculture.tinkers_bronze",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:zinc_seeds",
+      "object": "mystical_agriculture:tinkers_bronze_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -52,7 +52,7 @@
         "chance": 0.75,
         "required": true,
         "type": "item",
-        "object": "mysticalagriculture:zinc_essence",
+        "object": "mysticalagriculture:tinkers_bronze_essence",
         "useTag": false,
         "data": "",
         "ignoredData": []
@@ -124,11 +124,11 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagriculture:block/flower_ingot"
+		"mysticalagriculture:block/tinkers_bronze_flower"
       ]
     ]
   },
-  "seed_texture": "mysticalagriculture:item/zinc_seeds",
-  "seed_model": "mysticalagriculture:item/zinc_seeds",
+  "seed_texture": "mysticalagriculture:item/tinkers_bronze_seeds",
+  "seed_model": "mysticalagriculture:item/tinkers_bronze_seeds",
   "particle_effects": []
 }
