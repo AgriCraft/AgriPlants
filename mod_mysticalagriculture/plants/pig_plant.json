@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:pig_plant",
-  "plant_lang_key": "block.mysticalagriculture.pig_crop",
+  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
   "seed_lang_key": "item.mysticalagriculture.pig_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_pig.desc",
+  "desc_lang_key": "crop.mysticalagriculture.pig",
   "seed_items": [
     {
       "overridePlanting": true,
@@ -98,32 +98,33 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "mysticalagriculture",
     "plant_models": [],
     "plant_textures": [
       [
-        "mysticalagriculture:block/mystical_resource_crop_0"
+        "mysticalagriculture:block/mystical_resource_mob_0"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_1"
+        "mysticalagriculture:block/mystical_resource_mob_1"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_2"
+        "mysticalagriculture:block/mystical_resource_mob_2"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_3"
+        "mysticalagriculture:block/mystical_resource_mob_3"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_4"
+        "mysticalagriculture:block/mystical_resource_mob_4"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_5"
+        "mysticalagriculture:block/mystical_resource_mob_5"
       ],
       [
-        "mysticalagriculture:block/mystical_resource_crop_6"
+        "mysticalagriculture:block/mystical_resource_mob_6"
       ],
       [
-        "mysticalagriculture:block/pig_crop"
+        "mysticalagriculture:block/mystical_resource_mob_7",
+		"mysticalagriculture:block/pig_flower"
       ]
     ]
   },

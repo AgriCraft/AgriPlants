@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:rubber_plant",
-  "plant_lang_key": "block.mysticalagriculture.rubber_crop",
+  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
   "seed_lang_key": "item.mysticalagriculture.rubber_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_rubber.desc",
+  "desc_lang_key": "crop.mysticalagriculture.rubber",
   "seed_items": [
     {
       "overridePlanting": true,
@@ -98,7 +98,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "mysticalagriculture",
     "plant_models": [],
     "plant_textures": [
       [
@@ -123,7 +123,8 @@
         "mysticalagriculture:block/mystical_resource_crop_6"
       ],
       [
-        "mysticalagriculture:block/rubber_crop"
+        "mysticalagriculture:block/mystical_resource_crop_7",
+		"mysticalagriculture:block/rubber_flower"
       ]
     ]
   },
