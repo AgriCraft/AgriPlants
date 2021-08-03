@@ -9,9 +9,9 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:blazing_crystal_plant",
-  "plant_lang_key": "block.mysticalagriculture.blazing_crystal_crop",
+  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
   "seed_lang_key": "item.mysticalagriculture.blazing_crystal_seeds",
-  "desc_lang_key": "agricraft.plant.mysticalagriculture_blazing_crystal.desc",
+  "desc_lang_key": "crop.mysticalagriculture.blazing_crystal",
   "seed_items": [
     {
       "overridePlanting": true,
@@ -98,7 +98,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "mysticalagriculture",
     "plant_models": [],
     "plant_textures": [
       [
@@ -123,7 +123,8 @@
         "mysticalagriculture:block/mystical_resource_crop_6"
       ],
       [
-        "mysticalagriculture:block/blazing_crystal_crop"
+        "mysticalagriculture:block/mystical_resource_crop_7",
+		"mysticalagriculture:block/blazing_crystal_flower"
       ]
     ]
   },
