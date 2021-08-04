@@ -10,14 +10,14 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:dragon_egg_plant",
-  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.dragon_egg_seeds",
+  "plant_lang_key": "crop.mysticalagradditions.dragon_egg",
+  "seed_lang_key": "agricraft.plant.mysticalagriculture.dragon_egg",
   "desc_lang_key": "crop.mysticalagradditions.dragon_egg",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:dragon_egg_seeds",
+      "object": "mysticalagriculture:dragon_egg_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -35,10 +35,10 @@
     14,
     16
   ],
-  "harvestStage": 4,
+
+  "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": false,
   "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
@@ -88,7 +88,23 @@
       "fall",
       "winter"
     ],
-    "conditions": [],
+    "conditions": [
+      {
+        "strength": 11,
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "type": "block",
+        "object": "mysticalagradditions:dragon_egg_crux",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
+      }
+    ],
     "fluid": {
       "type": "fluid",
       "object": "minecraft:empty",
@@ -125,7 +141,7 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagradditions:block/dragon_egg_flower"
+        "mysticalagradditions:block/dragon_egg_flower"
       ]
     ]
   },

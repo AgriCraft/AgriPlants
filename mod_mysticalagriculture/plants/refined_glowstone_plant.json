@@ -9,14 +9,14 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:refined_glowstone_plant",
-  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.refined_glowstone_seeds",
+  "plant_lang_key": "crop.mysticalagriculture.refined_glowstone",
+  "seed_lang_key": "agricraft.plant.mysticalagriculture.refined_glowstone",
   "desc_lang_key": "crop.mysticalagriculture.refined_glowstone",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:refined_glowstone_seeds",
+      "object": "mysticalagriculture:refined_glowstone_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -34,10 +34,10 @@
     14,
     16
   ],
-  "harvestStage": 4,
+
+  "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": false,
   "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
@@ -124,7 +124,7 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagriculture:block/refined_glowstone_flower"
+        "mysticalagriculture:block/refined_glowstone_flower"
       ]
     ]
   },

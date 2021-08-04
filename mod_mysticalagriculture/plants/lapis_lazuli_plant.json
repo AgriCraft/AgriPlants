@@ -9,14 +9,14 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:lapis_lazuli_plant",
-  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.lapis_lazuli_seeds",
+  "plant_lang_key": "crop.mysticalagriculture.lapis_lazuli",
+  "seed_lang_key": "agricraft.plant.mysticalagriculture.lapis_lazuli",
   "desc_lang_key": "crop.mysticalagriculture.lapis_lazuli",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:lapis_lazuli_seeds",
+      "object": "mysticalagriculture:lapis_lazuli_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -34,10 +34,10 @@
     14,
     16
   ],
-  "harvestStage": 4,
+
+  "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": false,
   "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
@@ -124,7 +124,7 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagriculture:block/lapis_lazuli_flower"
+        "mysticalagriculture:block/lapis_lazuli_flower"
       ]
     ]
   },

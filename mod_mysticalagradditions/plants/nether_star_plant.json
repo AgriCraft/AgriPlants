@@ -10,14 +10,14 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:nether_star_plant",
-  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.nether_star_seeds",
+  "plant_lang_key": "crop.mysticalagradditions.nether_star",
+  "seed_lang_key": "agricraft.plant.mysticalagriculture.nether_star",
   "desc_lang_key": "crop.mysticalagradditions.nether_star",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:nether_star_seeds",
+      "object": "mysticalagriculture:nether_star_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -35,10 +35,10 @@
     14,
     16
   ],
-  "harvestStage": 4,
+
+  "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": false,
   "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
@@ -88,7 +88,23 @@
       "fall",
       "winter"
     ],
-    "conditions": [],
+    "conditions": [
+      {
+        "strength": 11,
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "type": "block",
+        "object": "mysticalagradditions:nether_star_crux",
+        "useTag": false,
+        "data": "",
+        "ignoredData": []
+      }
+    ],
     "fluid": {
       "type": "fluid",
       "object": "minecraft:empty",
@@ -125,7 +141,7 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagradditions:block/nether_star_flower"
+        "mysticalagradditions:block/nether_star_flower"
       ]
     ]
   },
