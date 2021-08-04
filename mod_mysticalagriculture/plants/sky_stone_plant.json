@@ -9,14 +9,14 @@
     "minecraft"
   ],
   "id": "mysticalagriculture:sky_stone_plant",
-  "plant_lang_key": "tooltip.mysticalagriculture.crop_id",
-  "seed_lang_key": "item.mysticalagriculture.sky_stone_seeds",
+  "plant_lang_key": "crop.mysticalagriculture.sky_stone",
+  "seed_lang_key": "agricraft.plant.mysticalagriculture.sky_stone",
   "desc_lang_key": "crop.mysticalagriculture.sky_stone",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "mystical_agriculture:sky_stone_seeds",
+      "object": "mysticalagriculture:sky_stone_seeds",
       "useTag": false,
       "data": "",
       "ignoredData": [
@@ -34,10 +34,10 @@
     14,
     16
   ],
-  "harvestStage": 4,
+
+  "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
-  "bonemeal": false,
   "tier": 4,
   "cloneable": false,
   "spread_chance": 0.1,
@@ -124,7 +124,7 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-		"mysticalagriculture:block/sky_stone_flower"
+        "mysticalagriculture:block/sky_stone_flower"
       ]
     ]
   },
