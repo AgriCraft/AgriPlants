@@ -4,6 +4,7 @@
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
+    "pneumaticcraft",
     "mysticalagriculture",
     "agricraft",
     "minecraft"
@@ -34,7 +35,6 @@
     14,
     16
   ],
-
   "harvestStage": 3,
   "growth_chance": 0.65,
   "growth_bonus": 0.025,
