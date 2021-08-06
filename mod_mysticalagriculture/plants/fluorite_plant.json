@@ -4,6 +4,7 @@
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
+    "mekanism"
     "mysticalagriculture",
     "agricraft",
     "minecraft"
