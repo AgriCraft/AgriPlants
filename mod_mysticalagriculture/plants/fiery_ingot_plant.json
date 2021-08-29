@@ -98,7 +98,7 @@
   },
   "callbacks": [],
   "texture": {
-    "render_type": "hash",
+    "render_type": "mysticalagriculture",
     "plant_models": [],
     "plant_textures": [
       [
