@@ -10,7 +10,7 @@
     "minecraft"
   ],
   "id": "arcanefundamentals:tarma_root_plant",
-  "plant_lang_key": "agricraft.plant.tarma_root.name",
+  "plant_lang_key": "block.mana-and-artifice.tarma_root",
   "seed_lang_key": "block.arcanefundamentals.tarma_root_crop",
   "desc_lang_key": "agricraft.plant.tarma_root.desc",
   "seed_items": [
