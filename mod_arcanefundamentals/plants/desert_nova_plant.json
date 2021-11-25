@@ -78,7 +78,7 @@
     "soil_humidity": {
       "condition": "arid",
       "type": "equal",
-      "tolerance_factor": 0.2
+      "tolerance_factor": 0.3
     },
     "soil_acidity": {
       "condition": "neutral",
