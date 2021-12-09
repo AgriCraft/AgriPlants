@@ -1,0 +1,29 @@
+{
+  "path": "mod_arcanefundamentals/soils/vinteum_powder_soil.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "mana-and-artifice",
+    "arcanefundamentals",
+    "minecraft"
+  ],
+  "id": "vinteum_powder_soil",
+  "lang_key": "agricraft.soil.vinteum_powder.name",
+  "varients": [
+    {
+      "type": "block",
+      "object": "arcanefundamentals:vinteum_powder",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
+  "humidity": "arid",
+  "acidity": "neutral",
+  "nutrients": "very_high",
+  "growth_modifier": 1.15
+}
