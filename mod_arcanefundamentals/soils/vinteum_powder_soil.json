@@ -1,5 +1,5 @@
 {
-  "path": "arcanefundamentals/soils/vinteum_powder_soil.json",
+  "path": "mod_arcanefundamentals/soils/vinteum_powder_soil.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
