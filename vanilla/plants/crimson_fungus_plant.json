@@ -94,7 +94,12 @@
       "ignoredData": []
     }
   },
-  "callbacks": [],
+  "callbacks": [
+    {
+      "id": "agricraft:fungus",
+      "fungus": "minecraft:crimson_fungus"
+    }
+  ],
   "texture": {
     "render_type": "plus",
     "plant_models": [],
