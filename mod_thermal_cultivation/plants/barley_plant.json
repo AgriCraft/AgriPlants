@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/barley_0"
+        "thermal:block/barley_0"
       ],
       [
-        "thermal:block/crops/barley_1"
+        "thermal:block/barley_1"
       ],
       [
-        "thermal:block/crops/barley_2"
+        "thermal:block/barley_2"
       ],
       [
-        "thermal:block/crops/barley_3"
+        "thermal:block/barley_3"
       ],
       [
-        "thermal:block/crops/barley_4"
+        "thermal:block/barley_4"
       ],
       [
-        "thermal:block/crops/barley_5"
+        "thermal:block/barley_5"
       ],
       [
-        "thermal:block/crops/barley_6"
+        "thermal:block/barley_6"
       ],
       [
-        "thermal:block/crops/barley_7"
+        "thermal:block/barley_7"
       ]
     ]
   },

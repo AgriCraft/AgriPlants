@@ -99,32 +99,32 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/corn_0"
+        "thermal:block/corn_0"
       ],
       [
-        "thermal:block/crops/corn_1"
+        "thermal:block/corn_1"
       ],
       [
-        "thermal:block/crops/corn_2"
+        "thermal:block/corn_2"
       ],
       [
-        "thermal:block/crops/corn_3"
+        "thermal:block/corn_3"
       ],
       [
-        "thermal:block/crops/corn_4_top",
-        "thermal:block/crops/corn_4"
+        "thermal:block/corn_4_top",
+        "thermal:block/corn_4"
       ],
       [
-        "thermal:block/crops/corn_5_top",
-        "thermal:block/crops/corn_5"
+        "thermal:block/corn_5_top",
+        "thermal:block/corn_5"
       ],
       [
-        "thermal:block/crops/corn_8_top",
-        "thermal:block/crops/corn_8"
+        "thermal:block/corn_8_top",
+        "thermal:block/corn_8"
       ],
       [
-        "thermal:block/crops/corn_9_top",
-        "thermal:block/crops/corn_9"
+        "thermal:block/corn_9_top",
+        "thermal:block/corn_9"
       ]
     ]
   },

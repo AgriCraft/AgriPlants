@@ -98,28 +98,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/eggplant_0"
+        "thermal:block/eggplant_0"
       ],
       [
-        "thermal:block/crops/eggplant_1"
+        "thermal:block/eggplant_1"
       ],
       [
-        "thermal:block/crops/eggplant_2"
+        "thermal:block/eggplant_2"
       ],
       [
-        "thermal:block/crops/eggplant_3"
+        "thermal:block/eggplant_3"
       ],
       [
-        "thermal:block/crops/eggplant_4"
+        "thermal:block/eggplant_4"
       ],
       [
-        "thermal:block/crops/eggplant_7"
+        "thermal:block/eggplant_7"
       ],
       [
-        "thermal:block/crops/eggplant_8"
+        "thermal:block/eggplant_8"
       ],
       [
-        "thermal:block/crops/eggplant_10"
+        "thermal:block/eggplant_10"
       ]
     ]
   },

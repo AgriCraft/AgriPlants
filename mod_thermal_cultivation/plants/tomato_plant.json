@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/tomato_0"
+        "thermal:block/tomato_0"
       ],
       [
-        "thermal:block/crops/tomato_1"
+        "thermal:block/tomato_1"
       ],
       [
-        "thermal:block/crops/tomato_3"
+        "thermal:block/tomato_3"
       ],
       [
-        "thermal:block/crops/tomato_4"
+        "thermal:block/tomato_4"
       ],
       [
-        "thermal:block/crops/tomato_5"
+        "thermal:block/tomato_5"
       ],
       [
-        "thermal:block/crops/tomato_6"
+        "thermal:block/tomato_6"
       ],
       [
-        "thermal:block/crops/tomato_9"
+        "thermal:block/tomato_9"
       ],
       [
-        "thermal:block/crops/tomato_10"
+        "thermal:block/tomato_10"
       ]
     ]
   },

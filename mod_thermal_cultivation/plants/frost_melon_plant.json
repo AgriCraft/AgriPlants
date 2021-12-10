@@ -120,7 +120,7 @@
       ],
       [
         "agricraft:plant/thermal/frost_melon4",
-        "thermal:block/crops/frost_melon_side"
+        "thermal:block/frost_melon_side"
       ]
     ]
   },

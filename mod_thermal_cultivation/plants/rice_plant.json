@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/rice_0"
+        "thermal:block/rice_0"
       ],
       [
-        "thermal:block/crops/rice_1"
+        "thermal:block/rice_1"
       ],
       [
-        "thermal:block/crops/rice_2"
+        "thermal:block/rice_2"
       ],
       [
-        "thermal:block/crops/rice_3"
+        "thermal:block/rice_3"
       ],
       [
-        "thermal:block/crops/rice_4"
+        "thermal:block/rice_4"
       ],
       [
-        "thermal:block/crops/rice_5"
+        "thermal:block/rice_5"
       ],
       [
-        "thermal:block/crops/rice_6"
+        "thermal:block/rice_6"
       ],
       [
-        "thermal:block/crops/rice_7"
+        "thermal:block/rice_7"
       ]
     ]
   },

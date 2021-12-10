@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/sadiroot_0"
+        "thermal:block/sadiroot_0"
       ],
       [
-        "thermal:block/crops/sadiroot_1"
+        "thermal:block/sadiroot_1"
       ],
       [
-        "thermal:block/crops/sadiroot_2"
+        "thermal:block/sadiroot_2"
       ],
       [
-        "thermal:block/crops/sadiroot_3"
+        "thermal:block/sadiroot_3"
       ],
       [
-        "thermal:block/crops/sadiroot_4"
+        "thermal:block/sadiroot_4"
       ],
       [
-        "thermal:block/crops/sadiroot_5"
+        "thermal:block/sadiroot_5"
       ],
       [
-        "thermal:block/crops/sadiroot_6"
+        "thermal:block/sadiroot_6"
       ],
       [
-        "thermal:block/crops/sadiroot_7"
+        "thermal:block/sadiroot_7"
       ]
     ]
   },

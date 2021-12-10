@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/coffee_0"
+        "thermal:block/coffee_0"
       ],
       [
-        "thermal:block/crops/coffee_1"
+        "thermal:block/coffee_1"
       ],
       [
-        "thermal:block/crops/coffee_2"
+        "thermal:block/coffee_2"
       ],
       [
-        "thermal:block/crops/coffee_3"
+        "thermal:block/coffee_3"
       ],
       [
-        "thermal:block/crops/coffee_4"
+        "thermal:block/coffee_4"
       ],
       [
-        "thermal:block/crops/coffee_8"
+        "thermal:block/coffee_8"
       ],
       [
-        "thermal:block/crops/coffee_9"
+        "thermal:block/coffee_9"
       ],
       [
-        "thermal:block/crops/coffee_10"
+        "thermal:block/coffee_10"
       ]
     ]
   },

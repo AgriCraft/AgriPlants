@@ -99,33 +99,33 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/hops_1"
+        "thermal:block/hops_1"
       ],
       [
-        "thermal:block/crops/hops_2"
+        "thermal:block/hops_2"
       ],
       [
-        "thermal:block/crops/hops_3"
+        "thermal:block/hops_3"
       ],
       [
-        "thermal:block/crops/hops_5_top",
-        "thermal:block/crops/hops_5"
+        "thermal:block/hops_5_top",
+        "thermal:block/hops_5"
       ],
       [
-        "thermal:block/crops/hops_6_top",
-        "thermal:block/crops/hops_6"
+        "thermal:block/hops_6_top",
+        "thermal:block/hops_6"
       ],
       [
-        "thermal:block/crops/hops_7_top",
-        "thermal:block/crops/hops_7"
+        "thermal:block/hops_7_top",
+        "thermal:block/hops_7"
       ],
       [
-        "thermal:block/crops/hops_8_top",
-        "thermal:block/crops/hops_8"
+        "thermal:block/hops_8_top",
+        "thermal:block/hops_8"
       ],
       [
-        "thermal:block/crops/hops_9_top",
-        "thermal:block/crops/hops_9"
+        "thermal:block/hops_9_top",
+        "thermal:block/hops_9"
       ]
     ]
   },

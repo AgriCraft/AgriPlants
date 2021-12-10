@@ -99,28 +99,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/green_bean_0"
+        "thermal:block/green_bean_0"
       ],
       [
-        "thermal:block/crops/green_bean_1"
+        "thermal:block/green_bean_1"
       ],
       [
-        "thermal:block/crops/green_bean_2"
+        "thermal:block/green_bean_2"
       ],
       [
-        "thermal:block/crops/green_bean_3"
+        "thermal:block/green_bean_3"
       ],
       [
-        "thermal:block/crops/green_bean_4"
+        "thermal:block/green_bean_4"
       ],
       [
-        "thermal:block/crops/green_bean_5"
+        "thermal:block/green_bean_5"
       ],
       [
-        "thermal:block/crops/green_bean_6"
+        "thermal:block/green_bean_6"
       ],
       [
-        "thermal:block/crops/green_bean_10"
+        "thermal:block/green_bean_10"
       ]
     ]
   },

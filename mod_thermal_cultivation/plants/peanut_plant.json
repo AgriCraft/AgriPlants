@@ -98,28 +98,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/peanut_1"
+        "thermal:block/peanut_1"
       ],
       [
-        "thermal:block/crops/peanut_3"
+        "thermal:block/peanut_3"
       ],
       [
-        "thermal:block/crops/peanut_4"
+        "thermal:block/peanut_4"
       ],
       [
-        "thermal:block/crops/peanut_5"
+        "thermal:block/peanut_5"
       ],
       [
-        "thermal:block/crops/peanut_6"
+        "thermal:block/peanut_6"
       ],
       [
-        "thermal:block/crops/peanut_8"
+        "thermal:block/peanut_8"
       ],
       [
-        "thermal:block/crops/peanut_9"
+        "thermal:block/peanut_9"
       ],
       [
-        "thermal:block/crops/peanut_10"
+        "thermal:block/peanut_10"
       ]
     ]
   },

@@ -98,28 +98,28 @@
     "plant_models": [],
     "plant_textures": [
       [
-        "thermal:block/crops/bell_pepper_0"
+        "thermal:block/bell_pepper_0"
       ],
       [
-        "thermal:block/crops/bell_pepper_1"
+        "thermal:block/bell_pepper_1"
       ],
       [
-        "thermal:block/crops/bell_pepper_2"
+        "thermal:block/bell_pepper_2"
       ],
       [
-        "thermal:block/crops/bell_pepper_3"
+        "thermal:block/bell_pepper_3"
       ],
       [
-        "thermal:block/crops/bell_pepper_4"
+        "thermal:block/bell_pepper_4"
       ],
       [
-        "thermal:block/crops/bell_pepper_5"
+        "thermal:block/bell_pepper_5"
       ],
       [
-        "thermal:block/crops/bell_pepper_6"
+        "thermal:block/bell_pepper_6"
       ],
       [
-        "thermal:block/crops/bell_pepper_10"
+        "thermal:block/bell_pepper_10"
       ]
     ]
   },
