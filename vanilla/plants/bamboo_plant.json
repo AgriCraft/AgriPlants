@@ -15,7 +15,7 @@
     {
       "overridePlanting": false,
       "type": "item",
-      "object": "minecraft:sugar_cane",
+      "object": "minecraft:bamboo",
       "useTag": false,
       "data": "",
       "ignoredData": [
