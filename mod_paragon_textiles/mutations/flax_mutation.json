@@ -1,0 +1,15 @@
+{
+  "path": "mod_paragon_textiles/mutations/flaw_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "paragon_textiles",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "paragon_textiles:flax_plant",
+  "parent1": "vanilla:bluet_plant",
+  "parent2": "vanilla:orchid_plant"
+}
