@@ -1,5 +1,5 @@
 {
-  "path": "resource/mutations/diamahlia_mutation.json",
+  "path": "resource/mutations/nethereed_mutation.json",
   "version": "1.16.4",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
   "enabled": true,
@@ -8,7 +8,7 @@
     "minecraft"
   ],
   "chance": 0.25,
-  "child": "resource:diamahlia_plant",
-  "parent1": "resource:amathyllis_plant",
-  "parent2": "resource:nitorwart_plant"
+  "child": "resource:nethereed_plant",
+  "parent1": "resource:emeryllis_plant",
+  "parent2": "resource:diamahlia_plant"
 }

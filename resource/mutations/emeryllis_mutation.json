@@ -9,6 +9,6 @@
   ],
   "chance": 1.0,
   "child": "resource:emeryllis_plant",
-  "parent1": "resource:aurigold_plant",
+  "parent1": "resource:amathyllis_plant",
   "parent2": "resource:quartzanthemum_plant"
 }
