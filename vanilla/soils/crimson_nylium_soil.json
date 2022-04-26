@@ -1,6 +1,6 @@
 {
   "path": "vanilla/soils/crimson_nylium_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -9,13 +9,14 @@
   ],
   "id": "crimson_nylium_soil",
   "lang_key": "agricraft.soil.crimson_nylium.name",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "minecraft:crimson_nylium",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

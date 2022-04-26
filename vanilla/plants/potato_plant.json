@@ -1,6 +1,6 @@
 {
   "path": "vanilla/plants/potato_plant.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -17,8 +17,8 @@
       "type": "item",
       "object": "minecraft:potato",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }
@@ -52,8 +52,8 @@
         "type": "item",
         "object": "minecraft:potato",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       },
       {
         "min": 1,
@@ -63,8 +63,8 @@
         "type": "item",
         "object": "minecraft:poisonous_potato",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -90,16 +90,27 @@
     "min_light": 10,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring"
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [],
@@ -131,7 +142,8 @@
       [
         "minecraft:block/potatoes_stage3"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "agricraft:seed/potato",
   "seed_model": "agricraft:seed/potato",

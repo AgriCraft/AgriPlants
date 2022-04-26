@@ -1,6 +1,6 @@
 {
   "path": "vanilla/weeds/weed_weed.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "enabled": true,
   "mods": [
     "agricraft",
@@ -45,6 +45,16 @@
     "min_light": 10,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring",
       "summer",
@@ -53,11 +63,12 @@
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "texture": {
@@ -88,6 +99,7 @@
       [
         "agricraft:block/weed_stage_3"
       ]
-    ]
+    ],
+    "journal_overrides": []
   }
 }

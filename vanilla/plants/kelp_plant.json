@@ -1,6 +1,6 @@
 {
   "path": "vanilla/plants/kelp_plant.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -41,8 +41,8 @@
         "type": "item",
         "object": "minecraft:kelp",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -68,6 +68,16 @@
     "min_light": 5,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring",
       "summer",
@@ -76,11 +86,12 @@
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:water",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [],
@@ -115,7 +126,8 @@
         "agricraft:plant/kelp",
         "minecraft:block/kelp_plant"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "agricraft:seed/kelp",
   "seed_model": "agricraft:seed/kelp",

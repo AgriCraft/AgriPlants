@@ -1,6 +1,6 @@
 {
   "path": "resource/plants/redstodendron_plant.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -41,8 +41,8 @@
         "type": "item",
         "object": "minecraft:redstone",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -68,6 +68,16 @@
     "min_light": 10,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring"
     ],
@@ -81,19 +91,21 @@
         "max_x": 0,
         "max_y": -2,
         "max_z": 0,
+        "stateDefinition": [],
         "type": "block",
         "object": "forge:ores/redstone",
         "useTag": true,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [
@@ -127,7 +139,8 @@
       [
         "agricraft:plant/redstodendron4"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "agricraft:seed/redstodendron",
   "seed_model": "agricraft:seed/redstodendron",

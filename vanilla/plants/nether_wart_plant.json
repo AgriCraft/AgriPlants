@@ -1,6 +1,6 @@
 {
   "path": "vanilla/plants/nether_wart_plant.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -17,8 +17,8 @@
       "type": "item",
       "object": "minecraft:nether_wart",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }
@@ -52,8 +52,8 @@
         "type": "item",
         "object": "minecraft:nether_wart",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -79,6 +79,16 @@
     "min_light": 0,
     "max_light": 8,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring",
       "summer",
@@ -87,11 +97,12 @@
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [],
@@ -123,7 +134,8 @@
       [
         "minecraft:block/nether_wart_stage2"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "agricraft:seed/nether_wart",
   "seed_model": "agricraft:seed/nether_wart",

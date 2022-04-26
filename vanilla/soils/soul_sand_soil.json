@@ -1,6 +1,6 @@
 {
   "path": "vanilla/soils/soul_sand_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -9,13 +9,14 @@
   ],
   "id": "soul_sand_soil",
   "lang_key": "agricraft.soil.soul_sand.name",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "minecraft:soul_sand",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

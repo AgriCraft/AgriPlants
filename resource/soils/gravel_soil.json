@@ -1,6 +1,6 @@
 {
   "path": "resource/soils/gravel_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -9,13 +9,14 @@
   ],
   "id": "gravel_soil",
   "lang_key": "agricraft.soil.gravel.name",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "forge:gravel",
       "useTag": true,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }
