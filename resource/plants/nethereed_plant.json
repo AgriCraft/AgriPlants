@@ -84,8 +84,8 @@
         "max_z": 0,
         "stateDefinition": [],
         "type": "block",
-        "object": "forge:ores/netherite",
-        "useTag": true,
+        "object": "minecraft:ancient_debris",
+        "useTag": false,
         "nbt": "",
         "ignoredNbt": []
       }
