@@ -74,8 +74,8 @@
       "ignoreFromStrength": 11
     },
     "dimensions": {
-      "values": [],
-      "blacklist": true,
+      "values": ["minecraft:the_nether"],
+      "blacklist": false,
       "ignoreFromStrength": 11
     },
     "seasons": [
