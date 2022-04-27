@@ -81,7 +81,12 @@
       "ignoredData": []
     }
   },
-  "callbacks": [],
+  "callbacks": [
+    {
+      "id": "agricraft:botania_mana",
+      "cost": 100
+    }
+  ],
   "texture": {
     "render_type": "plus",
     "plant_models": [],
