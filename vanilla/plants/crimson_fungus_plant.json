@@ -111,6 +111,7 @@
       "fungus": "minecraft:crimson_fungus"
     }
   ],
+  "structure_generation": [],
   "texture": {
     "render_type": "plus",
     "plant_models": [],

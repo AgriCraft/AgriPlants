@@ -109,6 +109,7 @@
     }
   },
   "callbacks": [],
+  "structure_generation": [],
   "texture": {
     "render_type": "plus",
     "plant_models": [],

@@ -74,7 +74,9 @@
       "ignoreFromStrength": 11
     },
     "dimensions": {
-      "values": ["minecraft:the_nether"],
+      "values": [
+        "minecraft:the_nether"
+      ],
       "blacklist": false,
       "ignoreFromStrength": 11
     },
@@ -113,6 +115,7 @@
     "agricraft:bushy",
     "agricraft:burn"
   ],
+  "structure_generation": [],
   "texture": {
     "render_type": "hash",
     "plant_models": [],

@@ -114,6 +114,7 @@
   "callbacks": [
     "agricraft:brightness"
   ],
+  "structure_generation": [],
   "texture": {
     "render_type": "hash",
     "plant_models": [],
