@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/violet_leather_flower_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:violet_leather_flower_plant",
+  "parent1": "byg:peach_leather_flower_plant",
+  "parent2": "byg:purple_orchid_plant"
+}

@@ -1,0 +1,28 @@
+{
+  "path": "mod_byg/soils/embur_nylium_soil.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "id": "byg:embur_nylium_soil",
+  "lang_key": "block.byg.embur_nylium",
+  "varients": [
+    {
+      "type": "block",
+      "object": "byg:embur_nylium",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
+  "humidity": "arid",
+  "acidity": "alkaline",
+  "nutrients": "low",
+  "growth_modifier": 0.75
+}

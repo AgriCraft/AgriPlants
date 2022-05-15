@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/green_mushroom_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:green_mushroom_plant",
+  "parent1": "vanilla:brown_mushroom_plant",
+  "parent2": "byg:green_tulip_plant"
+}

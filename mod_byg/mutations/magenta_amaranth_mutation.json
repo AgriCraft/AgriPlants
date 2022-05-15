@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/magenta_amaranth_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:magenta_amaranth_plant",
+  "parent1": "byg:pink_orchid_plant",
+  "parent2": "byg:amaranth_plant"
+}

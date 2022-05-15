@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/imparius_mushroom_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:imparius_mushroom_plant",
+  "parent1": "vanilla:warped_fungus_plant",
+  "parent2": "byg:protea_flower_plant"
+}

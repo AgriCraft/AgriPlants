@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/lolipop_flower_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:lolipop_flower_plant",
+  "parent1": "byg:orange_amaranth_plant",
+  "parent2": "vanilla:dandelion_plant"
+}

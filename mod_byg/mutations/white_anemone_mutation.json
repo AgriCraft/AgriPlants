@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/white_anemone_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:white_anemone_plant",
+  "parent1": "byg:snowdrops_plant",
+  "parent2": "vanilla:bluet_plant"
+}

@@ -1,0 +1,15 @@
+{
+  "path": "mod_byg/mutations/winter_rose_mutation.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:winter_rose_plant",
+  "parent1": "byg:rose_plant",
+  "parent2": "byg:snowdrops_plant"
+}

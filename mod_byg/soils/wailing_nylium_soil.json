@@ -1,0 +1,28 @@
+{
+  "path": "mod_byg/soils/wailing_nylium_soil.json",
+  "version": "1.16.4",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "id": "byg:wailing_nylium_soil",
+  "lang_key": "block.byg.wailing_nylium",
+  "varients": [
+    {
+      "type": "block",
+      "object": "byg:wailing_nylium",
+      "useTag": false,
+      "data": "",
+      "ignoredData": [
+        "*"
+      ]
+    }
+  ],
+  "humidity": "arid",
+  "acidity": "slightly_alkaline",
+  "nutrients": "average",
+  "growth_modifier": 0.75
+}
