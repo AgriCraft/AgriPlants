@@ -1,0 +1,16 @@
+{
+  "path": "mod_croptopia/mutations/mustard_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "croptopia",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "croptopia:mustard_plant",
+  "parent1": "croptopia:chile_pepper_plant",
+  "parent2": "croptopia:greenbean_plant",
+  "conditions": []
+}

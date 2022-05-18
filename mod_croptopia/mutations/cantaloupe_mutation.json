@@ -1,0 +1,16 @@
+{
+  "path": "mod_croptopia/mutations/cantaloupe_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "croptopia",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "croptopia:cantaloupe_plant",
+  "parent1": "minecraft:melon_plant",
+  "parent2": "croptopia:strawberry_plant",
+  "conditions": []
+}

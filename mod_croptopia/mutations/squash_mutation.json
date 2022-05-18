@@ -1,0 +1,16 @@
+{
+  "path": "mod_croptopia/mutations/squash_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "croptopia",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "croptopia:squash_plant",
+  "parent1": "croptopia:eggplant_plant",
+  "parent2": "minecraft:pumpkin_plant",
+  "conditions": []
+}

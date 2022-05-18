@@ -1,0 +1,16 @@
+{
+  "path": "mod_croptopia/mutations/rhubarb_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "croptopia",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "croptopia:rhubarb_plant",
+  "parent1": "minecraft:sugarcane_plant",
+  "parent2": "croptopia:lettuce_plant",
+  "conditions": []
+}
