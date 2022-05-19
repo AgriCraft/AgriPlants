@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/sugarcane_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "minecraft:sugarcane_plant",
+  "parent1": "minecraft:wheat_plant",
+  "parent2": "minecraft:beet_root_plant",
+  "conditions": []
+}

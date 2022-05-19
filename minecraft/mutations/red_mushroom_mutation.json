@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/red_mushroom_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "minecraft:red_mushroom_plant",
+  "parent1": "minecraft:potato_plant",
+  "parent2": "minecraft:carrot_plant",
+  "conditions": []
+}

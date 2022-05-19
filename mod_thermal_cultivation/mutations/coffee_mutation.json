@@ -1,6 +1,6 @@
 {
-  "path": "mod_thermal/mutations/coffee_mutation.json",
-  "version": "1.16.4",
+  "path": "mod_thermal_cultivation/mutations/coffee_mutation.json",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
   "enabled": true,
   "mods": [
@@ -11,5 +11,6 @@
   "chance": 0.5,
   "child": "thermal:coffee_plant",
   "parent1": "thermal:corn_plant",
-  "parent2": "thermal:peanut_plant"
+  "parent2": "thermal:peanut_plant",
+  "conditions": []
 }

@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/orchid_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:orchid_plant",
+  "parent1": "minecraft:poppy_plant",
+  "parent2": "minecraft:dandelion_plant",
+  "conditions": []
+}

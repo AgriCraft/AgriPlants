@@ -1,0 +1,15 @@
+{
+  "path": "mod_agricraft/mutations/diamahlia_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.25,
+  "child": "agricraft:diamahlia_plant",
+  "parent1": "agricraft:amathyllis_plant",
+  "parent2": "agricraft:nitorwart_plant",
+  "conditions": []
+}

@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/lily_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:lily_plant",
+  "parent1": "minecraft:white_tulip_plant",
+  "parent2": "minecraft:daisy_plant",
+  "conditions": []
+}

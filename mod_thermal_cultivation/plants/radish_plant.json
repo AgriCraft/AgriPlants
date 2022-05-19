@@ -1,6 +1,6 @@
 {
-  "path": "mod_thermal/plants/radish_plant.json",
-  "version": "1.16.4",
+  "path": "mod_thermal_cultivation/plants/radish_plant.json",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -18,8 +18,8 @@
       "type": "item",
       "object": "thermal:radish_seeds",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }
@@ -53,8 +53,8 @@
         "type": "item",
         "object": "thermal:radish",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -80,19 +80,31 @@
     "min_light": 10,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "summer"
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [],
+  "structure_generation": [],
   "texture": {
     "render_type": "cross",
     "plant_models": [],
@@ -121,7 +133,8 @@
       [
         "thermal:block/radish_7"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "thermal:item/radish_seeds",
   "seed_model": "thermal:item/radish_seeds",

@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/cornflower_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:cornflower_plant",
+  "parent1": "minecraft:orchid_plant",
+  "parent2": "minecraft:lily_plant",
+  "conditions": []
+}

@@ -10,7 +10,7 @@
   ],
   "chance": 0.5,
   "child": "immersiveengineering:hemp_plant",
-  "parent1": "vanilla:pumpkin_plant",
-  "parent2": "vanilla:wheat_plant",
+  "parent1": "minecraft:pumpkin_plant",
+  "parent2": "minecraft:wheat_plant",
   "conditions": []
 }

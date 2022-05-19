@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/soil/prudentium_farmland_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -10,13 +10,14 @@
   ],
   "id": "prudentium_farmland_soil",
   "lang_key": "block.mysticalagriculture.prudentium_farmland",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "mysticalagriculture:prudentium_farmland",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

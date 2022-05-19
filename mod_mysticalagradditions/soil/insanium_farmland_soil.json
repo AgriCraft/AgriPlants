@@ -4,7 +4,7 @@
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
-	"mysticalagradditions",
+    "mysticalagradditions",
     "mysticalagriculture",
     "agricraft",
     "minecraft"

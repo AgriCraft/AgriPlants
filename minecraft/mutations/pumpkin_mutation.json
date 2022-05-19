@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/pumpkin_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.25,
+  "child": "minecraft:pumpkin_plant",
+  "parent1": "minecraft:carrot_plant",
+  "parent2": "minecraft:potato_plant",
+  "conditions": []
+}

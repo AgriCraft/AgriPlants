@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/bluet_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:bluet_plant",
+  "parent1": "minecraft:dandelion_plant",
+  "parent2": "minecraft:lily_plant",
+  "conditions": []
+}

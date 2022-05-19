@@ -1,0 +1,15 @@
+{
+  "path": "mod_agricraft/mutations/lapender_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.25,
+  "child": "agricraft:lapender_plant",
+  "parent1": "agricraft:ferranium_plant",
+  "parent2": "minecraft:cornflower_plant",
+  "conditions": []
+}

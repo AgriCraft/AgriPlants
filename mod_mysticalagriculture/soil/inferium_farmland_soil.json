@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/soil/inferium_farmland_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -10,13 +10,14 @@
   ],
   "id": "inferium_farmland_soil",
   "lang_key": "block.mysticalagriculture.inferium_farmland",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "mysticalagriculture:inferium_farmland",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

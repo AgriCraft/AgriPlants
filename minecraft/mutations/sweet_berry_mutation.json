@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/sweet_berry_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:sweet_berry_plant",
+  "parent1": "minecraft:sugarcane_plant",
+  "parent2": "minecraft:beet_root_plant",
+  "conditions": []
+}

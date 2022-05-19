@@ -1,0 +1,15 @@
+{
+  "path": "minecraft/mutations/orange_tulip_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.75,
+  "child": "minecraft:orange_tulip_plant",
+  "parent1": "minecraft:daisy_plant",
+  "parent2": "minecraft:orchid_plant",
+  "conditions": []
+}

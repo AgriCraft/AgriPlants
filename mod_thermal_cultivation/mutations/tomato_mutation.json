@@ -1,6 +1,6 @@
 {
-  "path": "mod_thermal/mutations/tomato_mutation.json",
-  "version": "1.16.4",
+  "path": "mod_thermal_cultivation/mutations/tomato_mutation.json",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
   "enabled": true,
   "mods": [
@@ -10,6 +10,7 @@
   ],
   "chance": 0.5,
   "child": "thermal:tomato_plant",
-  "parent1": "vanilla:wheat_plant",
-  "parent2": "vanilla:beet_root_plant"
+  "parent1": "minecraft:wheat_plant",
+  "parent2": "minecraft:beet_root_plant",
+  "conditions": []
 }

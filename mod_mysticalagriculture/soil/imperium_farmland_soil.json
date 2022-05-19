@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagriculture/soil/imperium_farmland_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -10,13 +10,14 @@
   ],
   "id": "imperium_farmland_soil",
   "lang_key": "block.mysticalagriculture.imperium_farmland",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "mysticalagriculture:imperium_farmland",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

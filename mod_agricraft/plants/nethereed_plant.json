@@ -1,0 +1,161 @@
+{
+  "path": "mod_agricraft/plants/nethereed_plant.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "id": "agricraft:nethereed_plant",
+  "plant_lang_key": "agricraft.plant.nethereed.name",
+  "seed_lang_key": "agricraft.plant.nethereed.seed",
+  "desc_lang_key": "agricraft.plant.nethereed.desc",
+  "seed_items": [],
+  "stages": [
+    18,
+    20,
+    20,
+    24,
+    24,
+    28,
+    28,
+    32
+  ],
+  "harvestStage": 0,
+  "growth_chance": 0.15,
+  "growth_bonus": 0.015,
+  "tier": 5,
+  "cloneable": false,
+  "spread_chance": 0.025,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": []
+  },
+  "clip_products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 1,
+        "chance": 0.25,
+        "required": true,
+        "type": "item",
+        "object": "agricraft:netherite_sliver",
+        "useTag": false,
+        "nbt": "",
+        "ignoredNbt": []
+      }
+    ]
+  },
+  "requirement": {
+    "soil_humidity": {
+      "condition": "arid",
+      "type": "equal",
+      "tolerance_factor": 0.15
+    },
+    "soil_acidity": {
+      "condition": "neutral",
+      "type": "equal",
+      "tolerance_factor": 0.2
+    },
+    "soil_nutrients": {
+      "condition": "high",
+      "type": "equal_or_higher",
+      "tolerance_factor": 0.1
+    },
+    "min_light": 14,
+    "max_light": 16,
+    "light_tolerance_factor": 0.25,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [
+        "minecraft:the_nether"
+      ],
+      "blacklist": false,
+      "ignoreFromStrength": 11
+    },
+    "seasons": [
+      "summer"
+    ],
+    "conditions": [
+      {
+        "strength": 11,
+        "amount": 1,
+        "min_x": 0,
+        "min_y": -2,
+        "min_z": 0,
+        "max_x": 0,
+        "max_y": -2,
+        "max_z": 0,
+        "stateDefinition": [],
+        "type": "block",
+        "object": "minecraft:ancient_debris",
+        "useTag": false,
+        "nbt": "",
+        "ignoredNbt": []
+      }
+    ],
+    "fluid": {
+      "stateDefinition": [],
+      "type": "fluid",
+      "object": "minecraft:lava",
+      "useTag": false,
+      "nbt": "",
+      "ignoredNbt": []
+    }
+  },
+  "callbacks": [
+    "agricraft:thorns",
+    "agricraft:bushy",
+    "agricraft:burn"
+  ],
+  "structure_generation": [],
+  "texture": {
+    "render_type": "hash",
+    "plant_models": [],
+    "plant_textures": [
+      [
+        "agricraft:plant/nethereed_1_top",
+        "agricraft:plant/nethereed_1_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_2_top",
+        "agricraft:plant/nethereed_2_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_2_top",
+        "agricraft:plant/nethereed_2_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_3_top",
+        "agricraft:plant/nethereed_3_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_3_top",
+        "agricraft:plant/nethereed_3_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_4_top",
+        "agricraft:plant/nethereed_4_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_4_top",
+        "agricraft:plant/nethereed_4_bot"
+      ],
+      [
+        "agricraft:plant/nethereed_5_top",
+        "agricraft:plant/nethereed_5_bot"
+      ]
+    ],
+    "journal_overrides": []
+  },
+  "seed_texture": "agricraft:seed/nethereed",
+  "seed_model": "agricraft:seed/nethereed",
+  "particle_effects": []
+}

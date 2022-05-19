@@ -1,0 +1,15 @@
+{
+  "path": "mod_agricraft/mutations/redstodendron_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 1.0,
+  "child": "agricraft:redstodendron_plant",
+  "parent1": "agricraft:ferranium_plant",
+  "parent2": "agricraft:lapender_plant",
+  "conditions": []
+}

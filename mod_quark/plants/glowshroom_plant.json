@@ -1,6 +1,6 @@
 {
   "path": "mod_quark/plants/glowshroom_plant.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_plant/",
   "enabled": true,
   "mods": [
@@ -18,8 +18,8 @@
       "type": "item",
       "object": "quark:glowshroom",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }
@@ -53,8 +53,8 @@
         "type": "item",
         "object": "quark:glowshroom",
         "useTag": false,
-        "data": "",
-        "ignoredData": []
+        "nbt": "",
+        "ignoredNbt": []
       }
     ]
   },
@@ -80,6 +80,16 @@
     "min_light": 0,
     "max_light": 16,
     "light_tolerance_factor": 0.5,
+    "biomes": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
+    "dimensions": {
+      "values": [],
+      "blacklist": true,
+      "ignoreFromStrength": 11
+    },
     "seasons": [
       "spring",
       "summer",
@@ -88,16 +98,18 @@
     ],
     "conditions": [],
     "fluid": {
+      "stateDefinition": [],
       "type": "fluid",
       "object": "minecraft:empty",
       "useTag": false,
-      "data": "",
-      "ignoredData": []
+      "nbt": "",
+      "ignoredNbt": []
     }
   },
   "callbacks": [
     "agricraft:brightness"
   ],
+  "structure_generation": [],
   "texture": {
     "render_type": "hash",
     "plant_models": [],
@@ -126,7 +138,8 @@
       [
         "agricraft:plant/quark/glowshroom4"
       ]
-    ]
+    ],
+    "journal_overrides": []
   },
   "seed_texture": "agricraft:seed/quark/glowshroom",
   "seed_model": "agricraft:seed/quark/glowshroom",

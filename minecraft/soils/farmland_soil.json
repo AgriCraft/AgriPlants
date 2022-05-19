@@ -1,0 +1,28 @@
+{
+  "path": "minecraft/soils/farmland_soil.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "id": "farmland_soil",
+  "lang_key": "agricraft.soil.farmland.name",
+  "variants": [
+    {
+      "stateDefinition": [],
+      "type": "block",
+      "object": "minecraft:farmland",
+      "useTag": false,
+      "nbt": "",
+      "ignoredNbt": [
+        "*"
+      ]
+    }
+  ],
+  "humidity": "wet",
+  "acidity": "slightly_acidic",
+  "nutrients": "high",
+  "growth_modifier": 1.0
+}

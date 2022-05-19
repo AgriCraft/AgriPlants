@@ -1,0 +1,15 @@
+{
+  "path": "mod_agricraft/mutations/carbonation_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.25,
+  "child": "agricraft:carbonation_plant",
+  "parent1": "agricraft:lapender_plant",
+  "parent2": "minecraft:wither_rose_plant",
+  "conditions": []
+}
