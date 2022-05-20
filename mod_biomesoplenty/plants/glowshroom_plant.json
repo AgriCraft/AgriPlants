@@ -106,8 +106,28 @@
       "ignoredNbt": []
     }
   },
-  "callbacks": [],
-  "structure_generation": [],
+  "callbacks": [
+    "agricraft:brightness"
+  ],
+  "structure_generation": [
+    {
+      "structures": [
+        "agricraft:village/desert/greenhouse",
+        "agricraft:village/plains/greenhouse",
+        "agricraft:village/savanna/greenhouse",
+        "agricraft:village/snowy/greenhouse",
+        "agricraft:village/taiga/greenhouse",
+        "agricraft:village/desert/greenhouse_irrigated",
+        "agricraft:village/plains/greenhouse_irrigated",
+        "agricraft:village/savanna/greenhouse_irrigated",
+        "agricraft:village/snowy/greenhouse_irrigated",
+        "agricraft:village/taiga/greenhouse_irrigated"
+      ],
+      "weight": 10,
+      "statsMin": 1,
+      "statsMax": 10
+    }
+  ],
   "texture": {
     "render_type": "cross",
     "plant_models": [],
