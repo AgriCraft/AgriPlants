@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/knightmetal_flower"
+        "mysticalagriculture:block/flower/knightmetal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/knightmetal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/knightmetal_seeds",
   "seed_model": "mysticalagriculture:item/knightmetal_seeds",
   "particle_effects": []
 }

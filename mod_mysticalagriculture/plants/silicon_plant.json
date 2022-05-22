@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/silicon_flower"
+        "mysticalagriculture:block/flower/silicon_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/silicon_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/silicon_seeds",
   "seed_model": "mysticalagriculture:item/silicon_seeds",
   "particle_effects": []
 }

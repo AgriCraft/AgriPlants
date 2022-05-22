@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/energized_steel_flower"
+        "mysticalagriculture:block/flower/energized_steel_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/energized_steel_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/energized_steel_seeds",
   "seed_model": "mysticalagriculture:item/energized_steel_seeds",
   "particle_effects": []
 }

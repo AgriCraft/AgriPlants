@@ -140,7 +140,7 @@
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/uranium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/uranium_seeds",
   "seed_model": "mysticalagriculture:item/uranium_seeds",
   "particle_effects": []
 }

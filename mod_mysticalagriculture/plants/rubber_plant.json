@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/rubber_flower"
+        "mysticalagriculture:block/flower/rubber_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/rubber_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/rubber_seeds",
   "seed_model": "mysticalagriculture:item/rubber_seeds",
   "particle_effects": []
 }

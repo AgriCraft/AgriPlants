@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/ice_flower"
+        "mysticalagriculture:block/flower/ice_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/ice_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/ice_seeds",
   "seed_model": "mysticalagriculture:item/ice_seeds",
   "particle_effects": []
 }

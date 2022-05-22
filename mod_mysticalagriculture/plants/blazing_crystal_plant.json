@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/blazing_crystal_flower"
+        "mysticalagriculture:block/flower/blazing_crystal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/blazing_crystal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/blazing_crystal_seeds",
   "seed_model": "mysticalagriculture:item/blazing_crystal_seeds",
   "particle_effects": []
 }

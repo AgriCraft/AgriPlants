@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/dye_flower"
+        "mysticalagriculture:block/flower/dye_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/dye_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/dye_seeds",
   "seed_model": "mysticalagriculture:item/dye_seeds",
   "particle_effects": []
 }

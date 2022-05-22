@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/ironwood_flower"
+        "mysticalagriculture:block/flower/ironwood_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/ironwood_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/ironwood_seeds",
   "seed_model": "mysticalagriculture:item/ironwood_seeds",
   "particle_effects": []
 }

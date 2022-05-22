@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/coral_flower"
+        "mysticalagriculture:block/flower/coral_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/coral_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/coral_seeds",
   "seed_model": "mysticalagriculture:item/coral_seeds",
   "particle_effects": []
 }

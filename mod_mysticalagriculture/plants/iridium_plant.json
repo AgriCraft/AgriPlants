@@ -140,7 +140,7 @@
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/iridium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/iridium_seeds",
   "seed_model": "mysticalagriculture:item/iridium_seeds",
   "particle_effects": []
 }

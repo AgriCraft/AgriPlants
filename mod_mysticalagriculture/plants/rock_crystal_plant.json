@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/rock_crystal_flower"
+        "mysticalagriculture:block/flower/rock_crystal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/rock_crystal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/rock_crystal_seeds",
   "seed_model": "mysticalagriculture:item/rock_crystal_seeds",
   "particle_effects": []
 }

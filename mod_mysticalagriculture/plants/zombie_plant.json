@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/zombie_flower"
+        "mysticalagriculture:block/flower/zombie_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/zombie_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/zombie_seeds",
   "seed_model": "mysticalagriculture:item/zombie_seeds",
   "particle_effects": []
 }

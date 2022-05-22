@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/nether_flower"
+        "mysticalagriculture:block/flower/nether_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/nether_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/nether_seeds",
   "seed_model": "mysticalagriculture:item/nether_seeds",
   "particle_effects": []
 }

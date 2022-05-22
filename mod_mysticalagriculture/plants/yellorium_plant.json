@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/yellorium_flower"
+        "mysticalagriculture:block/flower/yellorium_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/yellorium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/yellorium_seeds",
   "seed_model": "mysticalagriculture:item/yellorium_seeds",
   "particle_effects": []
 }

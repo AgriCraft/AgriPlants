@@ -9,14 +9,14 @@
     "minecraft"
   ],
   "id": "quark:glowshroom_plant",
-  "plant_lang_key": "block.quark.glowshroom",
-  "seed_lang_key": "block.quark.glowshroom",
+  "plant_lang_key": "block.quark.glow_shroom",
+  "seed_lang_key": "block.quark.glow_shroom",
   "desc_lang_key": "agricraft.plant.quark_glowshroom.desc",
   "seed_items": [
     {
       "overridePlanting": true,
       "type": "item",
-      "object": "quark:glowshroom",
+      "object": "quark:glow_shroom",
       "useTag": false,
       "nbt": "",
       "ignoredNbt": [
@@ -51,7 +51,7 @@
         "chance": 0.95,
         "required": true,
         "type": "item",
-        "object": "quark:glowshroom",
+        "object": "quark:glow_shroom",
         "useTag": false,
         "nbt": "",
         "ignoredNbt": []

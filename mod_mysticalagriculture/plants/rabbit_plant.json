@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/rabbit_flower"
+        "mysticalagriculture:block/flower/rabbit_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/rabbit_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/rabbit_seeds",
   "seed_model": "mysticalagriculture:item/rabbit_seeds",
   "particle_effects": []
 }

@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/ghast_flower"
+        "mysticalagriculture:block/flower/ghast_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/ghast_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/ghast_seeds",
   "seed_model": "mysticalagriculture:item/ghast_seeds",
   "particle_effects": []
 }

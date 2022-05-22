@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/hop_graphite_flower"
+        "mysticalagriculture:block/flower/hop_graphite_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/hop_graphite_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/hop_graphite_seeds",
   "seed_model": "mysticalagriculture:item/hop_graphite_seeds",
   "particle_effects": []
 }

@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/redstone_flower"
+        "mysticalagriculture:block/flower/redstone_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/redstone_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/redstone_seeds",
   "seed_model": "mysticalagriculture:item/redstone_seeds",
   "particle_effects": []
 }

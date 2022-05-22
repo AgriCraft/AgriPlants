@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/uraninite_flower"
+        "mysticalagriculture:block/flower/uraninite_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/uraninite_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/uraninite_seeds",
   "seed_model": "mysticalagriculture:item/uraninite_seeds",
   "particle_effects": []
 }

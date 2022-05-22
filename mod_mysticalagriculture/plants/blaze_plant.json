@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/blaze_flower"
+        "mysticalagriculture:block/flower/blaze_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/blaze_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/blaze_seeds",
   "seed_model": "mysticalagriculture:item/blaze_seeds",
   "particle_effects": []
 }

@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/signalum_flower"
+        "mysticalagriculture:block/flower/signalum_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/signalum_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/signalum_seeds",
   "seed_model": "mysticalagriculture:item/signalum_seeds",
   "particle_effects": []
 }

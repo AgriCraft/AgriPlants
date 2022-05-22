@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/sulfur_flower"
+        "mysticalagriculture:block/flower/sulfur_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/sulfur_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/sulfur_seeds",
   "seed_model": "mysticalagriculture:item/sulfur_seeds",
   "particle_effects": []
 }

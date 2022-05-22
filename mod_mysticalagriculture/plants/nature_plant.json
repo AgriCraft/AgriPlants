@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/nature_flower"
+        "mysticalagriculture:block/flower/nature_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/nature_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/nature_seeds",
   "seed_model": "mysticalagriculture:item/nature_seeds",
   "particle_effects": []
 }

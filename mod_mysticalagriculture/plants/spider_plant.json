@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/spider_flower"
+        "mysticalagriculture:block/flower/spider_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/spider_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/spider_seeds",
   "seed_model": "mysticalagriculture:item/spider_seeds",
   "particle_effects": []
 }

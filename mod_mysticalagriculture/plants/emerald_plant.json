@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/emerald_flower"
+        "mysticalagriculture:block/flower/emerald_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/emerald_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/emerald_seeds",
   "seed_model": "mysticalagriculture:item/emerald_seeds",
   "particle_effects": []
 }

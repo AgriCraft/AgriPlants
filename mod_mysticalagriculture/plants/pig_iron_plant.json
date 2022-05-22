@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/pig_iron_flower"
+        "mysticalagriculture:block/flower/pig_iron_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/pig_iron_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/pig_iron_seeds",
   "seed_model": "mysticalagriculture:item/pig_iron_seeds",
   "particle_effects": []
 }

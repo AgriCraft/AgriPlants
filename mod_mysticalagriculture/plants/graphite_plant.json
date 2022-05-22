@@ -140,7 +140,7 @@
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/graphite_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/graphite_seeds",
   "seed_model": "mysticalagriculture:item/graphite_seeds",
   "particle_effects": []
 }

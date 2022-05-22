@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/platinum_flower"
+        "mysticalagriculture:block/flower/platinum_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/platinum_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/platinum_seeds",
   "seed_model": "mysticalagriculture:item/platinum_seeds",
   "particle_effects": []
 }

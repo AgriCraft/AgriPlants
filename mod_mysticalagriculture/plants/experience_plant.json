@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/experience_flower"
+        "mysticalagriculture:block/flower/experience_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/experience_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/experience_seeds",
   "seed_model": "mysticalagriculture:item/experience_seeds",
   "particle_effects": []
 }

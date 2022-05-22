@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/marble_flower"
+        "mysticalagriculture:block/flower/marble_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/marble_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/marble_seeds",
   "seed_model": "mysticalagriculture:item/marble_seeds",
   "particle_effects": []
 }

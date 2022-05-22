@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/terrasteel_flower"
+        "mysticalagriculture:block/flower/terrasteel_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/terrasteel_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/terrasteel_seeds",
   "seed_model": "mysticalagriculture:item/terrasteel_seeds",
   "particle_effects": []
 }

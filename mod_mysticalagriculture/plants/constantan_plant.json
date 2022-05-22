@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/constantan_flower"
+        "mysticalagriculture:block/flower/constantan_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/constantan_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/constantan_seeds",
   "seed_model": "mysticalagriculture:item/constantan_seeds",
   "particle_effects": []
 }

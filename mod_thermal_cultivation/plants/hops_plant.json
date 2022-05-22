@@ -8,7 +8,7 @@
     "agricraft",
     "minecraft"
   ],
-  "id": "thermal:spinach_plant",
+  "id": "thermal:hops_plant",
   "plant_lang_key": "item.thermal.hops",
   "seed_lang_key": "item.thermal.hops_seeds",
   "desc_lang_key": "agricraft.plant.thermal_hops.desc",

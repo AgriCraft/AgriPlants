@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/starmetal_flower"
+        "mysticalagriculture:block/flower/starmetal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/starmetal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/starmetal_seeds",
   "seed_model": "mysticalagriculture:item/starmetal_seeds",
   "particle_effects": []
 }

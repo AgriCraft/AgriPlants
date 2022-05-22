@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/spirited_crystal_flower"
+        "mysticalagriculture:block/flower/spirited_crystal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/spirited_crystal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/spirited_crystal_seeds",
   "seed_model": "mysticalagriculture:item/spirited_crystal_seeds",
   "particle_effects": []
 }

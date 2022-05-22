@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/basalz_flower"
+        "mysticalagriculture:block/flower/basalz_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/basalz_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/basalz_seeds",
   "seed_model": "mysticalagriculture:item/basalz_seeds",
   "particle_effects": []
 }

@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/silver_flower"
+        "mysticalagriculture:block/flower/silver_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/silver_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/silver_seeds",
   "seed_model": "mysticalagriculture:item/silver_seeds",
   "particle_effects": []
 }

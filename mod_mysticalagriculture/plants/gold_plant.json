@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/gold_flower"
+        "mysticalagriculture:block/flower/gold_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/gold_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/gold_seeds",
   "seed_model": "mysticalagriculture:item/gold_seeds",
   "particle_effects": []
 }

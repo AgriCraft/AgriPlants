@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/quartz_enriched_iron_flower"
+        "mysticalagriculture:block/flower/quartz_enriched_iron_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/quartz_enriched_iron_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/quartz_enriched_iron_seeds",
   "seed_model": "mysticalagriculture:item/quartz_enriched_iron_seeds",
   "particle_effects": []
 }

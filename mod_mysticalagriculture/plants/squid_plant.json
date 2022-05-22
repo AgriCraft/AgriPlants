@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/squid_flower"
+        "mysticalagriculture:block/flower/squid_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/squid_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/squid_seeds",
   "seed_model": "mysticalagriculture:item/squid_seeds",
   "particle_effects": []
 }

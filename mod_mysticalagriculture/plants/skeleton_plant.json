@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/skeleton_flower"
+        "mysticalagriculture:block/flower/skeleton_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/skeleton_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/skeleton_seeds",
   "seed_model": "mysticalagriculture:item/skeleton_seeds",
   "particle_effects": []
 }

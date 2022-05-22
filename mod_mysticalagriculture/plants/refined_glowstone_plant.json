@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/refined_glowstone_flower"
+        "mysticalagriculture:block/flower/refined_glowstone_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/refined_glowstone_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/refined_glowstone_seeds",
   "seed_model": "mysticalagriculture:item/refined_glowstone_seeds",
   "particle_effects": []
 }

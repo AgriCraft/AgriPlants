@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/dirt_flower"
+        "mysticalagriculture:block/flower/dirt_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/dirt_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/dirt_seeds",
   "seed_model": "mysticalagriculture:item/dirt_seeds",
   "particle_effects": []
 }

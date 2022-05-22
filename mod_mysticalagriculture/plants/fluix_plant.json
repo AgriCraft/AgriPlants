@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/fluix_flower"
+        "mysticalagriculture:block/flower/fluix_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/fluix_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/fluix_seeds",
   "seed_model": "mysticalagriculture:item/fluix_seeds",
   "particle_effects": []
 }

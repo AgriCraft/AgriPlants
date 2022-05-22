@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/copper_flower"
+        "mysticalagriculture:block/flower/copper_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/copper_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/copper_seeds",
   "seed_model": "mysticalagriculture:item/copper_seeds",
   "particle_effects": []
 }

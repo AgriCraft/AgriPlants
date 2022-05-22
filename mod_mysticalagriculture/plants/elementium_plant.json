@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/elementium_flower"
+        "mysticalagriculture:block/flower/elementium_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/elementium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/elementium_seeds",
   "seed_model": "mysticalagriculture:item/elementium_seeds",
   "particle_effects": []
 }

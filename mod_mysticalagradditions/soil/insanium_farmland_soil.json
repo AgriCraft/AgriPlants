@@ -1,6 +1,6 @@
 {
   "path": "mod_mysticalagradditions/soil/insanium_farmland_soil.json",
-  "version": "1.16.4",
+  "version": "1.18.2",
   "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_soil/",
   "enabled": true,
   "mods": [
@@ -11,13 +11,14 @@
   ],
   "id": "insanium_farmland_soil",
   "lang_key": "block.mysticalagradditions.insanium_farmland",
-  "varients": [
+  "variants": [
     {
+      "stateDefinition": [],
       "type": "block",
       "object": "mysticalagradditions:insanium_farmland",
       "useTag": false,
-      "data": "",
-      "ignoredData": [
+      "nbt": "",
+      "ignoredNbt": [
         "*"
       ]
     }

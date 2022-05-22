@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/steeleaf_flower"
+        "mysticalagriculture:block/flower/steeleaf_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/steeleaf_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/steeleaf_seeds",
   "seed_model": "mysticalagriculture:item/steeleaf_seeds",
   "particle_effects": []
 }

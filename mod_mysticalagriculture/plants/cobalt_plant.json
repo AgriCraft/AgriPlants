@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/cobalt_flower"
+        "mysticalagriculture:block/flower/cobalt_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/cobalt_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/cobalt_seeds",
   "seed_model": "mysticalagriculture:item/cobalt_seeds",
   "particle_effects": []
 }

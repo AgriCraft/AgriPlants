@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/aquamarine_flower"
+        "mysticalagriculture:block/flower/aquamarine_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/aquamarine_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/aquamarine_seeds",
   "seed_model": "mysticalagriculture:item/aquamarine_seeds",
   "particle_effects": []
 }

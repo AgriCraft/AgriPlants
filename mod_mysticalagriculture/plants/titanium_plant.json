@@ -140,7 +140,7 @@
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/titanium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/titanium_seeds",
   "seed_model": "mysticalagriculture:item/titanium_seeds",
   "particle_effects": []
 }

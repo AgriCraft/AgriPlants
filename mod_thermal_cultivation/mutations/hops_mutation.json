@@ -11,6 +11,6 @@
   "chance": 0.5,
   "child": "thermal:hops_plant",
   "parent1": "thermal:spinach_plant",
-  "parent2": "thermal:green_beans_plant",
+  "parent2": "thermal:green_bean_plant",
   "conditions": []
 }

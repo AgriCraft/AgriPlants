@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/compressed_iron_flower"
+        "mysticalagriculture:block/flower/compressed_iron_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/compressed_iron_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/compressed_iron_seeds",
   "seed_model": "mysticalagriculture:item/compressed_iron_seeds",
   "particle_effects": []
 }

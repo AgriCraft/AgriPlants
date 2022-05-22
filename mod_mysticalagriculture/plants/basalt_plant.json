@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/basalt_flower"
+        "mysticalagriculture:block/flower/basalt_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/basalt_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/basalt_seeds",
   "seed_model": "mysticalagriculture:item/basalt_seeds",
   "particle_effects": []
 }

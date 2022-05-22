@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/invar_flower"
+        "mysticalagriculture:block/flower/invar_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/invar_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/invar_seeds",
   "seed_model": "mysticalagriculture:item/invar_seeds",
   "particle_effects": []
 }

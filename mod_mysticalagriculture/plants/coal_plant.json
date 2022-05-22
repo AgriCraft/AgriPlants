@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/coal_flower"
+        "mysticalagriculture:block/flower/coal_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/coal_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/coal_seeds",
   "seed_model": "mysticalagriculture:item/coal_seeds",
   "particle_effects": []
 }

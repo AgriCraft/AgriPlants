@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/cyanite_flower"
+        "mysticalagriculture:block/flower/cyanite_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/cyanite_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/cyanite_seeds",
   "seed_model": "mysticalagriculture:item/cyanite_seeds",
   "particle_effects": []
 }

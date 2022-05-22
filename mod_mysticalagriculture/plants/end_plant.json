@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/end_flower"
+        "mysticalagriculture:block/flower/end_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/end_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/end_seeds",
   "seed_model": "mysticalagriculture:item/end_seeds",
   "particle_effects": []
 }

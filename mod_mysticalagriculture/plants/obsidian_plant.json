@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/obsidian_flower"
+        "mysticalagriculture:block/flower/obsidian_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/obsidian_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/obsidian_seeds",
   "seed_model": "mysticalagriculture:item/obsidian_seeds",
   "particle_effects": []
 }

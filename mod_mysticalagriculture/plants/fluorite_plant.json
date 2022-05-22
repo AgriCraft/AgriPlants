@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/fluorite_flower"
+        "mysticalagriculture:block/flower/fluorite_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/fluorite_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/fluorite_seeds",
   "seed_model": "mysticalagriculture:item/fluorite_seeds",
   "particle_effects": []
 }

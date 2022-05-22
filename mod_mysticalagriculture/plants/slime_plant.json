@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_mob_crop_7",
-        "mysticalagriculture:block/slime_flower"
+        "mysticalagriculture:block/flower/slime_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/slime_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/slime_seeds",
   "seed_model": "mysticalagriculture:item/slime_seeds",
   "particle_effects": []
 }

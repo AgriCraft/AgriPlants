@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/draconium_flower"
+        "mysticalagriculture:block/flower/draconium_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/draconium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/draconium_seeds",
   "seed_model": "mysticalagriculture:item/draconium_seeds",
   "particle_effects": []
 }

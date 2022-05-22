@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/bronze_flower"
+        "mysticalagriculture:block/flower/bronze_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/bronze_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/bronze_seeds",
   "seed_model": "mysticalagriculture:item/bronze_seeds",
   "particle_effects": []
 }

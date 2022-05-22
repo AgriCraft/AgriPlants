@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/queens_slime_flower"
+        "mysticalagriculture:block/flower/queens_slime_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/queens_slime_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/queens_slime_seeds",
   "seed_model": "mysticalagriculture:item/queens_slime_seeds",
   "particle_effects": []
 }

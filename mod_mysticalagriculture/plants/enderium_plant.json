@@ -135,12 +135,12 @@
       ],
       [
         "mysticalagriculture:block/mystical_resource_crop_7",
-        "mysticalagriculture:block/enderium_flower"
+        "mysticalagriculture:block/flower/enderium_flower"
       ]
     ],
     "journal_overrides": []
   },
-  "seed_texture": "mysticalagriculture:item/enderium_seeds",
+  "seed_texture": "mysticalagriculture:item/seeds/enderium_seeds",
   "seed_model": "mysticalagriculture:item/enderium_seeds",
   "particle_effects": []
 }
