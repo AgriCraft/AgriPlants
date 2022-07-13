@@ -9,7 +9,7 @@
     "minecraft"
   ],
   "id": "farmersdelight:rice_plant",
-  "plant_lang_key": "block.farmersdelight.rice_crop",
+  "plant_lang_key": "block.farmersdelight.rice",
   "seed_lang_key": "item.farmersdelight.rice",
   "desc_lang_key": "agricraft.plant.farmersdelight_rice.desc",
   "seed_items": [
@@ -141,20 +141,20 @@
         "farmersdelight:block/rice_stage3"
       ],
       [
-        "farmersdelight:block/rice_upper_crop_stage0",
-        "farmersdelight:block/rice_supporting"
+        "farmersdelight:block/rice_stage3",
+        "farmersdelight:block/rice_panicles_stage0"
       ],
       [
-        "farmersdelight:block/rice_upper_crop_stage1",
-        "farmersdelight:block/rice_supporting"
+        "farmersdelight:block/rice_stage3",
+        "farmersdelight:block/rice_panicles_stage1"
       ],
       [
-        "farmersdelight:block/rice_upper_crop_stage2",
-        "farmersdelight:block/rice_supporting"
+        "farmersdelight:block/rice_stage3",
+        "farmersdelight:block/rice_panicles_stage2"
       ],
       [
-        "farmersdelight:block/rice_upper_crop_stage3",
-        "farmersdelight:block/rice_supporting"
+        "farmersdelight:block/rice_stage3",
+        "farmersdelight:block/rice_panicles_stage3"
       ]
     ],
     "journal_overrides": []
