@@ -141,20 +141,20 @@
         "farmersdelight:block/rice_stage3"
       ],
       [
-        "farmersdelight:block/rice_stage3",
-        "farmersdelight:block/rice_panicles_stage0"
+        "farmersdelight:block/rice_panicles_stage0",
+        "farmersdelight:block/rice_supporting"
       ],
       [
-        "farmersdelight:block/rice_stage3",
-        "farmersdelight:block/rice_panicles_stage1"
+        "farmersdelight:block/rice_panicles_stage1",
+        "farmersdelight:block/rice_supporting"
       ],
       [
-        "farmersdelight:block/rice_stage3",
-        "farmersdelight:block/rice_panicles_stage2"
+        "farmersdelight:block/rice_panicles_stage2",
+        "farmersdelight:block/rice_supporting"
       ],
       [
-        "farmersdelight:block/rice_stage3",
-        "farmersdelight:block/rice_panicles_stage3"
+        "farmersdelight:block/rice_panicles_stage3",
+        "farmersdelight:block/rice_supporting"
       ]
     ],
     "journal_overrides": []
