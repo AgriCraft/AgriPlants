@@ -1,0 +1,16 @@
+{
+  "path": "mod_byg/mutations/yellow_tulip_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:yellow_tulip_plant",
+  "parent1": "minecraft:orange_tulip_plant",
+  "parent2": "minecraft:white_tulip_plant",
+  "conditions": []
+}

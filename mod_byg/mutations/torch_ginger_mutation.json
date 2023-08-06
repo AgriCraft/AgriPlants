@@ -1,0 +1,16 @@
+{
+  "path": "mod_byg/mutations/torch_ginger_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:torch_ginger_plant",
+  "parent1": "byg:rose_plant",
+  "parent2": "minecraft:poppy_plant",
+  "conditions": []
+}
