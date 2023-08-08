@@ -1,0 +1,16 @@
+{
+  "path": "mod_byg/mutations/blue_sage_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:blue_sage_plant",
+  "parent1": "byg:white_sage_plant",
+  "parent2": "minecraft:cornflower_plant",
+  "conditions": []
+}

@@ -1,0 +1,16 @@
+{
+  "path": "mod_byg/mutations/amaranth_mutation.json",
+  "version": "1.18.2",
+  "json_documentation": "https://agridocs.readthedocs.io/en/master/agri_mutation/",
+  "enabled": true,
+  "mods": [
+    "byg",
+    "agricraft",
+    "minecraft"
+  ],
+  "chance": 0.5,
+  "child": "byg:amaranth_plant",
+  "parent1": "minecraft:wheat_plant",
+  "parent2": "minecraft:pink_tulip_plant",
+  "conditions": []
+}
